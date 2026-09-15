@@ -1,0 +1,381 @@
+/* ============================================================================
+   DEMON — център за управления · сайт
+   Тъмна тема в стила на таблото: тъмносин фон, червени акценти за DEMON.
+   Ръчно написан CSS — без рамкове и CDN. Мобилен-friendly.
+   ============================================================================ */
+
+:root {
+  --bg: #0b1220;            /* основен тъмносин */
+  --bg-alt: #0e1729;        /* редуващи се секции */
+  --bg-card: #131f36;       /* карти */
+  --line: #22314f;          /* рамки */
+  --text: #dfe6f2;          /* основен текст */
+  --text-dim: #93a1bd;      /* вторичен текст */
+  --red: #e0242e;           /* DEMON червено */
+  --red-dark: #a8151d;
+  --red-glow: rgba(224, 36, 46, 0.35);
+  --radius: 10px;
+  --maxw: 1080px;
+}
+
+* { box-sizing: border-box; }
+
+html { scroll-behavior: smooth; }
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font-family: "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+  font-size: 17px;
+  line-height: 1.65;
+}
+
+.wrap {
+  max-width: var(--maxw);
+  margin: 0 auto;
+  padding: 0 24px;
+}
+
+.wrap-narrow { max-width: 780px; }
+
+h1, h2, h3 { line-height: 1.25; margin: 0 0 0.6em; font-weight: 700; }
+h1 { font-size: 2.5rem; }
+h2 { font-size: 1.9rem; }
+h3 { font-size: 1.15rem; }
+p { margin: 0 0 1em; }
+
+a { color: var(--red); text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+code {
+  background: #1b2a47;
+  border: 1px solid var(--line);
+  border-radius: 5px;
+  padding: 1px 6px;
+  font-size: 0.9em;
+}
+
+/* ---------- бутони ---------- */
+
+.btn {
+  display: inline-block;
+  background: var(--red);
+  color: #fff;
+  font-weight: 600;
+  padding: 13px 28px;
+  border-radius: var(--radius);
+  border: 1px solid var(--red-dark);
+  box-shadow: 0 0 18px var(--red-glow);
+  transition: background 0.15s ease, transform 0.1s ease;
+}
+.btn:hover { background: #f02d38; text-decoration: none; transform: translateY(-1px); }
+.btn:active { transform: translateY(0); }
+
+.btn-ghost {
+  background: transparent;
+  border: 1px solid var(--line);
+  color: var(--text);
+  box-shadow: none;
+}
+.btn-ghost:hover { background: #16223a; }
+
+.btn-big { font-size: 1.05rem; padding: 15px 34px; }
+.btn-small { padding: 8px 16px; font-size: 0.9rem; }
+
+/* ---------- хедър ---------- */
+
+.site-header {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background: rgba(11, 18, 32, 0.92);
+  backdrop-filter: blur(6px);
+  border-bottom: 1px solid var(--line);
+}
+
+.header-inner {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+  padding-top: 14px;
+  padding-bottom: 14px;
+  flex-wrap: wrap;
+}
+
+.logo {
+  font-size: 1.5rem;
+  font-weight: 800;
+  letter-spacing: 2px;
+  color: var(--red);
+  text-shadow: 0 0 14px var(--red-glow);
+}
+.logo-sub {
+  display: block;
+  font-size: 0.68rem;
+  font-weight: 400;
+  letter-spacing: 1px;
+  color: var(--text-dim);
+}
+
+.nav { display: flex; gap: 18px; flex-wrap: wrap; margin-left: auto; }
+.nav a { color: var(--text-dim); font-size: 0.95rem; }
+.nav a:hover { color: var(--text); text-decoration: none; }
+
+.header-inner .btn-small { margin-left: 8px; }
+
+/* ---------- герой ---------- */
+
+.hero {
+  padding: 96px 0 72px;
+  background:
+    radial-gradient(ellipse 60% 80% at 75% 20%, rgba(224, 36, 46, 0.10), transparent 60%),
+    radial-gradient(ellipse 50% 60% at 15% 85%, rgba(35, 66, 122, 0.25), transparent 65%);
+}
+
+.hero h1 { max-width: 15em; }
+.hero h1 em { color: var(--red); font-style: normal; }
+
+.lead { font-size: 1.15rem; color: var(--text-dim); max-width: 44em; }
+.lead strong { color: var(--text); }
+
+.hero-actions { display: flex; gap: 14px; flex-wrap: wrap; margin-top: 28px; }
+
+.hero-note {
+  margin-top: 26px;
+  max-width: 40em;
+  font-size: 0.92rem;
+  color: var(--text-dim);
+  border-left: 3px solid var(--red);
+  padding-left: 14px;
+}
+
+/* ---------- секции ---------- */
+
+.section { padding: 72px 0; }
+.section-alt { background: var(--bg-alt); border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); }
+
+/* ---------- стъпки ---------- */
+
+.steps {
+  list-style: none;
+  margin: 36px 0 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 22px;
+}
+
+.step {
+  background: var(--bg-card);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  padding: 26px 24px;
+  position: relative;
+}
+
+.step-num {
+  display: inline-block;
+  width: 40px;
+  height: 40px;
+  line-height: 40px;
+  text-align: center;
+  border-radius: 50%;
+  background: var(--red);
+  color: #fff;
+  font-weight: 700;
+  font-size: 1.2rem;
+  margin-bottom: 14px;
+  box-shadow: 0 0 14px var(--red-glow);
+}
+
+.step p { color: var(--text-dim); margin-bottom: 0; font-size: 0.97rem; }
+
+/* ---------- цена ---------- */
+
+.price-grid {
+  display: grid;
+  grid-template-columns: 340px 1fr;
+  gap: 40px;
+  align-items: start;
+}
+
+.price-card {
+  background: var(--bg-card);
+  border: 1px solid var(--line);
+  border-top: 4px solid var(--red);
+  border-radius: var(--radius);
+  padding: 32px 28px;
+  text-align: center;
+  position: sticky;
+  top: 96px;
+}
+
+.price {
+  font-size: 3rem;
+  font-weight: 800;
+  color: #fff;
+  margin: 0.2em 0;
+}
+.price-note { color: var(--text-dim); font-size: 0.95rem; min-height: 2.6em; }
+
+.price-card .btn { display: block; margin-top: 14px; }
+
+.checklist { list-style: none; margin: 0; padding: 0; }
+.checklist li {
+  padding: 12px 0 12px 34px;
+  border-bottom: 1px solid var(--line);
+  position: relative;
+  color: var(--text-dim);
+}
+.checklist li:last-child { border-bottom: 0; }
+.checklist li::before {
+  content: "";
+  position: absolute;
+  left: 4px;
+  top: 18px;
+  width: 14px;
+  height: 8px;
+  border-left: 3px solid var(--red);
+  border-bottom: 3px solid var(--red);
+  transform: rotate(-45deg);
+}
+.checklist strong { color: var(--text); }
+
+/* ---------- изисквания ---------- */
+
+.reqs { list-style: none; margin: 24px 0 0; padding: 0; }
+.reqs li {
+  padding: 12px 0;
+  border-bottom: 1px solid var(--line);
+  color: var(--text-dim);
+}
+.reqs li:last-child { border-bottom: 0; }
+.reqs strong { color: var(--text); }
+
+/* ---------- честната секция ---------- */
+
+.section-honest {
+  background:
+    radial-gradient(ellipse 55% 70% at 85% 10%, rgba(224, 36, 46, 0.07), transparent 60%),
+    var(--bg);
+}
+
+.honest-lead { color: var(--text-dim); max-width: 42em; font-size: 1.08rem; }
+
+.honest-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 22px;
+  margin-top: 32px;
+}
+
+.honest-item {
+  background: var(--bg-card);
+  border: 1px solid var(--line);
+  border-left: 3px solid var(--red);
+  border-radius: var(--radius);
+  padding: 22px 24px;
+}
+.honest-item h3 { color: #fff; }
+.honest-item p { color: var(--text-dim); margin-bottom: 0; font-size: 0.97rem; }
+
+.honest-foot {
+  margin-top: 32px;
+  color: var(--text-dim);
+  font-size: 0.95rem;
+  max-width: 52em;
+}
+
+/* ---------- FAQ ---------- */
+
+.faq {
+  background: var(--bg-card);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  margin-bottom: 12px;
+  padding: 0;
+}
+
+.faq summary {
+  cursor: pointer;
+  padding: 16px 20px;
+  font-weight: 600;
+  list-style: none;
+  position: relative;
+  padding-right: 44px;
+}
+.faq summary::-webkit-details-marker { display: none; }
+.faq summary::after {
+  content: "+";
+  position: absolute;
+  right: 18px;
+  top: 12px;
+  font-size: 1.4rem;
+  color: var(--red);
+  transition: transform 0.15s ease;
+}
+.faq[open] summary::after { transform: rotate(45deg); }
+
+.faq p {
+  padding: 0 20px 18px;
+  margin: 0;
+  color: var(--text-dim);
+  font-size: 0.97rem;
+}
+
+/* ---------- контакт ---------- */
+
+.section-contact { text-align: center; }
+.contact-inner p { color: var(--text-dim); max-width: 40em; margin-left: auto; margin-right: auto; }
+
+.contact-big {
+  font-size: 2rem;
+  font-weight: 800;
+  color: #fff;
+  letter-spacing: 0.5px;
+  margin: 0.8em 0 0.3em;
+}
+
+.contact-mail { font-size: 0.95rem; }
+
+.contact-inner .hero-actions { justify-content: center; }
+
+/* ---------- футър ---------- */
+
+.site-footer {
+  border-top: 1px solid var(--line);
+  padding: 26px 0;
+  background: var(--bg-alt);
+}
+
+.footer-inner {
+  display: flex;
+  justify-content: space-between;
+  gap: 18px;
+  flex-wrap: wrap;
+  font-size: 0.85rem;
+  color: var(--text-dim);
+}
+.footer-inner span:first-child { color: var(--red); font-weight: 700; letter-spacing: 1px; }
+
+/* ---------- мобилен ---------- */
+
+@media (max-width: 860px) {
+  h1 { font-size: 1.9rem; }
+  h2 { font-size: 1.5rem; }
+
+  .header-inner { gap: 12px; }
+  .nav { order: 3; width: 100%; margin-left: 0; justify-content: center; }
+  .header-inner .btn-small { margin-left: auto; }
+
+  .hero { padding: 60px 0 48px; }
+  .section { padding: 52px 0; }
+
+  .steps { grid-template-columns: 1fr; }
+  .price-grid { grid-template-columns: 1fr; }
+  .price-card { position: static; }
+  .honest-grid { grid-template-columns: 1fr; }
+
+  .contact-big { font-size: 1.5rem; }
+}

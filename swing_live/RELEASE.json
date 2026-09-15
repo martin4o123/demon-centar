@@ -1,0 +1,21 @@
+{
+  "schema": 1,
+  "product_id": "admiral-swing-live",
+  "version": "0.9.19",
+  "published_utc": "2026-09-15T12:49:37.801921+00:00",
+  "notes": "Update channel moved to GitHub Pages: martin4o123.github.io/demon-centar. Installer accepts DEMON- short keys and offline package. Bootstrapper warns if Python 3.12 missing.",
+  "publisher": {
+    "algorithm": "RSA-3072-PKCS1v15-SHA256",
+    "key_id": "da6dbc7a152497ac",
+    "signature_file": "RELEASE.sig"
+  },
+  "integrity": {
+    "manifest": "MANIFEST.sha256",
+    "signature": "MANIFEST.sig"
+  },
+  "installer": {
+    "file": "releases/0.9.19/swing_live-0.9.19.zip",
+    "bytes": 140023,
+    "sha256": "031cf3306d0556836b15bc4047c1dbfe6a2f23ca41d5176f9dd702a9c0929e36"
+  }
+}
