@@ -1,9 +1,9 @@
 {
   "schema": 1,
   "product_id": "admiral-swing-live",
-  "version": "0.9.21",
-  "published_utc": "2026-09-17T16:39:31.457430+00:00",
-  "notes": "Клиентски UX: STOP.flag с еднокликов бутон в Готовност; auto-clear при първа активация; bridge проверка с fallback към живи статус файлове; fix: пълен път до powershell в _engine_pids и health_check (спрян rollback-ът, връщал STOP.flag).",
+  "version": "0.9.22",
+  "published_utc": "2026-09-17T19:13:48.979807+00:00",
+  "notes": "Критично: откриване на „Disable algorithmic trading via external Python API“ (нова MT5 опция, която блокира робота дори при включен Algo Trading) — точно съобщение за отстраняване в health check и Готовност; нова проверка „Търговия през Python API“ в Готовност.",
   "publisher": {
     "algorithm": "RSA-3072-PKCS1v15-SHA256",
     "key_id": "da6dbc7a152497ac",
@@ -14,8 +14,8 @@
     "signature": "MANIFEST.sig"
   },
   "installer": {
-    "file": "releases/0.9.21/swing_live-0.9.21.zip",
-    "bytes": 152317,
-    "sha256": "1093491952b948e1f16dcfb619cdb7226c8a451a9e0dc26b879da6d92eb969e5"
+    "file": "releases/0.9.22/swing_live-0.9.22.zip",
+    "bytes": 153141,
+    "sha256": "37a6e15221a14f6bab0b38d619e4329c2e3ca21c98cfdd612a8c92ecaf95dd45"
   }
 }
