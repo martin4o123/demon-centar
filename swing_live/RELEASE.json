@@ -1,9 +1,9 @@
 {
   "schema": 1,
   "product_id": "admiral-swing-live",
-  "version": "0.9.24",
-  "published_utc": "2026-09-17T20:21:55.207012+00:00",
-  "notes": "Златен ръкав: GOLD (XAUUSD при демото на Admirals) с per-symbol overrides — RSI 20/80 pullback в тренд, SL 1.5xATR; корелационна матрица + GOLD; symbol_overrides архитектура за бъдещи ръкаве.",
+  "version": "0.9.25",
+  "published_utc": "2026-09-17T21:17:18.471079+00:00",
+  "notes": "AI ЗВЯР: режимен класификатор (ML, обучен на 14г данни, 88.2% acc), байесов P(печалба) мозък, LLM мислещ слой (локален Ollama — мисли на български в таблото), авто-research конвейер (неделя 02:07). Тежестите regime_weights.json влизат в пакета.",
   "publisher": {
     "algorithm": "RSA-3072-PKCS1v15-SHA256",
     "key_id": "da6dbc7a152497ac",
@@ -14,8 +14,8 @@
     "signature": "MANIFEST.sig"
   },
   "installer": {
-    "file": "releases/0.9.24/swing_live-0.9.24.zip",
-    "bytes": 159670,
-    "sha256": "d4f8ca089b083d919eac54b9562dfe4618de7837419593d7e8ffc2a18a7389f3"
+    "file": "releases/0.9.25/swing_live-0.9.25.zip",
+    "bytes": 172604,
+    "sha256": "f615a025150e1016dac5b1ef34d5deda9ca2f34fb2e61e0fdf97c1e9927cfff8"
   }
 }
