@@ -1,9 +1,9 @@
 {
   "schema": 1,
   "product_id": "admiral-swing-live",
-  "version": "0.9.22",
-  "published_utc": "2026-09-17T19:13:48.979807+00:00",
-  "notes": "Критично: откриване на „Disable algorithmic trading via external Python API“ (нова MT5 опция, която блокира робота дори при включен Algo Trading) — точно съобщение за отстраняване в health check и Готовност; нова проверка „Търговия през Python API“ в Готовност.",
+  "version": "0.9.23",
+  "published_utc": "2026-09-17T19:52:13.694770+00:00",
+  "notes": "Инсталатор 43.5MB с вградени wheels+Python (офлайн инсталация — край на черния терминал); ROBOT.bat auto-repair + реална грешка; pip retry; Kelly дробен рик-мащабиране + корелационен пазач (sizing.py); research: S6 ensemble доклад — XAUUSD тренд-pullback е кандидат, останалото не мина гейта.",
   "publisher": {
     "algorithm": "RSA-3072-PKCS1v15-SHA256",
     "key_id": "da6dbc7a152497ac",
@@ -14,8 +14,8 @@
     "signature": "MANIFEST.sig"
   },
   "installer": {
-    "file": "releases/0.9.22/swing_live-0.9.22.zip",
-    "bytes": 153141,
-    "sha256": "37a6e15221a14f6bab0b38d619e4329c2e3ca21c98cfdd612a8c92ecaf95dd45"
+    "file": "releases/0.9.23/swing_live-0.9.23.zip",
+    "bytes": 159484,
+    "sha256": "5a95fe1176e4393a9bedd17a7fa58caba14aadef09b02a3633752dea945dc790"
   }
 }
