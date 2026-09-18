@@ -1,9 +1,9 @@
 {
   "schema": 1,
   "product_id": "admiral-swing-live",
-  "version": "0.9.25",
-  "published_utc": "2026-09-17T21:17:18.471079+00:00",
-  "notes": "AI ЗВЯР: режимен класификатор (ML, обучен на 14г данни, 88.2% acc), байесов P(печалба) мозък, LLM мислещ слой (локален Ollama — мисли на български в таблото), авто-research конвейер (неделя 02:07). Тежестите regime_weights.json влизат в пакета.",
+  "version": "0.9.26",
+  "published_utc": "2026-09-18T22:18:13.210123+00:00",
+  "notes": "Клиентско ниво: нова страница Аналитика (/analytics) — SVG equity крива без JS зависимости, 6 стат-карти (PF/WR/expectancy/DD), месечна разбивка, журнал на сделките. Детектор на аномалии (engine/anomaly.py) — спред/ping/проскалзяне с rate-limit и риск x0.7/x0.5. Роботът мисли на български всеки цикъл.",
   "publisher": {
     "algorithm": "RSA-3072-PKCS1v15-SHA256",
     "key_id": "da6dbc7a152497ac",
@@ -14,8 +14,8 @@
     "signature": "MANIFEST.sig"
   },
   "installer": {
-    "file": "releases/0.9.25/swing_live-0.9.25.zip",
-    "bytes": 172604,
-    "sha256": "f615a025150e1016dac5b1ef34d5deda9ca2f34fb2e61e0fdf97c1e9927cfff8"
+    "file": "releases/0.9.26/swing_live-0.9.26.zip",
+    "bytes": 178212,
+    "sha256": "cecef0af8a4baa87637e582ec7cf550b715ce6e36dbb1daa812a0f8a4352fdcb"
   }
 }
