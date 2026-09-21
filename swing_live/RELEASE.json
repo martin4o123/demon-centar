@@ -1,9 +1,9 @@
 {
   "schema": 1,
   "product_id": "admiral-swing-live",
-  "version": "0.9.28",
-  "published_utc": "2026-09-21T05:54:07.604751+00:00",
-  "notes": "КРИТИЧНО: H1 позициите никога не се управляваха — нямаше breakeven/trailing и фантомни затваряния с 0.0R. Сега: пер-записи по ticket, управление на всички позиции, проверка преди затваряне, ping sanity диапазон.",
+  "version": "0.9.29",
+  "published_utc": "2026-09-21T21:18:25.652166+00:00",
+  "notes": "Видимост на защитата: таблото показва R резултат и статус (breakeven/trailing с заключени R) за всяка позиция; state.json носи positions.all; trailing действията влизат в engine_s5.log; фикс time_msec (няма го в новата MetaTrader5 версия — get_positions падаше мълчаливо).",
   "publisher": {
     "algorithm": "RSA-3072-PKCS1v15-SHA256",
     "key_id": "da6dbc7a152497ac",
@@ -14,8 +14,8 @@
     "signature": "MANIFEST.sig"
   },
   "installer": {
-    "file": "releases/0.9.28/swing_live-0.9.28.zip",
-    "bytes": 179532,
-    "sha256": "ca7c018d3f4077d632c268c6f123d6c3e323d5cdc9d3c022677fa17b22a845da"
+    "file": "releases/0.9.29/swing_live-0.9.29.zip",
+    "bytes": 180302,
+    "sha256": "413a77e6859873d54457400107a9a8d35fab3fc976e80cc310644dded61275e8"
   }
 }
