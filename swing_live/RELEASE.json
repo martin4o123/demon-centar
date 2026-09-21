@@ -1,9 +1,9 @@
 {
   "schema": 1,
   "product_id": "admiral-swing-live",
-  "version": "0.9.27",
-  "published_utc": "2026-09-18T23:39:29.113207+00:00",
-  "notes": "Клиентски машини: динамично откриване на Python за двигателя (env→py launcher→известни пътища); bootstrap пачва машинно-зависимите пътища към LOCALAPPDATA на клиента.",
+  "version": "0.9.28",
+  "published_utc": "2026-09-21T05:54:07.604751+00:00",
+  "notes": "КРИТИЧНО: H1 позициите никога не се управляваха — нямаше breakeven/trailing и фантомни затваряния с 0.0R. Сега: пер-записи по ticket, управление на всички позиции, проверка преди затваряне, ping sanity диапазон.",
   "publisher": {
     "algorithm": "RSA-3072-PKCS1v15-SHA256",
     "key_id": "da6dbc7a152497ac",
@@ -14,8 +14,8 @@
     "signature": "MANIFEST.sig"
   },
   "installer": {
-    "file": "releases/0.9.27/swing_live-0.9.27.zip",
-    "bytes": 178548,
-    "sha256": "0996d3c7e3b42640ce40f1a99a46d67d3006043bfaf22840157a3fddb9bf923c"
+    "file": "releases/0.9.28/swing_live-0.9.28.zip",
+    "bytes": 179532,
+    "sha256": "ca7c018d3f4077d632c268c6f123d6c3e323d5cdc9d3c022677fa17b22a845da"
   }
 }
