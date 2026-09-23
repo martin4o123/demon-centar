@@ -1,9 +1,9 @@
 {
   "schema": 1,
   "product_id": "admiral-swing-live",
-  "version": "0.9.30",
-  "published_utc": "2026-09-21T21:40:55.999650+00:00",
-  "notes": "Край на мигането: всички планирани задачи скрити (S4U, вкл. DemonHealthCheck); таблото обвива subprocess.run/Popen с CREATE_NO_WINDOW — никакви видими конзоли от pythonw; health_check също.",
+  "version": "0.9.31",
+  "published_utc": "2026-09-23T18:43:16.831333+00:00",
+  "notes": "Стабилност: reconcile без фантомни затваряния при MT5 срив; режимен класификатор с NaN защита; авто-превързване на собствения лиценз при смяна на MachineGuid; research скенер без външни зависимости; подписващият инструмент вграден в проекта.",
   "publisher": {
     "algorithm": "RSA-3072-PKCS1v15-SHA256",
     "key_id": "da6dbc7a152497ac",
@@ -14,8 +14,8 @@
     "signature": "MANIFEST.sig"
   },
   "installer": {
-    "file": "releases/0.9.30/swing_live-0.9.30.zip",
-    "bytes": 180579,
-    "sha256": "c938e0c404363a2cbd0bfe06bb9aa56d21b5d26a702eeceaa6c82a79ee8bb8eb"
+    "file": "releases/0.9.31/swing_live-0.9.31.zip",
+    "bytes": 180938,
+    "sha256": "fb5cb78f0be75b92fff57ac6c8b79013bf7169ffde0adb51f94ac4c6e644453c"
   }
 }
