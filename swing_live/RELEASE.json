@@ -1,9 +1,9 @@
 {
   "schema": 1,
   "product_id": "admiral-swing-live",
-  "version": "0.9.31",
-  "published_utc": "2026-09-23T18:43:16.831333+00:00",
-  "notes": "Стабилност: reconcile без фантомни затваряния при MT5 срив; режимен класификатор с NaN защита; авто-превързване на собствения лиценз при смяна на MachineGuid; research скенер без външни зависимости; подписващият инструмент вграден в проекта.",
+  "version": "0.9.32",
+  "published_utc": "2026-09-24T07:25:36.328364+00:00",
+  "notes": "DEMON_Levels индикатор за MT5 (вход/SL/R-нивата върху графиката), default.tpl за автоматично качване на нови графики, жива аналитика с отворени позиции, свежа проверка на акаунта всеки цикъл (live безопасност)",
   "publisher": {
     "algorithm": "RSA-3072-PKCS1v15-SHA256",
     "key_id": "da6dbc7a152497ac",
@@ -14,8 +14,8 @@
     "signature": "MANIFEST.sig"
   },
   "installer": {
-    "file": "releases/0.9.31/swing_live-0.9.31.zip",
-    "bytes": 180938,
-    "sha256": "fb5cb78f0be75b92fff57ac6c8b79013bf7169ffde0adb51f94ac4c6e644453c"
+    "file": "releases/0.9.32/swing_live-0.9.32.zip",
+    "bytes": 201024,
+    "sha256": "e20c3491db87b22ac635cd7a411a9f2a76087a8e7bbf694a9169cac5f96587c3"
   }
 }
