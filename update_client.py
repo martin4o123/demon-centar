@@ -279,12 +279,12 @@ def main() -> int:
         for p in apply_src.rglob("*"):
             if p.is_dir():
                 continue
-            rel = p.relative_to(apply_src)
+            rel_path = p.relative_to(apply_src)
             # default.tpl не се презаписва: при първа инсталация го няма,
             # после потребителят може да си е пипнал шаблона — пазим го
-            if str(rel).replace("\\", "/") == "mt5_portable/MQL5/Profiles/Templates/default.tpl" and (BASE / rel).exists():
+            if str(rel_path).replace("\\", "/") == "mt5_portable/MQL5/Profiles/Templates/default.tpl" and (BASE / rel_path).exists():
                 continue
-            dest = BASE / rel
+            dest = BASE / rel_path
             dest.parent.mkdir(parents=True, exist_ok=True)
             shutil.copy2(p, dest)
     if tmp_zip:
