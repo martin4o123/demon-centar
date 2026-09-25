@@ -1,9 +1,9 @@
 {
   "schema": 1,
   "product_id": "admiral-swing-live",
-  "version": "0.9.34",
-  "published_utc": "2026-09-25T20:57:18.147710+00:00",
-  "notes": "Фикс: update_client/health_check BASE от местоположението на скрипта вместо твърд D:\\ — ROBOT update гръмна при клиент без D: диск; ъпдейтът сега се прилага наистина",
+  "version": "0.9.35",
+  "published_utc": "2026-09-25T21:01:54.256707+00:00",
+  "notes": "Updater: banlist стъпката вече не може да блокира ъпдейта (кокошка-яйце при самообновяване)",
   "publisher": {
     "algorithm": "RSA-3072-PKCS1v15-SHA256",
     "key_id": "da6dbc7a152497ac",
@@ -14,8 +14,8 @@
     "signature": "MANIFEST.sig"
   },
   "installer": {
-    "file": "releases/0.9.34/swing_live-0.9.34.zip",
-    "bytes": 212602,
-    "sha256": "e415fd180d97478fd0b045565eaeb3fafe2c1fe3f1bced900a6287f480b9235f"
+    "file": "releases/0.9.35/swing_live-0.9.35.zip",
+    "bytes": 212683,
+    "sha256": "33e8eb47c077e04906c46a83bc000a9819af87efb290ac2e28ed3991ba83254b"
   }
 }
