@@ -27,8 +27,8 @@ try:
 except Exception:
     pass
 
-# BASE от местоположението на скрипта — еднакво работи на машината на
-# собственика и при клиенти (твърдият D:\ път счупваше ъпдейта на клиенти).
+                                                                     
+                                                                           
 BASE = Path(__file__).resolve().parents[1]
 DRIVE = Path(r"G:\My Drive\AdmiralAI_Shared\swing_live")
 RELEASE_BASE_URL = "https://martin4o123.github.io/demon-centar/swing_live"
@@ -186,8 +186,8 @@ def main() -> int:
     else:
         rel_bytes = (DRIVE / "RELEASE.json").read_bytes()
 
-    # banlist-ът важи и при --check, и при --apply; НО грешка в него НИКОГА не
-    # спира ъпдейта (иначе стар updater не може да си донесе нов — кокошка-яйце).
+                                                                              
+                                                                                 
     try:
         (sync_banlist_http if http_mode else sync_banlist)()
     except Exception as exc:
@@ -251,7 +251,7 @@ def main() -> int:
         print("ОТКАЗ: sha256 на zip не съвпада")
         return 2
 
-    # фаза 2: цялост — verify MANIFEST.sig + sha256 на всички файли преди apply
+                                                                               
     sys.path.insert(0, str(BASE / "engine"))
     import integrity as _integrity
     with tempfile.TemporaryDirectory() as td:
@@ -266,7 +266,7 @@ def main() -> int:
                 return 2
         apply_src = Path(td)
 
-        # STOP координация
+                          
         STOP_FLAG.touch()
         time.sleep(3)
 
@@ -280,8 +280,8 @@ def main() -> int:
             if p.is_dir():
                 continue
             rel_path = p.relative_to(apply_src)
-            # default.tpl не се презаписва: при първа инсталация го няма,
-            # после потребителят може да си е пипнал шаблона — пазим го
+                                                                         
+                                                                       
             if str(rel_path).replace("\\", "/") == "mt5_portable/MQL5/Profiles/Templates/default.tpl" and (BASE / rel_path).exists():
                 continue
             dest = BASE / rel_path
