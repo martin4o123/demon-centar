@@ -1,9 +1,9 @@
 {
   "schema": 1,
   "product_id": "admiral-swing-live",
-  "version": "0.9.41",
-  "published_utc": "2026-09-25T21:57:24.772416+00:00",
-  "notes": "LEGEND.md влиза в пакета (страницата Легенда празна при клиенти)",
+  "version": "0.9.42",
+  "published_utc": "2026-09-25T22:12:11.206464+00:00",
+  "notes": "Старт на робота: реалната грешка от лога идва веднага в известието при отказ",
   "publisher": {
     "algorithm": "RSA-3072-PKCS1v15-SHA256",
     "key_id": "da6dbc7a152497ac",
@@ -14,8 +14,8 @@
     "signature": "MANIFEST.sig"
   },
   "installer": {
-    "file": "releases/0.9.41/swing_live-0.9.41.zip",
-    "bytes": 1745328,
-    "sha256": "32e13cb2ba6c3ae21feac4a86819ef08aa3ede00999bedcb11bf0a60b440a02c"
+    "file": "releases/0.9.42/swing_live-0.9.42.zip",
+    "bytes": 1745492,
+    "sha256": "b4caed27cc78ec7df6842125b252dad09898d2b9864324a859c4c3b393bc98c6"
   }
 }
