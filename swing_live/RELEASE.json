@@ -1,9 +1,9 @@
 {
   "schema": 1,
   "product_id": "admiral-swing-live",
-  "version": "0.9.32",
-  "published_utc": "2026-09-24T07:25:36.328364+00:00",
-  "notes": "DEMON_Levels индикатор за MT5 (вход/SL/R-нивата върху графиката), default.tpl за автоматично качване на нови графики, жива аналитика с отворени позиции, свежа проверка на акаунта всеки цикъл (live безопасност)",
+  "version": "0.9.33",
+  "published_utc": "2026-09-25T20:42:35.283722+00:00",
+  "notes": "Фикс: tools/license_tool.py+banlist.py+публични ключове влизат в клиентския пакет — таблото падаше с FileNotFoundError при първи старт на чиста инсталация",
   "publisher": {
     "algorithm": "RSA-3072-PKCS1v15-SHA256",
     "key_id": "da6dbc7a152497ac",
@@ -14,8 +14,8 @@
     "signature": "MANIFEST.sig"
   },
   "installer": {
-    "file": "releases/0.9.32/swing_live-0.9.32.zip",
-    "bytes": 201024,
-    "sha256": "e20c3491db87b22ac635cd7a411a9f2a76087a8e7bbf694a9169cac5f96587c3"
+    "file": "releases/0.9.33/swing_live-0.9.33.zip",
+    "bytes": 212477,
+    "sha256": "5dd504ec8b0e9284be7a935bcc8d503daa0c5e4665b5d6aaca6057e7c7680432"
   }
 }
