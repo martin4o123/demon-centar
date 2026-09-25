@@ -1,9 +1,9 @@
 {
   "schema": 1,
   "product_id": "admiral-swing-live",
-  "version": "0.9.36",
-  "published_utc": "2026-09-25T21:10:45.490014+00:00",
-  "notes": "Фикс: променлива rel се засенчваше в apply цикъла — ъпдейтът прилагаше файловете, но гръмваше при записа на версията",
+  "version": "0.9.37",
+  "published_utc": "2026-09-25T21:17:16.031929+00:00",
+  "notes": "assets/ влиза в клиентския пакет (логото); /logo.png вече не 500-ва при липсваща икона",
   "publisher": {
     "algorithm": "RSA-3072-PKCS1v15-SHA256",
     "key_id": "da6dbc7a152497ac",
@@ -14,8 +14,8 @@
     "signature": "MANIFEST.sig"
   },
   "installer": {
-    "file": "releases/0.9.36/swing_live-0.9.36.zip",
-    "bytes": 212681,
-    "sha256": "a32e2bf40557df55791c07f4d1c6b2be3778fe75150a34d9a7bdbb68a10b1169"
+    "file": "releases/0.9.37/swing_live-0.9.37.zip",
+    "bytes": 1748659,
+    "sha256": "5751d1979a1e83c6d48c06e292517d924fffe5767459d4435ecd989fee5ea0ae"
   }
 }
