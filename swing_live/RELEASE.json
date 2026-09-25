@@ -1,9 +1,9 @@
 {
   "schema": 1,
   "product_id": "admiral-swing-live",
-  "version": "0.9.38",
-  "published_utc": "2026-09-25T21:29:00.529935+00:00",
-  "notes": "Проверките за стария AdmiralBeta слой (bridge/heartbeat/mt5_status) стават 'не се изисква' на чисти инсталации — S5 говори с MT5 директно през Python",
+  "version": "0.9.39",
+  "published_utc": "2026-09-25T21:44:06.888617+00:00",
+  "notes": "Десктоп прозорец (собствен прозорец, не браузър); кодът е почистен от коментари",
   "publisher": {
     "algorithm": "RSA-3072-PKCS1v15-SHA256",
     "key_id": "da6dbc7a152497ac",
@@ -14,8 +14,8 @@
     "signature": "MANIFEST.sig"
   },
   "installer": {
-    "file": "releases/0.9.38/swing_live-0.9.38.zip",
-    "bytes": 1749017,
-    "sha256": "56f0d2de24bef35bc5d3d8b1efc2047dcd081a180bfed9fc87c5365bfb78a0f6"
+    "file": "releases/0.9.39/swing_live-0.9.39.zip",
+    "bytes": 1740380,
+    "sha256": "9128c9a4123fabb1d495ed9821133c0439313e7c7f576cd89ef04af247f6915a"
   }
 }
