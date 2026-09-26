@@ -10,6 +10,7 @@ set "STOP=%BASE%STOP.flag"
 if "%~1"=="stop" goto STOP
 if "%~1"=="status" goto STATUS
 if "%~1"=="update" goto UPDATE
+if "%~1"=="test" goto TEST
 if "%~1"=="uninstall" goto UNINST
 
 :START
@@ -67,6 +68,10 @@ exit /b 0
 
 :UPDATE
 py -3.12 "%BASE%scripts\update_client.py" --apply
+exit /b 0
+
+:TEST
+py -3.12 "%BASE%scripts\selftest.py"
 exit /b 0
 
 :UNINST

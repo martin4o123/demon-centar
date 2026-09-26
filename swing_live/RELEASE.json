@@ -1,9 +1,9 @@
 {
   "schema": 1,
   "product_id": "admiral-swing-live",
-  "version": "0.9.45",
-  "published_utc": "2026-09-26T16:06:01.198452+00:00",
-  "notes": "Телеметрията е активна за клиентите: config/telemetry.json носи ключа; всяка грешка (SafetyError, падане, лиценз) пътува криптирана към собственика",
+  "version": "0.9.46",
+  "published_utc": "2026-09-26T18:15:27.726860+00:00",
+  "notes": "Самопроверка (selftest.py + ROBOT test): проверява файлове, подпис, библиотеки, лиценз, MT5, двигател, диск, версия — и докладва през криптираната телеметрия; след всеки ъпдейт се пуска сама; автоматичен ежедневен ъпдейт (09:47); десктоп иконата е истинската демонска",
   "publisher": {
     "algorithm": "RSA-3072-PKCS1v15-SHA256",
     "key_id": "da6dbc7a152497ac",
@@ -14,8 +14,8 @@
     "signature": "MANIFEST.sig"
   },
   "installer": {
-    "file": "releases/0.9.45/swing_live-0.9.45.zip",
-    "bytes": 1752210,
-    "sha256": "8f6ddb33889392788834bfe52fd8216324af93601e7ca6fbcf3e22d1f7ccc91e"
+    "file": "releases/0.9.46/swing_live-0.9.46.zip",
+    "bytes": 1755896,
+    "sha256": "328102507fc4fdfa5fca963131e7787f797f25d3235b0ddc0444eaf48e7e348a"
   }
 }
