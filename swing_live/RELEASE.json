@@ -1,9 +1,9 @@
 {
   "schema": 1,
   "product_id": "admiral-swing-live",
-  "version": "0.9.43",
-  "published_utc": "2026-09-26T10:57:16.909022+00:00",
-  "notes": "Криптирана телеметрия: грешките от клиентските машини се изпращат автоматично към собственика (AES-256-GCM + RSA-OAEP); старт на робота показва реалната грешка веднага",
+  "version": "0.9.44",
+  "published_utc": "2026-09-26T12:02:52.338991+00:00",
+  "notes": "Настройки → Система: бутони Автоматичен старт на всичко, Пауза на автопроверките (QUIET.flag — клиентът затваря MT5 без програмата да го отваря), Изключи системата; watchdog уважава QUIET.flag",
   "publisher": {
     "algorithm": "RSA-3072-PKCS1v15-SHA256",
     "key_id": "da6dbc7a152497ac",
@@ -14,8 +14,8 @@
     "signature": "MANIFEST.sig"
   },
   "installer": {
-    "file": "releases/0.9.43/swing_live-0.9.43.zip",
-    "bytes": 1750787,
-    "sha256": "28830c7eb6a670ba996531e22620be6e41ddbad460ebfdd3d07d3566059608f4"
+    "file": "releases/0.9.44/swing_live-0.9.44.zip",
+    "bytes": 1752119,
+    "sha256": "8d35ebef0dca312b0ecd6c39b3e113aad804e615b23a341388780f196fde6443"
   }
 }
