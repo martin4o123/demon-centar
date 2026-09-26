@@ -1,9 +1,9 @@
 {
   "schema": 1,
   "product_id": "admiral-swing-live",
-  "version": "0.9.47",
-  "published_utc": "2026-09-26T21:39:39.860183+00:00",
-  "notes": "Токенът за телеметрия пътува в лицензния ключ (подписан канал), не в публични файлове — GitHub вече не може да го анулира; config/telemetry.json в пакета е празен",
+  "version": "0.9.48",
+  "published_utc": "2026-09-26T21:45:05.552594+00:00",
+  "notes": "Токенът се доставя и при всяка успешна лицензна проверка (не само при първо активиране) — подновяването на ключ влиза веднага",
   "publisher": {
     "algorithm": "RSA-3072-PKCS1v15-SHA256",
     "key_id": "da6dbc7a152497ac",
@@ -14,8 +14,8 @@
     "signature": "MANIFEST.sig"
   },
   "installer": {
-    "file": "releases/0.9.47/swing_live-0.9.47.zip",
-    "bytes": 1756172,
-    "sha256": "1a83d7e7679864699c840fa081e0c302e6da3a11808880b7f9cb149ca8f17b93"
+    "file": "releases/0.9.48/swing_live-0.9.48.zip",
+    "bytes": 1756205,
+    "sha256": "7dcea1726ba7b693bb3bcdf1826f0376c6e553d0f19338b9d7f9055c5ce03ec8"
   }
 }
