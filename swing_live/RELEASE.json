@@ -1,9 +1,9 @@
 {
   "schema": 1,
   "product_id": "admiral-swing-live",
-  "version": "0.9.50",
-  "published_utc": "2026-09-27T00:23:30.758786+00:00",
-  "notes": "Настройки: нова карта Лиценз — въвеждане на ключ директно в страницата; след активиране връща в Настройките",
+  "version": "0.9.51",
+  "published_utc": "2026-09-27T00:32:34.338005+00:00",
+  "notes": "Страницата Клиенти е само за собственика (невидима и недостъпна за клиентски машини); лаптопът вече не я вижда",
   "publisher": {
     "algorithm": "RSA-3072-PKCS1v15-SHA256",
     "key_id": "da6dbc7a152497ac",
@@ -14,8 +14,8 @@
     "signature": "MANIFEST.sig"
   },
   "installer": {
-    "file": "releases/0.9.50/swing_live-0.9.50.zip",
-    "bytes": 1757491,
-    "sha256": "36057823c50233a4c1d0f621456a00ad4161362157fe23f6208b894bf34260b1"
+    "file": "releases/0.9.51/swing_live-0.9.51.zip",
+    "bytes": 1757639,
+    "sha256": "cf5e47d30912496f10ef29d4c5a447ee94f4472198ced166648be67a189328b9"
   }
 }
