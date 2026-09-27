@@ -1,9 +1,9 @@
 {
   "schema": 1,
   "product_id": "admiral-swing-live",
-  "version": "0.9.51",
-  "published_utc": "2026-09-27T00:32:34.338005+00:00",
-  "notes": "Страницата Клиенти е само за собственика (невидима и недостъпна за клиентски машини); лаптопът вече не я вижда",
+  "version": "0.9.52",
+  "published_utc": "2026-09-27T10:20:12.276011+00:00",
+  "notes": "Настройки: бутоните за система (Старт/Ъпдейт/Пауза/Изключи) най-отгоре, нов бутон Ъпдейт; чисти инсталации: проверките за G: диск, Drive канал, Telegram secrets, бекъп и данните за пазара вече не са червени — по желание",
   "publisher": {
     "algorithm": "RSA-3072-PKCS1v15-SHA256",
     "key_id": "da6dbc7a152497ac",
@@ -14,8 +14,8 @@
     "signature": "MANIFEST.sig"
   },
   "installer": {
-    "file": "releases/0.9.51/swing_live-0.9.51.zip",
-    "bytes": 1757639,
-    "sha256": "cf5e47d30912496f10ef29d4c5a447ee94f4472198ced166648be67a189328b9"
+    "file": "releases/0.9.52/swing_live-0.9.52.zip",
+    "bytes": 1758406,
+    "sha256": "92b33cee6666e9c3e8ebe58540a7ac1a56b901b599491fac83b7a0e1bd701d96"
   }
 }
