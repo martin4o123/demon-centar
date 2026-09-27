@@ -1,9 +1,9 @@
 {
   "schema": 1,
   "product_id": "admiral-swing-live",
-  "version": "0.9.49",
-  "published_utc": "2026-09-26T22:35:54.361374+00:00",
-  "notes": "Страница Клиенти: наблюдение на всички машини (последно състояние, история, промени в настройките пристигат в реално време през телеметрията)",
+  "version": "0.9.50",
+  "published_utc": "2026-09-27T00:23:30.758786+00:00",
+  "notes": "Настройки: нова карта Лиценз — въвеждане на ключ директно в страницата; след активиране връща в Настройките",
   "publisher": {
     "algorithm": "RSA-3072-PKCS1v15-SHA256",
     "key_id": "da6dbc7a152497ac",
@@ -14,8 +14,8 @@
     "signature": "MANIFEST.sig"
   },
   "installer": {
-    "file": "releases/0.9.49/swing_live-0.9.49.zip",
-    "bytes": 1757171,
-    "sha256": "21cfef06b4f22bf9fa772da1d32f3c93fb1d4c73260f7071aa2f5a5a7c992b3c"
+    "file": "releases/0.9.50/swing_live-0.9.50.zip",
+    "bytes": 1757491,
+    "sha256": "36057823c50233a4c1d0f621456a00ad4161362157fe23f6208b894bf34260b1"
   }
 }
