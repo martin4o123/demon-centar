@@ -1,9 +1,9 @@
 {
   "schema": 1,
   "product_id": "admiral-swing-live",
-  "version": "0.9.53",
-  "published_utc": "2026-09-28T17:25:19.880161+00:00",
-  "notes": "Watchdog: открива MT5, пуснат невидимо в чужда сесия (сесия 0), и го рестартира в сесията на потребителя",
+  "version": "0.9.54",
+  "published_utc": "2026-09-28T19:56:34.772147+00:00",
+  "notes": "Фикс: режимният AI класификатор работеше на x1.0 от 18.09 (numpy truthiness бъг в engine_s5) — сега класифицира реално. Пощальон v2: транзиентни празни отговори от GitHub се retry-ват, нечетимите събития отиват в карантина вместо да се трият.",
   "publisher": {
     "algorithm": "RSA-3072-PKCS1v15-SHA256",
     "key_id": "da6dbc7a152497ac",
@@ -14,8 +14,8 @@
     "signature": "MANIFEST.sig"
   },
   "installer": {
-    "file": "releases/0.9.53/swing_live-0.9.53.zip",
-    "bytes": 1758834,
-    "sha256": "c8c634963e13dc6740d4351924db575509fb49ce4ac410d582f7cb95b9bffd2c"
+    "file": "releases/0.9.54/swing_live-0.9.54.zip",
+    "bytes": 1759456,
+    "sha256": "aed02cc5900bed5ae760faa78ff73c0330b25a23a5dc14cb938b17e96e010bd6"
   }
 }
