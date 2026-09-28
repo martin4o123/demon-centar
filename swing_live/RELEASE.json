@@ -1,9 +1,9 @@
 {
   "schema": 1,
   "product_id": "admiral-swing-live",
-  "version": "0.9.52",
-  "published_utc": "2026-09-27T10:20:12.276011+00:00",
-  "notes": "Настройки: бутоните за система (Старт/Ъпдейт/Пауза/Изключи) най-отгоре, нов бутон Ъпдейт; чисти инсталации: проверките за G: диск, Drive канал, Telegram secrets, бекъп и данните за пазара вече не са червени — по желание",
+  "version": "0.9.53",
+  "published_utc": "2026-09-28T17:25:19.880161+00:00",
+  "notes": "Watchdog: открива MT5, пуснат невидимо в чужда сесия (сесия 0), и го рестартира в сесията на потребителя",
   "publisher": {
     "algorithm": "RSA-3072-PKCS1v15-SHA256",
     "key_id": "da6dbc7a152497ac",
@@ -14,8 +14,8 @@
     "signature": "MANIFEST.sig"
   },
   "installer": {
-    "file": "releases/0.9.52/swing_live-0.9.52.zip",
-    "bytes": 1758406,
-    "sha256": "92b33cee6666e9c3e8ebe58540a7ac1a56b901b599491fac83b7a0e1bd701d96"
+    "file": "releases/0.9.53/swing_live-0.9.53.zip",
+    "bytes": 1758834,
+    "sha256": "c8c634963e13dc6740d4351924db575509fb49ce4ac410d582f7cb95b9bffd2c"
   }
 }
