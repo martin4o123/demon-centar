@@ -1,8 +1,16 @@
 {
- "collected_utc": "2026-09-29T21:37:00.982745+00:00",
- "collected_epoch": 1790717820.982745,
+ "collected_utc": "2026-09-29T22:07:00.998336+00:00",
+ "collected_epoch": 1790719620.998336,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "Reuters",
+   "title": "Equities end slightly lower as bond yields hold near multi-decade highs",
+   "summary": "US stocks ended the session slightly lower on Tuesday, as government bond yields continued their ascent ahead of inflation and labor market ​data, while investors assessed comments from Federal Reserve officials for the path of interest rates.",
+   "url": "https://www.reuters.com/business/us-stock-futures-flat-tech-bounce-meets-crude-driven-caution-2026-09-29/",
+   "published_utc": "2026-09-29T09:57:54+00:00"
+  },
   {
    "provider": "gnews",
    "source": "The Manila Times",
@@ -74,14 +82,6 @@
    "summary": "Gold prices fell more than 2% on ​Monday as a rise in oil prices heightened inflation concerns and reinforced ‌expectations of further Federal Reserve interest-rate hikes.",
    "url": "https://www.reuters.com/world/india/gold-drops-more-than-1-us-rate-hike-bets-2026-09-28/",
    "published_utc": "2026-09-28T01:41:32+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "MarketScreener",
-   "title": "Gold drops more than 1% on US rate-hike bets",
-   "summary": "Gold prices fell more than 1% on Monday as a rise in oil prices heightened inflation concerns and reinforced expectations of further Federal Reserve interest rate hikes.\nSpot gold was...",
-   "url": "https://www.marketscreener.com/news/gold-drops-more-than-1-on-us-rate-hike-bets-ce785adcdb89f32d",
-   "published_utc": "2026-09-28T01:38:44+00:00"
   }
  ]
 }
