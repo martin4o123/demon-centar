@@ -1,8 +1,16 @@
 {
- "collected_utc": "2026-09-29T20:07:00.961584+00:00",
- "collected_epoch": 1790712420.961584,
+ "collected_utc": "2026-09-29T20:37:01.665841+00:00",
+ "collected_epoch": 1790714221.665841,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "The Manila Times",
+   "title": "Stocks drop and oil rises as Hormuz hopes fade",
+   "summary": "HONG KONG — Asian stocks mostly fell and oil prices extended gains Tuesday as hopes for a reopening of the Strait of Hormuz fade amid expectations the Federal Reserve will hike interest rates again next month.",
+   "url": "https://www.manilatimes.net/2026/09/29/business/foreign-business/stocks-drop-and-oil-rises-as-hormuz-hopes-fade/2434789",
+   "published_utc": "2026-09-29T08:31:00+00:00"
+  },
   {
    "provider": "gnews",
    "source": "CNA",
@@ -74,14 +82,6 @@
    "summary": "Gold prices fell more than 1% on Monday as a rise in oil prices heightened inflation concerns and reinforced expectations of further Federal Reserve interest rate hikes.\nSpot gold was...",
    "url": "https://www.marketscreener.com/news/gold-drops-more-than-1-on-us-rate-hike-bets-ce785adcdb89f32d",
    "published_utc": "2026-09-28T01:38:44+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "Livemint",
-   "title": "Gold Tilts Lower as Iran Impasse Continues to Fan Rate-Hike Bets",
-   "summary": "Gold was set to end to the week lower as elevated energy prices drove bond yields higher and fueled expectations the Federal Reserve will need to raise interest rates further to contain inflation.",
-   "url": "https://www.livemint.com/market/gold-tilts-lower-as-iran-impasse-continues-to-fan-rate-hike-bets-11790553903937.html",
-   "published_utc": "2026-09-28T00:05:03+00:00"
   }
  ]
 }
