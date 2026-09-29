@@ -1,8 +1,16 @@
 {
- "collected_utc": "2026-09-29T08:07:00.968805+00:00",
- "collected_epoch": 1790669220.968805,
+ "collected_utc": "2026-09-29T08:37:00.951145+00:00",
+ "collected_epoch": 1790671020.951145,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "The Economic Times",
+   "title": "US stocks: US market falls as higher oil prices, Treasury yields weigh",
+   "summary": "US stocks declined on concerns over rising oil prices and higher Treasury yields affecting the market. Investors are cautious due to uncertainty surrounding a potential Iran war peace deal negotiations. Federal Reserve officials hinted at possible interest rate hikes if inflation continues to rise significantly. Nvidia shares surged after announcing a record $150 billion share buyback, while Tesla shares dropped after a lowered price target.",
+   "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-market-falls-as-higher-oil-prices-treasury-yields-weigh/articleshow/134550029.cms",
+   "published_utc": "2026-09-28T20:11:00+00:00"
+  },
   {
    "provider": "gnews",
    "source": "NewsBytes",
@@ -74,14 +82,6 @@
    "summary": "Last week the US Federal Reserve, the world’s most influential central bank, increased interest rates for the first time since 2023. The 0.25% increase took...",
    "url": "https://www.nzherald.co.nz/business/fed-hiking-cycle-begins-what-the-latest-rate-rise-means-for-markets/premium/Z6SOEUXKLJBVFDNBV244M5FRDU/",
    "published_utc": "2026-09-27T15:00:00+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "Washington Examiner",
-   "title": "The Fed is fighting the wrong inflation war",
-   "summary": "Federal Reserve interest rate hikes cannot solve energy-driven inflation. They only squeeze working families and small businesses.",
-   "url": "https://www.washingtonexaminer.com/op-eds/4741497/fed-rate-hikes-wont-fix-inflation/",
-   "published_utc": "2026-09-27T13:00:00+00:00"
   }
  ]
 }
