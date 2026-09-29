@@ -1,0 +1,87 @@
+{
+ "collected_utc": "2026-09-29T05:02:18.691843+00:00",
+ "collected_epoch": 1790658138.691843,
+ "cached": false,
+ "items": [
+  {
+   "provider": "gnews",
+   "source": "NewsBytes",
+   "title": "Gold, silver ETFs tumble up to 3.6%",
+   "summary": "Gold and silver ETFs dropped by up to 3.6% on Monday as global precious metals markets reacted to inflation worries and anticipated US Federal Reserve interest rate hikes.",
+   "url": "https://www.newsbytesapp.com/news/business/gold-silver-etfs-tumble-up-to-3-6/story",
+   "published_utc": "2026-09-28T12:08:31+00:00"
+  },
+  {
+   "provider": "gnews",
+   "source": "The Economic Times",
+   "title": "US Market: Fed's Hammack warns against inflation becoming entrenched in economy",
+   "summary": "Federal Reserve Bank of Cleveland President Beth Hammack warned that persistently high inflation could entrench elevated price expectations among US households and businesses. She said monetary policy may not yet be sufficiently restrictive, citing resilient demand, strong business investment and a stable labour market. Hammack also noted that rising US bond yields reflect higher real interest rates and a solid economic outlook.",
+   "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-market-feds-hammack-warns-against-inflation-becoming-entrenched-in-economy/articleshow/134539089.cms",
+   "published_utc": "2026-09-28T10:20:00+00:00"
+  },
+  {
+   "provider": "gnews",
+   "source": "The Star",
+   "title": "Gold drops more than 2% on US rate-hike bets",
+   "summary": "GOLD prices fell more than 2% on Monday as a rise in oil prices heightened inflation concerns and reinforced expectations of further Federal Reserve interest-rate hikes.",
+   "url": "https://www.thestar.com.my/business/business-news/2026/09/28/gold-drops-more-than-2-on-us-rate-hike-bets",
+   "published_utc": "2026-09-28T08:21:00+00:00"
+  },
+  {
+   "provider": "gnews",
+   "source": "The Economic Times",
+   "title": "Dollar firms as US-Iran tensions lift oil, hawkish Fed bets build",
+   "summary": "The dollar showed strength as investors anticipated inflation data and central bank decisions this week. Oil prices increased due to ongoing US-Iran tensions, which raised concerns about energy supply. Analysts predict potential interest rate hikes from the Federal Reserve given current inflationary pressures. The Australian dollar is also expected to see a rate increase in a near-15-year high scenario.",
+   "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-firms-as-us-iran-tensions-lift-oil-hawkish-fed-bets-build/articleshow/134529719.cms",
+   "published_utc": "2026-09-28T01:58:00+00:00"
+  },
+  {
+   "provider": "gnews",
+   "source": "Reuters",
+   "title": "Gold drops more than 2% on US rate-hike bets",
+   "summary": "Gold prices fell more than 2% on ​Monday as a rise in oil prices heightened inflation concerns and reinforced ‌expectations of further Federal Reserve interest-rate hikes.",
+   "url": "https://www.reuters.com/world/india/gold-drops-more-than-1-us-rate-hike-bets-2026-09-28/",
+   "published_utc": "2026-09-28T01:41:32+00:00"
+  },
+  {
+   "provider": "gnews",
+   "source": "MarketScreener",
+   "title": "Gold drops more than 1% on US rate-hike bets",
+   "summary": "Gold prices fell more than 1% on Monday as a rise in oil prices heightened inflation concerns and reinforced expectations of further Federal Reserve interest rate hikes.\nSpot gold was...",
+   "url": "https://www.marketscreener.com/news/gold-drops-more-than-1-on-us-rate-hike-bets-ce785adcdb89f32d",
+   "published_utc": "2026-09-28T01:38:44+00:00"
+  },
+  {
+   "provider": "gnews",
+   "source": "Livemint",
+   "title": "Gold Tilts Lower as Iran Impasse Continues to Fan Rate-Hike Bets",
+   "summary": "Gold was set to end to the week lower as elevated energy prices drove bond yields higher and fueled expectations the Federal Reserve will need to raise interest rates further to contain inflation.",
+   "url": "https://www.livemint.com/market/gold-tilts-lower-as-iran-impasse-continues-to-fan-rate-hike-bets-11790553903937.html",
+   "published_utc": "2026-09-28T00:05:03+00:00"
+  },
+  {
+   "provider": "gnews",
+   "source": "Spokane Spokesman-Review",
+   "title": "Bessent Urges Fed to Keep ‘Open Mind’ on U.S. Inflation Outlook",
+   "summary": "Treasury Secretary Scott Bessent said Federal Reserve policymakers should keep an “open mind” on interest rates, arguing that productivity gains from artificial intelligence and deregulation will help keep U.S. inflation in check.",
+   "url": "https://www.spokesman.com/stories/2026/sep/27/bessent-urges-fed-to-keep-open-mind-on-us-inflatio/",
+   "published_utc": "2026-09-27T17:01:00+00:00"
+  },
+  {
+   "provider": "gnews",
+   "source": "The New Zealand Herald",
+   "title": "Fed hiking cycle begins: What the latest rate rise means for markets",
+   "summary": "Last week the US Federal Reserve, the world’s most influential central bank, increased interest rates for the first time since 2023. The 0.25% increase took...",
+   "url": "https://www.nzherald.co.nz/business/fed-hiking-cycle-begins-what-the-latest-rate-rise-means-for-markets/premium/Z6SOEUXKLJBVFDNBV244M5FRDU/",
+   "published_utc": "2026-09-27T15:00:00+00:00"
+  },
+  {
+   "provider": "gnews",
+   "source": "Washington Examiner",
+   "title": "The Fed is fighting the wrong inflation war",
+   "summary": "Federal Reserve interest rate hikes cannot solve energy-driven inflation. They only squeeze working families and small businesses.",
+   "url": "https://www.washingtonexaminer.com/op-eds/4741497/fed-rate-hikes-wont-fix-inflation/",
+   "published_utc": "2026-09-27T13:00:00+00:00"
+  }
+ ]
+}
