@@ -1,9 +1,9 @@
 {
   "schema": 1,
   "product_id": "admiral-swing-live",
-  "version": "0.9.58",
-  "published_utc": "2026-09-30T11:27:52.569528+00:00",
-  "notes": "Аналитика: карта на отворената позиция — вход/SL/текуща цена с оцветени зони и стрелка в посоката на печалбата (за SELL: печели при спад). Без промяна по двигателя.",
+  "version": "0.9.59",
+  "published_utc": "2026-09-30T16:22:08.602329+00:00",
+  "notes": "Настройките засичат САМИ сървъра/логина от MT5: превключване demo↔live без ръчно ровене във файлове. Live без съвпадащ терминал — ясен отказ с инструкция, не мъртъв двигател.",
   "publisher": {
     "algorithm": "RSA-3072-PKCS1v15-SHA256",
     "key_id": "da6dbc7a152497ac",
@@ -14,8 +14,8 @@
     "signature": "MANIFEST.sig"
   },
   "installer": {
-    "file": "releases/0.9.58/swing_live-0.9.58.zip",
-    "bytes": 1761901,
-    "sha256": "31542e3445c7635ffe810edcbeaf8890267f622a1a86f84b0ee4bcb2be8e011c"
+    "file": "releases/0.9.59/swing_live-0.9.59.zip",
+    "bytes": 1762508,
+    "sha256": "2dd0b0189059a6eb70021103797984d2965c6c482c9a1f23acf3e22fe4d4ea75"
   }
 }
