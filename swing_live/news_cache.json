@@ -1,8 +1,16 @@
 {
- "collected_utc": "2026-09-30T16:37:01.005426+00:00",
- "collected_epoch": 1790786221.005426,
+ "collected_utc": "2026-09-30T17:07:01.052823+00:00",
+ "collected_epoch": 1790788021.052823,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "Reuters",
+   "title": "Gold on track for monthly decline as investors brace for US inflation data",
+   "summary": "Gold prices steadied ​on Wednesday but were headed for a monthly loss as expectations of higher interest ‌rates weighed on sentiment, while investors awaited US inflation data for clues on the Federal Reserve's next policy move.",
+   "url": "https://www.reuters.com/world/india/gold-track-monthly-decline-investors-brace-us-inflation-data-2026-09-30/",
+   "published_utc": "2026-09-30T04:54:33+00:00"
+  },
   {
    "provider": "gnews",
    "source": "The Economic Times",
@@ -74,14 +82,6 @@
    "summary": "Too big a pullback in the US central bank's communications could lead to higher and more volatile interest rates and ​inflation if the public and businesses are left to guess ‌how it would react to different economic developments, St. Louis Federal Reserve President Alberto Musalem said on Tuesday.",
    "url": "https://www.reuters.com/business/finance/prospect-fed-pulling-too-far-back-communications-poses-volatility-risk-musalem-2026-09-29/",
    "published_utc": "2026-09-29T17:34:41+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "MarketScreener",
-   "title": "Fed's Barr says more rate hikes likely to be needed to curb inflation",
-   "summary": "Federal Reserve Governor Michael Barr on Tuesday made a renewed case for further interest rate hikes, noting that high energy prices and a surge in AI-related investment have meant we have been...\n-September 29, 2026 at 12:40 pm EDT\n- MarketScreener",
-   "url": "https://www.marketscreener.com/news/fed-s-barr-says-more-rate-hikes-likely-to-be-needed-to-curb-inflation-ce785addd180f420",
-   "published_utc": "2026-09-29T16:40:38+00:00"
   }
  ]
 }
