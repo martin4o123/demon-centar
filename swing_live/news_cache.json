@@ -1,8 +1,16 @@
 {
- "collected_utc": "2026-09-30T04:37:00.981837+00:00",
- "collected_epoch": 1790743020.981837,
+ "collected_utc": "2026-09-30T05:07:01.068905+00:00",
+ "collected_epoch": 1790744821.068905,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "MarketScreener",
+   "title": "Fed's Barr says more rate hikes likely to be needed to curb inflation",
+   "summary": "Federal Reserve Governor Michael Barr on Tuesday made a renewed case for further interest rate hikes, noting that high energy prices and a surge in AI-related investment have meant we have been...\n-September 29, 2026 at 12:40 pm EDT\n- MarketScreener",
+   "url": "https://www.marketscreener.com/news/fed-s-barr-says-more-rate-hikes-likely-to-be-needed-to-curb-inflation-ce785addd180f420",
+   "published_utc": "2026-09-29T16:40:38+00:00"
+  },
   {
    "provider": "gnews",
    "source": "MarketScreener",
@@ -74,14 +82,6 @@
    "summary": "GOLD prices fell more than 2% on Monday as a rise in oil prices heightened inflation concerns and reinforced expectations of further Federal Reserve interest-rate hikes.",
    "url": "https://www.thestar.com.my/business/business-news/2026/09/28/gold-drops-more-than-2-on-us-rate-hike-bets",
    "published_utc": "2026-09-28T08:21:00+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "The Economic Times",
-   "title": "Dollar firms as US-Iran tensions lift oil, hawkish Fed bets build",
-   "summary": "The dollar showed strength as investors anticipated inflation data and central bank decisions this week. Oil prices increased due to ongoing US-Iran tensions, which raised concerns about energy supply. Analysts predict potential interest rate hikes from the Federal Reserve given current inflationary pressures. The Australian dollar is also expected to see a rate increase in a near-15-year high scenario.",
-   "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-firms-as-us-iran-tensions-lift-oil-hawkish-fed-bets-build/articleshow/134529719.cms",
-   "published_utc": "2026-09-28T01:58:00+00:00"
   }
  ]
 }
