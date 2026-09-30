@@ -1,8 +1,16 @@
 {
- "collected_utc": "2026-09-30T14:07:01.044646+00:00",
- "collected_epoch": 1790777221.044646,
+ "collected_utc": "2026-09-30T14:37:00.988334+00:00",
+ "collected_epoch": 1790779020.988334,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "The Economic Times",
+   "title": "Gold heads for monthly decline, US inflation data looms",
+   "summary": "On Wednesday, gold prices remained stable, although they are poised for a monthly decline. Market participants are scrutinizing US inflation metrics to gauge the Federal Reserve's upcoming policies. The anticipated rise in interest rates is impacting gold alongside other precious metals. Additionally, a significant drop in consumer confidence has emerged amid worries over economic stability and tensions in the Middle East.",
+   "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-heads-for-monthly-decline-us-inflation-data-looms/articleshow/134577383.cms",
+   "published_utc": "2026-09-30T02:07:00+00:00"
+  },
   {
    "provider": "gnews",
    "source": "CNA",
@@ -74,14 +82,6 @@
    "summary": "Federal Reserve Governor Michael Barr on Tuesday made a renewed case for further interest rate hikes, noting that high energy prices and a surge in AI-related investment have meant we have been...\n-September 29, 2026 at 12:40 pm EDT\n- MarketScreener",
    "url": "https://www.marketscreener.com/news/fed-s-barr-says-more-rate-hikes-likely-to-be-needed-to-curb-inflation-ce785addd180f420",
    "published_utc": "2026-09-29T16:40:38+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "MarketScreener",
-   "title": "Dollar Rises to 2-Month High on Growing Prospect of October U.S. Rate-Rise",
-   "summary": "By Renae Dyer\nThe dollar rose to a two-month high against a basket of currencies on Tuesday, lifted by building expectations that the Federal Reserve will raise interest rates again as soon as...",
-   "url": "https://www.marketscreener.com/news/dollar-rises-to-2-month-high-on-growing-prospect-of-october-u-s-rate-rise-ce785adddc8df526",
-   "published_utc": "2026-09-29T11:44:25+00:00"
   }
  ]
 }
