@@ -1,8 +1,16 @@
 {
- "collected_utc": "2026-09-30T12:37:01.032663+00:00",
- "collected_epoch": 1790771821.032663,
+ "collected_utc": "2026-09-30T13:07:00.984499+00:00",
+ "collected_epoch": 1790773620.984499,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "The Straits Times",
+   "title": "US Federal Reserve’s Williams sees one more interest rate hike in late 2026",
+   "summary": "But he said there was no urgency to act following the Fed's decision to lift rates this month. Read more at straitstimes.com.",
+   "url": "https://www.straitstimes.com/business/economy/us-federal-reserves-williams-sees-one-more-interest-rate-hike-in-late-2026",
+   "published_utc": "2026-09-30T00:55:00+00:00"
+  },
   {
    "provider": "gnews",
    "source": "The Economic Times",
@@ -74,14 +82,6 @@
    "summary": "US stocks ended the session slightly lower on Tuesday, as government bond yields continued their ascent ahead of inflation and labor market ​data, while investors assessed comments from Federal Reserve officials for the path of interest rates.",
    "url": "https://www.reuters.com/business/us-stock-futures-flat-tech-bounce-meets-crude-driven-caution-2026-09-29/",
    "published_utc": "2026-09-29T09:57:54+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "The Manila Times",
-   "title": "Stocks drop and oil rises as Hormuz hopes fade",
-   "summary": "HONG KONG — Asian stocks mostly fell and oil prices extended gains Tuesday as hopes for a reopening of the Strait of Hormuz fade amid expectations the Federal Reserve will hike interest rates again next month.",
-   "url": "https://www.manilatimes.net/2026/09/29/business/foreign-business/stocks-drop-and-oil-rises-as-hormuz-hopes-fade/2434789",
-   "published_utc": "2026-09-29T08:31:00+00:00"
   }
  ]
 }
