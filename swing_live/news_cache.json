@@ -1,8 +1,32 @@
 {
- "collected_utc": "2026-09-30T05:37:01.027116+00:00",
- "collected_epoch": 1790746621.027116,
+ "collected_utc": "2026-09-30T06:07:01.010550+00:00",
+ "collected_epoch": 1790748421.01055,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "MarketScreener",
+   "title": "Fed's Williams sees no urgency for next Fed rate hike",
+   "summary": "Federal Reserve Bank of New York President John Williams said on Tuesday the U.S. central bank has time to weigh the data before deciding when to hike interest rates again, in remarks that said one...",
+   "url": "https://www.marketscreener.com/news/fed-s-williams-sees-no-urgency-for-next-fed-rate-hike-ce785addd08ff525",
+   "published_utc": "2026-09-29T18:01:23+00:00"
+  },
+  {
+   "provider": "gnews",
+   "source": "Reuters",
+   "title": "Fed's Williams sees no urgency for next Fed rate hike",
+   "summary": "Federal Reserve Bank of New York President John Williams said on ​Tuesday that the U.S. central bank has time to weigh economic data before deciding when to hike interest rates again, adding one more increase is likely ‌before the year ends.",
+   "url": "https://www.reuters.com/business/feds-williams-sees-no-urgency-next-fed-rate-hike-2026-09-29/",
+   "published_utc": "2026-09-29T18:01:09+00:00"
+  },
+  {
+   "provider": "gnews",
+   "source": "Livemint",
+   "title": "Inflation isn't done: Interest rates likely to rise more, Fed Governor Michael Barr warns",
+   "summary": "Federal Reserve Governor Michael Barr warned that interest rates may rise further to combat inflation, which is still significantly above the 2% target. Despite strong economic performance, officials anticipate one more rate hike this year as they focus on achieving price stability.",
+   "url": "https://www.livemint.com/news/us-news/inflation-isnt-done-interest-rates-likely-to-rise-more-fed-governor-michael-barr-warns-11790703865758.html",
+   "published_utc": "2026-09-29T17:48:19+00:00"
+  },
   {
    "provider": "gnews",
    "source": "MarketScreener",
@@ -58,30 +82,6 @@
    "summary": "US stocks declined on concerns over rising oil prices and higher Treasury yields affecting the market. Investors are cautious due to uncertainty surrounding a potential Iran war peace deal negotiations. Federal Reserve officials hinted at possible interest rate hikes if inflation continues to rise significantly. Nvidia shares surged after announcing a record $150 billion share buyback, while Tesla shares dropped after a lowered price target.",
    "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-market-falls-as-higher-oil-prices-treasury-yields-weigh/articleshow/134550029.cms",
    "published_utc": "2026-09-28T20:11:00+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "NewsBytes",
-   "title": "Gold, silver ETFs tumble up to 3.6%",
-   "summary": "Gold and silver ETFs dropped by up to 3.6% on Monday as global precious metals markets reacted to inflation worries and anticipated US Federal Reserve interest rate hikes.",
-   "url": "https://www.newsbytesapp.com/news/business/gold-silver-etfs-tumble-up-to-3-6/story",
-   "published_utc": "2026-09-28T12:08:31+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "The Economic Times",
-   "title": "US Market: Fed's Hammack warns against inflation becoming entrenched in economy",
-   "summary": "Federal Reserve Bank of Cleveland President Beth Hammack warned that persistently high inflation could entrench elevated price expectations among US households and businesses. She said monetary policy may not yet be sufficiently restrictive, citing resilient demand, strong business investment and a stable labour market. Hammack also noted that rising US bond yields reflect higher real interest rates and a solid economic outlook.",
-   "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-market-feds-hammack-warns-against-inflation-becoming-entrenched-in-economy/articleshow/134539089.cms",
-   "published_utc": "2026-09-28T10:20:00+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "The Star",
-   "title": "Gold drops more than 2% on US rate-hike bets",
-   "summary": "GOLD prices fell more than 2% on Monday as a rise in oil prices heightened inflation concerns and reinforced expectations of further Federal Reserve interest-rate hikes.",
-   "url": "https://www.thestar.com.my/business/business-news/2026/09/28/gold-drops-more-than-2-on-us-rate-hike-bets",
-   "published_utc": "2026-09-28T08:21:00+00:00"
   }
  ]
 }
