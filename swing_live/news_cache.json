@@ -1,8 +1,16 @@
 {
- "collected_utc": "2026-09-30T13:37:00.986832+00:00",
- "collected_epoch": 1790775420.986832,
+ "collected_utc": "2026-09-30T14:07:01.044646+00:00",
+ "collected_epoch": 1790777221.044646,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "CNA",
+   "title": "Fed's Williams sees no urgency for next rate hike",
+   "summary": "Federal Reserve policymakers probably only need to deliver one more rate hike this year to get inflation back on track to the US central bank's 2 per cent goal, says New York Fed President John Williams.",
+   "url": "https://www.channelnewsasia.com/world/federal-reserve-new-york-fed-president-no-urgency-next-rate-hike-6420096",
+   "published_utc": "2026-09-30T01:46:10+00:00"
+  },
   {
    "provider": "gnews",
    "source": "The Straits Times",
@@ -74,14 +82,6 @@
    "summary": "By Renae Dyer\nThe dollar rose to a two-month high against a basket of currencies on Tuesday, lifted by building expectations that the Federal Reserve will raise interest rates again as soon as...",
    "url": "https://www.marketscreener.com/news/dollar-rises-to-2-month-high-on-growing-prospect-of-october-u-s-rate-rise-ce785adddc8df526",
    "published_utc": "2026-09-29T11:44:25+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "Reuters",
-   "title": "Equities end slightly lower as bond yields hold near multi-decade highs",
-   "summary": "US stocks ended the session slightly lower on Tuesday, as government bond yields continued their ascent ahead of inflation and labor market ​data, while investors assessed comments from Federal Reserve officials for the path of interest rates.",
-   "url": "https://www.reuters.com/business/us-stock-futures-flat-tech-bounce-meets-crude-driven-caution-2026-09-29/",
-   "published_utc": "2026-09-29T09:57:54+00:00"
   }
  ]
 }
