@@ -1,8 +1,16 @@
 {
- "collected_utc": "2026-09-30T07:37:01.084340+00:00",
- "collected_epoch": 1790753821.08434,
+ "collected_utc": "2026-09-30T08:07:01.063690+00:00",
+ "collected_epoch": 1790755621.06369,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "The Economic Times",
+   "title": "Fed rate hike 'not urgent', says John Williams; Austan Goolsbee warns against 'playing with fire'",
+   "summary": "Federal Reserve Bank of New York President John Williams stated there could be one more interest rate increase before year-end. He emphasized that the central bank is not in a hurry to act immediately as it awaits more economic data. Williams projected that inflation might end the year at approximately 3.5% before returning to the Fed's target by 2028.",
+   "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/fed-rate-hike-not-urgent-says-john-williams-austan-goolsbee-warns-against-playing-with-fire/articleshow/134573558.cms",
+   "published_utc": "2026-09-29T19:47:00+00:00"
+  },
   {
    "provider": "gnews",
    "source": "Livemint",
@@ -74,14 +82,6 @@
    "summary": "HONG KONG — Asian stocks mostly fell and oil prices extended gains Tuesday as hopes for a reopening of the Strait of Hormuz fade amid expectations the Federal Reserve will hike interest rates again next month.",
    "url": "https://www.manilatimes.net/2026/09/29/business/foreign-business/stocks-drop-and-oil-rises-as-hormuz-hopes-fade/2434789",
    "published_utc": "2026-09-29T08:31:00+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "CNA",
-   "title": "Stocks drop and oil rises as Hormuz hopes fade",
-   "summary": "HONG KONG: Asian stocks mostly fell and oil prices extended gains as hopes for a reopening of the Strait of Hormuz fade amid expectations that the Federal Reserve will hike interest rates again next month.Hopes for an easing of Middle East tensions were dashed at the weekend when Donald Trump rejected Iran's",
-   "url": "https://www.channelnewsasia.com/business/stocks-drop-and-oil-rises-hormuz-hopes-fade-6417441",
-   "published_utc": "2026-09-29T04:12:58+00:00"
   }
  ]
 }
