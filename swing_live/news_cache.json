@@ -1,8 +1,16 @@
 {
- "collected_utc": "2026-09-30T06:37:01.019687+00:00",
- "collected_epoch": 1790750221.019687,
+ "collected_utc": "2026-09-30T07:07:01.010425+00:00",
+ "collected_epoch": 1790752021.010425,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "Livemint",
+   "title": "Euro Falls to 16-Month Low as Hawkish Fed Bets Boost Dollar",
+   "summary": "The euro fell to its weakest level in 16 months as expectations that the Federal Reserve will further boost interest rates supported the US dollar.",
+   "url": "https://www.livemint.com/market/euro-falls-to-16-month-low-as-hawkish-fed-bets-boost-dollar-11790707107261.html",
+   "published_utc": "2026-09-29T18:38:26+00:00"
+  },
   {
    "provider": "gnews",
    "source": "MarketScreener",
@@ -26,6 +34,14 @@
    "summary": "Federal Reserve Governor Michael Barr warned that interest rates may rise further to combat inflation, which is still significantly above the 2% target. Despite strong economic performance, officials anticipate one more rate hike this year as they focus on achieving price stability.",
    "url": "https://www.livemint.com/news/us-news/inflation-isnt-done-interest-rates-likely-to-rise-more-fed-governor-michael-barr-warns-11790703865758.html",
    "published_utc": "2026-09-29T17:48:19+00:00"
+  },
+  {
+   "provider": "gnews",
+   "source": "Reuters",
+   "title": "Prospect of Fed pulling too far back on communications poses volatility risk, Musalem says",
+   "summary": "Too big a pullback in the US central bank's communications could lead to higher and more volatile interest rates and ​inflation if the public and businesses are left to guess ‌how it would react to different economic developments, St. Louis Federal Reserve President Alberto Musalem said on Tuesday.",
+   "url": "https://www.reuters.com/business/finance/prospect-fed-pulling-too-far-back-communications-poses-volatility-risk-musalem-2026-09-29/",
+   "published_utc": "2026-09-29T17:34:41+00:00"
   },
   {
    "provider": "gnews",
@@ -66,22 +82,6 @@
    "summary": "HONG KONG: Asian stocks mostly fell and oil prices extended gains as hopes for a reopening of the Strait of Hormuz fade amid expectations that the Federal Reserve will hike interest rates again next month.Hopes for an easing of Middle East tensions were dashed at the weekend when Donald Trump rejected Iran's",
    "url": "https://www.channelnewsasia.com/business/stocks-drop-and-oil-rises-hormuz-hopes-fade-6417441",
    "published_utc": "2026-09-29T04:12:58+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "The Economic Times",
-   "title": "Gold holds near seven-week low, US economic data on tap",
-   "summary": "Gold prices are holding steady near a seven-week low, despite ongoing concerns about rising interest rates from the Federal Reserve. Investors are treading carefully as they prepare for crucial US economic data, including employment and inflation reports, this week. Meanwhile, oil prices have increased over fears of supply disruptions in the Middle East, potentially impacting inflation rates. Current market expectations show a 70.",
-   "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-holds-near-seven-week-low-us-economic-data-on-tap/articleshow/134553921.cms",
-   "published_utc": "2026-09-29T02:06:00+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "The Economic Times",
-   "title": "US stocks: US market falls as higher oil prices, Treasury yields weigh",
-   "summary": "US stocks declined on concerns over rising oil prices and higher Treasury yields affecting the market. Investors are cautious due to uncertainty surrounding a potential Iran war peace deal negotiations. Federal Reserve officials hinted at possible interest rate hikes if inflation continues to rise significantly. Nvidia shares surged after announcing a record $150 billion share buyback, while Tesla shares dropped after a lowered price target.",
-   "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-market-falls-as-higher-oil-prices-treasury-yields-weigh/articleshow/134550029.cms",
-   "published_utc": "2026-09-28T20:11:00+00:00"
   }
  ]
 }
