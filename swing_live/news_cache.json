@@ -1,8 +1,16 @@
 {
- "collected_utc": "2026-09-29T23:37:00.979459+00:00",
- "collected_epoch": 1790725020.979459,
+ "collected_utc": "2026-09-30T00:07:01.015166+00:00",
+ "collected_epoch": 1790726821.015166,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "MarketScreener",
+   "title": "Dollar Rises to 2-Month High on Growing Prospect of October U.S. Rate-Rise",
+   "summary": "By Renae Dyer\nThe dollar rose to a two-month high against a basket of currencies on Tuesday, lifted by building expectations that the Federal Reserve will raise interest rates again as soon as...",
+   "url": "https://www.marketscreener.com/news/dollar-rises-to-2-month-high-on-growing-prospect-of-october-u-s-rate-rise-ce785adddc8df526",
+   "published_utc": "2026-09-29T11:44:25+00:00"
+  },
   {
    "provider": "gnews",
    "source": "Reuters",
@@ -74,14 +82,6 @@
    "summary": "The dollar showed strength as investors anticipated inflation data and central bank decisions this week. Oil prices increased due to ongoing US-Iran tensions, which raised concerns about energy supply. Analysts predict potential interest rate hikes from the Federal Reserve given current inflationary pressures. The Australian dollar is also expected to see a rate increase in a near-15-year high scenario.",
    "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-firms-as-us-iran-tensions-lift-oil-hawkish-fed-bets-build/articleshow/134529719.cms",
    "published_utc": "2026-09-28T01:58:00+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "Reuters",
-   "title": "Gold drops more than 2% on US rate-hike bets",
-   "summary": "Gold prices fell more than 2% on ​Monday as a rise in oil prices heightened inflation concerns and reinforced ‌expectations of further Federal Reserve interest-rate hikes.",
-   "url": "https://www.reuters.com/world/india/gold-drops-more-than-1-us-rate-hike-bets-2026-09-28/",
-   "published_utc": "2026-09-28T01:41:32+00:00"
   }
  ]
 }
