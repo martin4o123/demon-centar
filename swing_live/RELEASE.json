@@ -1,9 +1,9 @@
 {
   "schema": 1,
   "product_id": "admiral-swing-live",
-  "version": "0.9.61",
-  "published_utc": "2026-09-30T16:48:46.969872+00:00",
-  "notes": "Готовност: пенсионираният/липсващ AdmiralBeta слой вече не буди bridge редове никъде (вкл. машината на собственика). Допълнение към 0.9.60.",
+  "version": "0.9.62",
+  "published_utc": "2026-09-30T17:52:25.344105+00:00",
+  "notes": "Никакви втвърдени пътища към конкретна машина: MT5 терминалът и MQL5 Files се засичат автоматично (portable/нормална инсталация), чуждите пътища в стари конфигурации се самолекуват при старт на двигателя, owner-only инструменти не влизат в пакета и се чистят от клиентските машини. preflight без legacy слой = модерни проверки.",
   "publisher": {
     "algorithm": "RSA-3072-PKCS1v15-SHA256",
     "key_id": "da6dbc7a152497ac",
@@ -14,8 +14,8 @@
     "signature": "MANIFEST.sig"
   },
   "installer": {
-    "file": "releases/0.9.61/swing_live-0.9.61.zip",
-    "bytes": 1762976,
-    "sha256": "8464bffcb72236ad4b95519cf01b222db8c1eb14191883b36421da78a58e0356"
+    "file": "releases/0.9.62/swing_live-0.9.62.zip",
+    "bytes": 1727844,
+    "sha256": "65da28cb4d2c6468f28e3bc90df2ea8bd2ba4e8c65c95d03e05a283e9778bd80"
   }
 }
