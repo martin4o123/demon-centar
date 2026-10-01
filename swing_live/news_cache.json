@@ -1,8 +1,16 @@
 {
- "collected_utc": "2026-10-01T15:37:01.127204+00:00",
- "collected_epoch": 1790869021.127204,
+ "collected_utc": "2026-10-01T16:07:01.421333+00:00",
+ "collected_epoch": 1790870821.421333,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "MarketScreener",
+   "title": "Goldman Sachs pushes Fed rate hike forecast to December",
+   "summary": "Goldman Sachs pushed its forecast for the next US interest rate hike to December after a softer-than-anticipated inflation reading cooled expectations the Federal Reserve would hike rates again in...",
+   "url": "https://www.marketscreener.com/news/goldman-sachs-pushes-fed-rate-hike-forecast-to-december-ce785ad3da80fe21",
+   "published_utc": "2026-10-01T03:58:48+00:00"
+  },
   {
    "provider": "gnews",
    "source": "The Economic Times",
@@ -74,14 +82,6 @@
    "summary": "The Federal Reserve’s preferred inflation gauge in August came in cooler than expected -- likely delaying another interest-rate hike until December.",
    "url": "https://nypost.com/2026/09/30/business/feds-preferred-inflation-gauge-cooler-than-expected-likely-delaying-rate-hike-to-december/",
    "published_utc": "2026-09-30T15:49:54+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "The Economic Times",
-   "title": "US dollar retreats after softer-than-expected inflation data",
-   "summary": "The dollar faced a downturn against key currencies following unexpected inflation results from the US. The US Commerce Department reported the Personal Consumption Expenditures Price Index increased by merely 0.3% last month, contrary to economists' forecasts of 0.4%. This shift affected market predictions about Federal Reserve interest rate adjustments, resulting in lower US Treasury yields.",
-   "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-dollar-retreats-after-softer-than-expected-inflation-data/articleshow/134597817.cms",
-   "published_utc": "2026-09-30T15:22:00+00:00"
   }
  ]
 }
