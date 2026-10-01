@@ -1,8 +1,24 @@
 {
- "collected_utc": "2026-10-01T08:07:01.050606+00:00",
- "collected_epoch": 1790842021.050606,
+ "collected_utc": "2026-10-01T08:37:01.019023+00:00",
+ "collected_epoch": 1790843821.019023,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "The Atlanta Journal-Constitution",
+   "title": "Fed watchdog finds no crimes in $2.4B building renovation, only mismanagement",
+   "summary": "The Federal Reserve’s internal watchdog says that the central bank has broadly mismanaged an expansive building renovation project but did not find any criminal violations, as alleged by Trump administration prosecutors. The Fed’s inspector general said Wednesday that a variety of missteps by its Board of Governors inflated the cost of the $2.4 billion renovation. The board did not secure a comprehensive cost estimate at the beginning of the project, nor did it nail down a maximum overall cost, a step that could have forced the building contractor to absorb the impact of inflation, the IG said in a 120-page report. Prices spiked after construction began in 2022.",
+   "url": "https://www.ajc.com/news/2026/09/fed-watchdog-finds-no-crimes-in-24b-building-renovation-only-mismanagement/",
+   "published_utc": "2026-09-30T20:22:24+00:00"
+  },
+  {
+   "provider": "gnews",
+   "source": "MarketScreener",
+   "title": "US dollar flat against peers after softer-than-expected inflation data",
+   "summary": "The dollar was flat against major currencies on Wednesday following a smaller-than-expected increase in US inflation, which reduced market bets on an interest rate hike from the Federal Reserve.\n...",
+   "url": "https://www.marketscreener.com/news/us-dollar-flat-against-peers-after-softer-than-expected-inflation-data-ce785ad3d880f723",
+   "published_utc": "2026-09-30T20:11:19+00:00"
+  },
   {
    "provider": "gnews",
    "source": "The Guardian",
@@ -66,22 +82,6 @@
    "summary": "U.S. inflation increased less than expected in August, which could see financial markets further reduce the odds ​of another interest rate increase from the Federal Reserve next month.",
    "url": "https://www.reuters.com/markets/us/us-inflation-rises-less-than-expected-august-consumer-spending-surges-2026-09-30/",
    "published_utc": "2026-09-30T12:49:16+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "MarketScreener",
-   "title": "US inflation rises less than expected in August; consumer spending surges",
-   "summary": "U.S. inflation increased less than expected in August, which could see financial markets further reduce the odds of another interest rate increase from the Federal Reserve next month.\n...",
-   "url": "https://www.marketscreener.com/news/us-inflation-rises-less-than-expected-in-august-consumer-spending-surges-ce785ad2d18df12c",
-   "published_utc": "2026-09-30T12:46:40+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "MarketScreener",
-   "title": "Wall St futures extend gains after economic data",
-   "summary": "US stock index futures moved higher on Wednesday as a cooler-than-anticipated inflation reading lifted hopes that the Federal Reserve might not raise interest rates as soon as next month.\n...",
-   "url": "https://www.marketscreener.com/news/wall-st-futures-extend-gains-after-economic-data-ce785ad2d18af522",
-   "published_utc": "2026-09-30T12:35:08+00:00"
   }
  ]
 }
