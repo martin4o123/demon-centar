@@ -1,8 +1,24 @@
 {
- "collected_utc": "2026-10-01T00:37:01.048476+00:00",
- "collected_epoch": 1790815021.048476,
+ "collected_utc": "2026-10-01T01:07:01.082338+00:00",
+ "collected_epoch": 1790816821.082338,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "Reuters",
+   "title": "US inflation rises less than expected in August; consumer spending surges",
+   "summary": "U.S. inflation increased less than expected in August, which could see financial markets further reduce the odds ​of another interest rate increase from the Federal Reserve next month.",
+   "url": "https://www.reuters.com/markets/us/us-inflation-rises-less-than-expected-august-consumer-spending-surges-2026-09-30/",
+   "published_utc": "2026-09-30T12:49:16+00:00"
+  },
+  {
+   "provider": "gnews",
+   "source": "MarketScreener",
+   "title": "US inflation rises less than expected in August; consumer spending surges",
+   "summary": "U.S. inflation increased less than expected in August, which could see financial markets further reduce the odds of another interest rate increase from the Federal Reserve next month.\n...",
+   "url": "https://www.marketscreener.com/news/us-inflation-rises-less-than-expected-in-august-consumer-spending-surges-ce785ad2d18df12c",
+   "published_utc": "2026-09-30T12:46:40+00:00"
+  },
   {
    "provider": "gnews",
    "source": "MarketScreener",
@@ -66,22 +82,6 @@
    "summary": "But he said there was no urgency to act following the Fed's decision to lift rates this month. Read more at straitstimes.com.",
    "url": "https://www.straitstimes.com/business/economy/us-federal-reserves-williams-sees-one-more-interest-rate-hike-in-late-2026",
    "published_utc": "2026-09-30T00:55:00+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "The Economic Times",
-   "title": "Fed rate hike 'not urgent', says John Williams; Austan Goolsbee warns against 'playing with fire'",
-   "summary": "Federal Reserve Bank of New York President John Williams stated there could be one more interest rate increase before year-end. He emphasized that the central bank is not in a hurry to act immediately as it awaits more economic data. Williams projected that inflation might end the year at approximately 3.5% before returning to the Fed's target by 2028.",
-   "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/fed-rate-hike-not-urgent-says-john-williams-austan-goolsbee-warns-against-playing-with-fire/articleshow/134573558.cms",
-   "published_utc": "2026-09-29T19:47:00+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "Livemint",
-   "title": "Euro Falls to 16-Month Low as Hawkish Fed Bets Boost Dollar",
-   "summary": "The euro fell to its weakest level in 16 months as expectations that the Federal Reserve will further boost interest rates supported the US dollar.",
-   "url": "https://www.livemint.com/market/euro-falls-to-16-month-low-as-hawkish-fed-bets-boost-dollar-11790707107261.html",
-   "published_utc": "2026-09-29T18:38:26+00:00"
   }
  ]
 }
