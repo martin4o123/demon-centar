@@ -1,8 +1,24 @@
 {
- "collected_utc": "2026-10-01T03:37:01.044352+00:00",
- "collected_epoch": 1790825821.044352,
+ "collected_utc": "2026-10-01T04:07:01.074347+00:00",
+ "collected_epoch": 1790827621.074347,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "MarketScreener",
+   "title": "Fed seen on pause in October after inflation data",
+   "summary": "A Federal Reserve rate hike next month looked less likely Wednesday after fresh government data showed inflation rose less than expected in August, easing pressure on the US central bank to act on the...",
+   "url": "https://www.marketscreener.com/news/fed-seen-on-pause-in-october-after-inflation-data-ce785ad3d98df324",
+   "published_utc": "2026-09-30T15:59:31+00:00"
+  },
+  {
+   "provider": "gnews",
+   "source": "New York Post",
+   "title": "Fed's preferred inflation gauge cooler than expected, likely delaying rate hike to December",
+   "summary": "The Federal Reserve’s preferred inflation gauge in August came in cooler than expected -- likely delaying another interest-rate hike until December.",
+   "url": "https://nypost.com/2026/09/30/business/feds-preferred-inflation-gauge-cooler-than-expected-likely-delaying-rate-hike-to-december/",
+   "published_utc": "2026-09-30T15:49:54+00:00"
+  },
   {
    "provider": "gnews",
    "source": "The Economic Times",
@@ -66,22 +82,6 @@
    "summary": "Newsmax CEO Christopher Ruddy argues that the Federal Reserve, rather than the media, poses the greater threat to President Donald Trump and Republicans by keeping interest rates elevated despite what he describes as largely supply-driven inflation, increasing economic pressure ahead of the midterms.",
    "url": "https://www.newsmax.com/ruddy/christopher-ruddy-donald-trump-enemy/2026/09/30/id/1271167/",
    "published_utc": "2026-09-30T11:59:48+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "The Star",
-   "title": "Ringgit ends slightly higher against Greenback on Fed rate outlook",
-   "summary": "KUALA LUMPUR, Sept 30 (Bernama) -- The ringgit ended slightly higher against the greenback on Wednesday, supported by expectations that the US Federal Reserve (Fed) may hold off on raising interest rates next month following weaker-than-expected consumer sentiment data.",
-   "url": "https://www.thestar.com.my/business/business-news/2026/09/30/ringgit-ends-slightly-higher-against-greenback-on-fed-rate-outlook",
-   "published_utc": "2026-09-30T10:54:00+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "Reuters",
-   "title": "Gold on track for monthly decline as investors brace for US inflation data",
-   "summary": "Gold prices steadied ​on Wednesday but were headed for a monthly loss as expectations of higher interest ‌rates weighed on sentiment, while investors awaited US inflation data for clues on the Federal Reserve's next policy move.",
-   "url": "https://www.reuters.com/world/india/gold-track-monthly-decline-investors-brace-us-inflation-data-2026-09-30/",
-   "published_utc": "2026-09-30T04:54:33+00:00"
   }
  ]
 }
