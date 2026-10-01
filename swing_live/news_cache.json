@@ -1,8 +1,16 @@
 {
- "collected_utc": "2026-10-01T09:07:01.045781+00:00",
- "collected_epoch": 1790845621.045781,
+ "collected_utc": "2026-10-01T09:37:01.038095+00:00",
+ "collected_epoch": 1790847421.038095,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "Livemint",
+   "title": "Dollar Wraps Best Month Since March on Fed’s Inflation Fight",
+   "summary": "The dollar wrapped up its best month since March after the Federal Reserve’s renewed focus on taming inflation pushed interest-rate expectations and US bond yields higher.",
+   "url": "https://www.livemint.com/market/dollar-wraps-best-month-since-march-on-fed-s-inflation-fight-11790803060581.html",
+   "published_utc": "2026-09-30T21:17:40+00:00"
+  },
   {
    "provider": "gnews",
    "source": "The Atlanta Journal-Constitution",
@@ -74,14 +82,6 @@
    "summary": "Gold price is witnessing a steady spike on Wednesday. Spot gold jumped 0.2% to $4,188.17 an ounce, while US gold futures gained 1% to $4,219.90. The gold price is still more than 5% down for the month as higher interest rate expectations continue to put pressure on the precious metal.",
    "url": "https://economictimes.indiatimes.com/world/money/why-is-gold-price-rising-today/articleshow/134595522.cms",
    "published_utc": "2026-09-30T13:22:00+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "Reuters",
-   "title": "US inflation rises less than expected in August; consumer spending surges",
-   "summary": "U.S. inflation increased less than expected in August, which could see financial markets further reduce the odds ​of another interest rate increase from the Federal Reserve next month.",
-   "url": "https://www.reuters.com/markets/us/us-inflation-rises-less-than-expected-august-consumer-spending-surges-2026-09-30/",
-   "published_utc": "2026-09-30T12:49:16+00:00"
   }
  ]
 }
