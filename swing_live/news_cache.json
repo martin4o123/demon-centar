@@ -1,8 +1,16 @@
 {
- "collected_utc": "2026-10-01T05:37:01.061909+00:00",
- "collected_epoch": 1790833021.061909,
+ "collected_utc": "2026-10-01T06:07:01.033618+00:00",
+ "collected_epoch": 1790834821.033618,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "The Guardian",
+   "title": "Federal Reserve watchdog finds no criminal violations for building renovation cost overruns",
+   "summary": "Trump criticized $2.4bn rehab amid attempts to pressure then Fed chair Jerome Powell into lowering interest rates",
+   "url": "https://www.theguardian.com/business/2026/sep/30/federal-reserve-watchdog-building-renovation",
+   "published_utc": "2026-09-30T17:49:27+00:00"
+  },
   {
    "provider": "gnews",
    "source": "MarketScreener",
@@ -74,14 +82,6 @@
    "summary": "US stock index futures moved higher on Wednesday as a cooler-than-anticipated inflation reading lifted hopes that the Federal Reserve might not raise interest rates as soon as next month.\n...",
    "url": "https://www.marketscreener.com/news/wall-st-futures-extend-gains-after-economic-data-ce785ad2d18af522",
    "published_utc": "2026-09-30T12:35:08+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "Coeur d'Alene Press",
-   "title": "Inflation cooled slightly last month even as consumers stepped up spending",
-   "summary": "U.S. markets bounced higher immediately on the new inflation reading, with investors betting that an expected interest-rate hike from the U.S. Federal Reserve might be delayed.",
-   "url": "https://cdapress.com/news/2026/sep/30/inflation-cooled-slightly-last-month-even-as-consumers-stepped-up-spending/",
-   "published_utc": "2026-09-30T12:10:00+00:00"
   }
  ]
 }
