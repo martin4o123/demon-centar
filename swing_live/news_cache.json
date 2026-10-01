@@ -1,8 +1,24 @@
 {
- "collected_utc": "2026-10-01T00:07:01.018569+00:00",
- "collected_epoch": 1790813221.018569,
+ "collected_utc": "2026-10-01T00:37:01.048476+00:00",
+ "collected_epoch": 1790815021.048476,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "MarketScreener",
+   "title": "Wall St futures extend gains after economic data",
+   "summary": "US stock index futures moved higher on Wednesday as a cooler-than-anticipated inflation reading lifted hopes that the Federal Reserve might not raise interest rates as soon as next month.\n...",
+   "url": "https://www.marketscreener.com/news/wall-st-futures-extend-gains-after-economic-data-ce785ad2d18af522",
+   "published_utc": "2026-09-30T12:35:08+00:00"
+  },
+  {
+   "provider": "gnews",
+   "source": "Coeur d'Alene Press",
+   "title": "Inflation cooled slightly last month even as consumers stepped up spending",
+   "summary": "U.S. markets bounced higher immediately on the new inflation reading, with investors betting that an expected interest-rate hike from the U.S. Federal Reserve might be delayed.",
+   "url": "https://cdapress.com/news/2026/sep/30/inflation-cooled-slightly-last-month-even-as-consumers-stepped-up-spending/",
+   "published_utc": "2026-09-30T12:10:00+00:00"
+  },
   {
    "provider": "gnews",
    "source": "Newsmax",
@@ -66,22 +82,6 @@
    "summary": "The euro fell to its weakest level in 16 months as expectations that the Federal Reserve will further boost interest rates supported the US dollar.",
    "url": "https://www.livemint.com/market/euro-falls-to-16-month-low-as-hawkish-fed-bets-boost-dollar-11790707107261.html",
    "published_utc": "2026-09-29T18:38:26+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "MarketScreener",
-   "title": "Fed's Williams sees no urgency for next Fed rate hike",
-   "summary": "Federal Reserve Bank of New York President John Williams said on Tuesday the U.S. central bank has time to weigh the data before deciding when to hike interest rates again, in remarks that said one...",
-   "url": "https://www.marketscreener.com/news/fed-s-williams-sees-no-urgency-for-next-fed-rate-hike-ce785addd08ff525",
-   "published_utc": "2026-09-29T18:01:23+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "Reuters",
-   "title": "Fed's Williams sees no urgency for next Fed rate hike",
-   "summary": "Federal Reserve Bank of New York President John Williams said on ​Tuesday that the U.S. central bank has time to weigh economic data before deciding when to hike interest rates again, adding one more increase is likely ‌before the year ends.",
-   "url": "https://www.reuters.com/business/feds-williams-sees-no-urgency-next-fed-rate-hike-2026-09-29/",
-   "published_utc": "2026-09-29T18:01:09+00:00"
   }
  ]
 }
