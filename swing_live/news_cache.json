@@ -1,8 +1,16 @@
 {
- "collected_utc": "2026-10-01T19:37:01.034999+00:00",
- "collected_epoch": 1790883421.034999,
+ "collected_utc": "2026-10-01T20:07:01.035939+00:00",
+ "collected_epoch": 1790885221.035939,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "MarketScreener",
+   "title": "Dollar Hits 3-Month High on Prospect of Higher U.S. Rates",
+   "summary": "By Renae Dyer\nThe dollar rose to three-month high against a basket of currencies on Thursday as it continued to derive support from the prospect of the Federal Reserve raising interest rates...",
+   "url": "https://www.marketscreener.com/news/dollar-hits-3-month-high-on-prospect-of-higher-u-s-rates-ce785ad3df89f520",
+   "published_utc": "2026-10-01T08:04:33+00:00"
+  },
   {
    "provider": "gnews",
    "source": "MarketScreener",
@@ -74,14 +82,6 @@
    "summary": "A Federal Reserve rate hike next month looked less likely Wednesday after fresh government data showed inflation rose less than expected in August, easing pressure on the US central bank to act on the...",
    "url": "https://www.marketscreener.com/news/fed-seen-on-pause-in-october-after-inflation-data-ce785ad3d98df324",
    "published_utc": "2026-09-30T15:59:31+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "New York Post",
-   "title": "Fed's preferred inflation gauge cooler than expected, likely delaying rate hike to December",
-   "summary": "The Federal Reserve’s preferred inflation gauge in August came in cooler than expected -- likely delaying another interest-rate hike until December.",
-   "url": "https://nypost.com/2026/09/30/business/feds-preferred-inflation-gauge-cooler-than-expected-likely-delaying-rate-hike-to-december/",
-   "published_utc": "2026-09-30T15:49:54+00:00"
   }
  ]
 }
