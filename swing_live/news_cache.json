@@ -1,8 +1,16 @@
 {
- "collected_utc": "2026-10-01T12:07:01.098579+00:00",
- "collected_epoch": 1790856421.098579,
+ "collected_utc": "2026-10-01T12:37:01.111690+00:00",
+ "collected_epoch": 1790858221.11169,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "The Boston Globe",
+   "title": "Fed’s preferred inflation gauge points to continued price pressures",
+   "summary": "US inflation stayed stuck at an elevated level in August, reinforcing the Federal Reserve’s decision in September to raise interest rates for the first time in roughly three years.",
+   "url": "https://www.bostonglobe.com/2026/09/30/business/fed-inflation-price-pressures/",
+   "published_utc": "2026-09-30T22:03:50+00:00"
+  },
   {
    "provider": "gnews",
    "source": "Livemint",
@@ -74,14 +82,6 @@
    "summary": "U.S. stock indexes are holding firmer following a potentially encouraging update on inflation. The S&P 500 rose 0.5% Wednesday and is close to finishing September with a small gain instead of a loss. The Dow Jones Industrial Average dipped 10 points, and the Nasdaq composite rose 0.9%. They got some support from an easing for short-term Treasury yields after the latest inflation update. Traders are paring bets that the Federal Reserve will increase its main interest rate next month to curtail inflation. But longer-term yields were stronger following the latest signals that the U.S. economy continues to grow.",
    "url": "https://www.ajc.com/news/2026/09/wall-street-holds-steadier-following-a-potentially-encouraging-update-on-inflation/",
    "published_utc": "2026-09-30T14:52:16+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "The Economic Times",
-   "title": "Why is gold price rising today? Gold prices move higher as markets assess US inflation data and Federal Reserve rate expectations",
-   "summary": "Gold price is witnessing a steady spike on Wednesday. Spot gold jumped 0.2% to $4,188.17 an ounce, while US gold futures gained 1% to $4,219.90. The gold price is still more than 5% down for the month as higher interest rate expectations continue to put pressure on the precious metal.",
-   "url": "https://economictimes.indiatimes.com/world/money/why-is-gold-price-rising-today/articleshow/134595522.cms",
-   "published_utc": "2026-09-30T13:22:00+00:00"
   }
  ]
 }
