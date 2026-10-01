@@ -1,8 +1,16 @@
 {
- "collected_utc": "2026-09-30T23:37:01.028815+00:00",
- "collected_epoch": 1790811421.028815,
+ "collected_utc": "2026-10-01T00:07:01.018569+00:00",
+ "collected_epoch": 1790813221.018569,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "Newsmax",
+   "title": "Ruddy: Trump's Real Enemy Is the Federal Reserve",
+   "summary": "Newsmax CEO Christopher Ruddy argues that the Federal Reserve, rather than the media, poses the greater threat to President Donald Trump and Republicans by keeping interest rates elevated despite what he describes as largely supply-driven inflation, increasing economic pressure ahead of the midterms.",
+   "url": "https://www.newsmax.com/ruddy/christopher-ruddy-donald-trump-enemy/2026/09/30/id/1271167/",
+   "published_utc": "2026-09-30T11:59:48+00:00"
+  },
   {
    "provider": "gnews",
    "source": "The Star",
@@ -74,14 +82,6 @@
    "summary": "Federal Reserve Bank of New York President John Williams said on ​Tuesday that the U.S. central bank has time to weigh economic data before deciding when to hike interest rates again, adding one more increase is likely ‌before the year ends.",
    "url": "https://www.reuters.com/business/feds-williams-sees-no-urgency-next-fed-rate-hike-2026-09-29/",
    "published_utc": "2026-09-29T18:01:09+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "Livemint",
-   "title": "Inflation isn't done: Interest rates likely to rise more, Fed Governor Michael Barr warns",
-   "summary": "Federal Reserve Governor Michael Barr warned that interest rates may rise further to combat inflation, which is still significantly above the 2% target. Despite strong economic performance, officials anticipate one more rate hike this year as they focus on achieving price stability.",
-   "url": "https://www.livemint.com/news/us-news/inflation-isnt-done-interest-rates-likely-to-rise-more-fed-governor-michael-barr-warns-11790703865758.html",
-   "published_utc": "2026-09-29T17:48:19+00:00"
   }
  ]
 }
