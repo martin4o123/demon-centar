@@ -1,8 +1,16 @@
 {
- "collected_utc": "2026-10-01T21:37:01.040199+00:00",
- "collected_epoch": 1790890621.040199,
+ "collected_utc": "2026-10-01T22:07:01.022995+00:00",
+ "collected_epoch": 1790892421.022995,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "MarketScreener",
+   "title": "Dollar Hits 16-Month High on Prospect of Higher U.S. Rates -- Update",
+   "summary": "By Renae Dyer\nThe dollar jumped to a 16-month high against a basket of currencies on Thursday as it continued to derive support from the prospect of the Federal Reserve raising interest rates...",
+   "url": "https://www.marketscreener.com/news/dollar-hits-16-month-high-on-prospect-of-higher-u-s-rates-update-ce785ad3df81f62d",
+   "published_utc": "2026-10-01T09:39:26+00:00"
+  },
   {
    "provider": "gnews",
    "source": "MarketScreener",
@@ -74,14 +82,6 @@
    "summary": "Stocks on Wall Street and two-year US Treasury prices rose on Wednesday, pushing yields lower as expectations that the Federal Reserve will hike interest rates next month decreased after...",
    "url": "https://www.marketscreener.com/news/stocks-rise-2-year-us-bond-yield-eases-after-soft-us-inflation-data-ce785ad3d981f42c",
    "published_utc": "2026-09-30T16:46:42+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "MarketScreener",
-   "title": "Fed seen on pause in October after inflation data",
-   "summary": "A Federal Reserve rate hike next month looked less likely Wednesday after fresh government data showed inflation rose less than expected in August, easing pressure on the US central bank to act on the...",
-   "url": "https://www.marketscreener.com/news/fed-seen-on-pause-in-october-after-inflation-data-ce785ad3d98df324",
-   "published_utc": "2026-09-30T15:59:31+00:00"
   }
  ]
 }
