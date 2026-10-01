@@ -1,8 +1,16 @@
 {
- "collected_utc": "2026-10-01T04:37:00.993545+00:00",
- "collected_epoch": 1790829420.993545,
+ "collected_utc": "2026-10-01T05:07:01.065762+00:00",
+ "collected_epoch": 1790831221.065762,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "MarketScreener",
+   "title": "Stocks rise, 2-year US bond yield eases after soft US inflation data",
+   "summary": "Stocks on Wall Street and two-year US Treasury prices rose on Wednesday, pushing yields lower as expectations that the Federal Reserve will hike interest rates next month decreased after...",
+   "url": "https://www.marketscreener.com/news/stocks-rise-2-year-us-bond-yield-eases-after-soft-us-inflation-data-ce785ad3d981f42c",
+   "published_utc": "2026-09-30T16:46:42+00:00"
+  },
   {
    "provider": "gnews",
    "source": "MarketScreener",
@@ -74,14 +82,6 @@
    "summary": "U.S. markets bounced higher immediately on the new inflation reading, with investors betting that an expected interest-rate hike from the U.S. Federal Reserve might be delayed.",
    "url": "https://cdapress.com/news/2026/sep/30/inflation-cooled-slightly-last-month-even-as-consumers-stepped-up-spending/",
    "published_utc": "2026-09-30T12:10:00+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "Newsmax",
-   "title": "Ruddy: Trump's Real Enemy Is the Federal Reserve",
-   "summary": "Newsmax CEO Christopher Ruddy argues that the Federal Reserve, rather than the media, poses the greater threat to President Donald Trump and Republicans by keeping interest rates elevated despite what he describes as largely supply-driven inflation, increasing economic pressure ahead of the midterms.",
-   "url": "https://www.newsmax.com/ruddy/christopher-ruddy-donald-trump-enemy/2026/09/30/id/1271167/",
-   "published_utc": "2026-09-30T11:59:48+00:00"
   }
  ]
 }
