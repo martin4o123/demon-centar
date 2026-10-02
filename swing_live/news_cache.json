@@ -1,23 +1,87 @@
 {
- "collected_utc": "2026-10-02T18:12:47.760532+00:00",
- "collected_epoch": 1790964767.760532,
+ "collected_utc": "2026-10-02T18:37:01.054111+00:00",
+ "collected_epoch": 1790966221.054111,
  "cached": false,
  "items": [
   {
    "provider": "gnews",
-   "source": "Reuters",
-   "title": "Fed holds interest rates",
-   "summary": "FOMC decision",
-   "url": "https://example.com/1",
-   "published_utc": "2026-09-14T10:00:00+00:00"
+   "source": "The Economic Times",
+   "title": "Fed’s Jefferson urges patience on rates; Kashkari sees more hikes ahead",
+   "summary": "Federal Reserve Vice Chair Philip Jefferson stated that he sees no immediate need for further interest rate adjustments. He emphasized that future decisions would depend on analyzing economic data trends and risks. Minneapolis Fed President Neel Kashkari expressed uncertainty regarding the timing of the next rate hike amidst strong economic performance. Both officials acknowledged the ongoing challenges of managing inflation that exceeds the 2% target.",
+   "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/feds-jefferson-urges-patience-on-rates-kashkari-sees-more-hikes-ahead/articleshow/134626712.cms",
+   "published_utc": "2026-10-01T19:42:00+00:00"
   },
   {
    "provider": "gnews",
-   "source": "AP",
-   "title": "ECB outlook",
-   "summary": "inflation cools",
-   "url": "https://example.com/2",
-   "published_utc": "2026-09-14T09:00:00+00:00"
+   "source": "Hindustan Times",
+   "title": "US jobless claims below 200,000 for 3rd week as layoffs fall: Will Fed raise rates?",
+   "summary": "US jobless claims stayed below 200,000 for three weeks. Will low layoffs and rising factory prices push the Federal Reserve to raise interest rates in October?",
+   "url": "https://www.hindustantimes.com/world-news/us-news/us-jobless-claims-below-200-000-for-3rd-week-as-layoffs-fall-will-fed-raise-rates-101790878998405.html",
+   "published_utc": "2026-10-01T18:55:57+00:00"
+  },
+  {
+   "provider": "gnews",
+   "source": "Cable News Network",
+   "title": "How are higher interest rates and rising prices affecting you?",
+   "summary": "Last month, the Federal Reserve raised interest rates for the first time in more than three years, as it tries to bring inflation under control. But higher rates make borrowing more expensive for consumers and businesses — one reason mortgage rates have climbed to a three-year high in recent weeks.",
+   "url": "https://edition.cnn.com/2026/10/01/economy/interest-rates-inflation-impact-callout",
+   "published_utc": "2026-10-01T18:41:43+00:00"
+  },
+  {
+   "provider": "gnews",
+   "source": "ABC17News.com",
+   "title": "How are higher interest rates and rising prices affecting you?",
+   "summary": "By Elisabeth Buchwald, CNN (CNN) — Last month, the Federal Reserve raised interest rates for the first time in more than three years, as it tries to bring inflation under control. But higher rates make borrowing more expensive for consumers and businesses — one reason mortgage rates have climbed to a three-year high in recent",
+   "url": "https://abc17news.com/money/cnn-business-consumer/2026/10/01/how-are-higher-interest-rates-and-rising-prices-affecting-you/",
+   "published_utc": "2026-10-01T18:41:43+00:00"
+  },
+  {
+   "provider": "gnews",
+   "source": "Buffalo Buffalo News",
+   "title": "How are higher interest rates and rising prices affecting you?",
+   "summary": "(CNN) — Last month, the Federal Reserve raised interest rates for the first time in more than three years, as it tries to bring inflation under control. But higher rates",
+   "url": "https://buffalonews.com/news/nation-world/business/article_4626dc6b-8887-51b9-90bf-f0111dd5b1e0.html",
+   "published_utc": "2026-10-01T18:41:43+00:00"
+  },
+  {
+   "provider": "gnews",
+   "source": "Livemint",
+   "title": "Hong Kong Investors Buying US Treasuries Is a No-Brainer",
+   "summary": "With its currency pegged to the US dollar, Hong Kong flinches when the Federal Reserve starts raising interest rates.",
+   "url": "https://www.livemint.com/market/hong-kong-investors-buying-us-treasuries-is-anobrainer-11790879988010.html",
+   "published_utc": "2026-10-01T18:39:47+00:00"
+  },
+  {
+   "provider": "gnews",
+   "source": "Bloomberg Tax News",
+   "title": "Hong Kong Investors Buying Treasuries Is a No-Brainer: Shuli Ren",
+   "summary": "With its currency pegged to the US dollar, Hong Kong flinches when the Federal Reserve starts raising interest rates.",
+   "url": "https://news.bloombergtax.com/daily-tax-report/hong-kong-investors-buying-treasuries-is-a-no-brainer-shuli-ren",
+   "published_utc": "2026-10-01T18:00:01+00:00"
+  },
+  {
+   "provider": "gnews",
+   "source": "Buffalo Buffalo News",
+   "title": "NY Fed president weighs in on inflation, AI",
+   "summary": "John Williams, the president of the Federal Reserve Bank of New York, shared insights on the economy, inflation and AI.",
+   "url": "https://buffalonews.com/news/local/business/article_0a02d530-7de9-453c-bd16-dbc0456b24ff.html",
+   "published_utc": "2026-10-01T17:00:00+00:00"
+  },
+  {
+   "provider": "gnews",
+   "source": "MarketScreener",
+   "title": "Oil Rises as Supply Concerns Persist Despite -2-",
+   "summary": "Gold Edges Higher as U.S. Inflation Data Tempers Rate-Hike Bets -- Market Talk\n0745 GMT - Gold ticks higher as investors weigh lower expectations for another Federal Reserve interest-rate increase...\n-October 01, 2026 at 12:07 pm EDT\n- MarketScreener",
+   "url": "https://www.marketscreener.com/news/oil-rises-as-supply-concerns-persist-despite-2-ce785ddad88af321",
+   "published_utc": "2026-10-01T16:07:44+00:00"
+  },
+  {
+   "provider": "gnews",
+   "source": "MarketScreener",
+   "title": "Dollar Hits 16-Month High on Prospect of Higher U.S. Rates -- Update",
+   "summary": "By Renae Dyer\nThe dollar jumped to a 16-month high against a basket of currencies on Thursday as it continued to derive support from the prospect of the Federal Reserve raising interest rates...",
+   "url": "https://www.marketscreener.com/news/dollar-hits-16-month-high-on-prospect-of-higher-u-s-rates-update-ce785ad3df81f62d",
+   "published_utc": "2026-10-01T09:39:26+00:00"
   }
  ]
 }
