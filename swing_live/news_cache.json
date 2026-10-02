@@ -1,8 +1,16 @@
 {
- "collected_utc": "2026-10-02T04:37:01.054734+00:00",
- "collected_epoch": 1790915821.054734,
+ "collected_utc": "2026-10-02T05:07:01.181252+00:00",
+ "collected_epoch": 1790917621.181252,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "Buffalo Buffalo News",
+   "title": "NY Fed president weighs in on inflation, AI",
+   "summary": "John Williams, the president of the Federal Reserve Bank of New York, shared insights on the economy, inflation and AI.",
+   "url": "https://buffalonews.com/news/local/business/article_0a02d530-7de9-453c-bd16-dbc0456b24ff.html",
+   "published_utc": "2026-10-01T17:00:00+00:00"
+  },
   {
    "provider": "gnews",
    "source": "MarketScreener",
@@ -74,14 +82,6 @@
    "summary": "The dollar was flat against major currencies on Wednesday following a smaller-than-expected increase in US inflation, which reduced market bets on an interest rate hike from the Federal Reserve.\n...",
    "url": "https://www.marketscreener.com/news/us-dollar-flat-against-peers-after-softer-than-expected-inflation-data-ce785ad3d880f723",
    "published_utc": "2026-09-30T20:11:19+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "The Guardian",
-   "title": "Federal Reserve watchdog finds no criminal violations for building renovation cost overruns",
-   "summary": "Trump criticized $2.4bn rehab amid attempts to pressure then Fed chair Jerome Powell into lowering interest rates",
-   "url": "https://www.theguardian.com/business/2026/sep/30/federal-reserve-watchdog-building-renovation",
-   "published_utc": "2026-09-30T17:49:27+00:00"
   }
  ]
 }
