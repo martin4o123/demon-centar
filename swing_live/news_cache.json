@@ -1,6 +1,6 @@
 {
- "collected_utc": "2026-10-02T17:37:01.048721+00:00",
- "collected_epoch": 1790962621.048721,
+ "collected_utc": "2026-10-02T18:07:01.050272+00:00",
+ "collected_epoch": 1790964421.050272,
  "cached": false,
  "items": [
   {
@@ -33,6 +33,14 @@
    "title": "How are higher interest rates and rising prices affecting you?",
    "summary": "By Elisabeth Buchwald, CNN (CNN) — Last month, the Federal Reserve raised interest rates for the first time in more than three years, as it tries to bring inflation under control. But higher rates make borrowing more expensive for consumers and businesses — one reason mortgage rates have climbed to a three-year high in recent",
    "url": "https://abc17news.com/money/cnn-business-consumer/2026/10/01/how-are-higher-interest-rates-and-rising-prices-affecting-you/",
+   "published_utc": "2026-10-01T18:41:43+00:00"
+  },
+  {
+   "provider": "gnews",
+   "source": "Buffalo Buffalo News",
+   "title": "How are higher interest rates and rising prices affecting you?",
+   "summary": "(CNN) — Last month, the Federal Reserve raised interest rates for the first time in more than three years, as it tries to bring inflation under control. But higher rates",
+   "url": "https://buffalonews.com/news/nation-world/business/article_4626dc6b-8887-51b9-90bf-f0111dd5b1e0.html",
    "published_utc": "2026-10-01T18:41:43+00:00"
   },
   {
@@ -74,14 +82,6 @@
    "summary": "By Renae Dyer\nThe dollar jumped to a 16-month high against a basket of currencies on Thursday as it continued to derive support from the prospect of the Federal Reserve raising interest rates...",
    "url": "https://www.marketscreener.com/news/dollar-hits-16-month-high-on-prospect-of-higher-u-s-rates-update-ce785ad3df81f62d",
    "published_utc": "2026-10-01T09:39:26+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "MarketScreener",
-   "title": "Dollar Hits 3-Month High on Prospect of Higher U.S. Rates",
-   "summary": "By Renae Dyer\nThe dollar rose to three-month high against a basket of currencies on Thursday as it continued to derive support from the prospect of the Federal Reserve raising interest rates...",
-   "url": "https://www.marketscreener.com/news/dollar-hits-3-month-high-on-prospect-of-higher-u-s-rates-ce785ad3df89f520",
-   "published_utc": "2026-10-01T08:04:33+00:00"
   }
  ]
 }
