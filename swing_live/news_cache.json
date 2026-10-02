@@ -1,8 +1,16 @@
 {
- "collected_utc": "2026-10-02T07:37:01.078456+00:00",
- "collected_epoch": 1790926621.078456,
+ "collected_utc": "2026-10-02T08:07:01.143063+00:00",
+ "collected_epoch": 1790928421.143063,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "The Economic Times",
+   "title": "Fed’s Jefferson urges patience on rates; Kashkari sees more hikes ahead",
+   "summary": "Federal Reserve Vice Chair Philip Jefferson stated that he sees no immediate need for further interest rate adjustments. He emphasized that future decisions would depend on analyzing economic data trends and risks. Minneapolis Fed President Neel Kashkari expressed uncertainty regarding the timing of the next rate hike amidst strong economic performance. Both officials acknowledged the ongoing challenges of managing inflation that exceeds the 2% target.",
+   "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/feds-jefferson-urges-patience-on-rates-kashkari-sees-more-hikes-ahead/articleshow/134626712.cms",
+   "published_utc": "2026-10-01T19:42:00+00:00"
+  },
   {
    "provider": "gnews",
    "source": "Hindustan Times",
@@ -74,14 +82,6 @@
    "summary": "By Renae Dyer\nThe dollar rose to three-month high against a basket of currencies on Thursday as it continued to derive support from the prospect of the Federal Reserve raising interest rates...",
    "url": "https://www.marketscreener.com/news/dollar-hits-3-month-high-on-prospect-of-higher-u-s-rates-ce785ad3df89f520",
    "published_utc": "2026-10-01T08:04:33+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "MarketScreener",
-   "title": "Goldman Sachs pushes Fed rate hike forecast to December",
-   "summary": "Goldman Sachs pushed its forecast for the next US interest rate hike to December after a softer-than-anticipated inflation reading cooled expectations the Federal Reserve would hike rates again in...",
-   "url": "https://www.marketscreener.com/news/goldman-sachs-pushes-fed-rate-hike-forecast-to-december-ce785ad3da80fe21",
-   "published_utc": "2026-10-01T03:58:48+00:00"
   }
  ]
 }
