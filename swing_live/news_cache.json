@@ -1,8 +1,16 @@
 {
- "collected_utc": "2026-10-02T23:07:01.098596+00:00",
- "collected_epoch": 1790982421.098596,
+ "collected_utc": "2026-10-02T23:37:01.092004+00:00",
+ "collected_epoch": 1790984221.092004,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "Phys.org",
+   "title": "The economy is resilient: Why do many Americans feel differently? An expert explains",
+   "summary": "Even as the Federal Reserve moves to raise interest rates for the first time in three years, many of the metrics that economists rely on to gauge the overall health of the economy—like jobs reports, the unemployment rate and the stock market—have looked relatively strong in recent months. Despite this, only about 24% of Americans rated the economy as \"good\" or \"excellent\" in a recent Pew Research Center survey.",
+   "url": "https://phys.org/news/2026-10-economy-resilient-americans-differently-expert.html",
+   "published_utc": "2026-10-02T11:20:07+00:00"
+  },
   {
    "provider": "gnews",
    "source": "The Economic Times",
@@ -74,14 +82,6 @@
    "summary": "Gold Edges Higher as U.S. Inflation Data Tempers Rate-Hike Bets -- Market Talk\n0745 GMT - Gold ticks higher as investors weigh lower expectations for another Federal Reserve interest-rate increase...\n-October 01, 2026 at 12:07 pm EDT\n- MarketScreener",
    "url": "https://www.marketscreener.com/news/oil-rises-as-supply-concerns-persist-despite-2-ce785ddad88af321",
    "published_utc": "2026-10-01T16:07:44+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "MarketScreener",
-   "title": "Dollar Hits 16-Month High on Prospect of Higher U.S. Rates -- Update",
-   "summary": "By Renae Dyer\nThe dollar jumped to a 16-month high against a basket of currencies on Thursday as it continued to derive support from the prospect of the Federal Reserve raising interest rates...",
-   "url": "https://www.marketscreener.com/news/dollar-hits-16-month-high-on-prospect-of-higher-u-s-rates-update-ce785ad3df81f62d",
-   "published_utc": "2026-10-01T09:39:26+00:00"
   }
  ]
 }
