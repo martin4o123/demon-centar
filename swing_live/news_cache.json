@@ -1,8 +1,16 @@
 {
- "collected_utc": "2026-10-02T04:07:01.105073+00:00",
- "collected_epoch": 1790914021.105073,
+ "collected_utc": "2026-10-02T04:37:01.054734+00:00",
+ "collected_epoch": 1790915821.054734,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "MarketScreener",
+   "title": "Oil Rises as Supply Concerns Persist Despite -2-",
+   "summary": "Gold Edges Higher as U.S. Inflation Data Tempers Rate-Hike Bets -- Market Talk\n0745 GMT - Gold ticks higher as investors weigh lower expectations for another Federal Reserve interest-rate increase...\n-October 01, 2026 at 12:07 pm EDT\n- MarketScreener",
+   "url": "https://www.marketscreener.com/news/oil-rises-as-supply-concerns-persist-despite-2-ce785ddad88af321",
+   "published_utc": "2026-10-01T16:07:44+00:00"
+  },
   {
    "provider": "gnews",
    "source": "MarketScreener",
@@ -74,14 +82,6 @@
    "summary": "Trump criticized $2.4bn rehab amid attempts to pressure then Fed chair Jerome Powell into lowering interest rates",
    "url": "https://www.theguardian.com/business/2026/sep/30/federal-reserve-watchdog-building-renovation",
    "published_utc": "2026-09-30T17:49:27+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "MarketScreener",
-   "title": "Stocks rise, 2-year US bond yield eases after soft US inflation data",
-   "summary": "Stocks on Wall Street and two-year US Treasury prices rose on Wednesday, pushing yields lower as expectations that the Federal Reserve will hike interest rates next month decreased after...",
-   "url": "https://www.marketscreener.com/news/stocks-rise-2-year-us-bond-yield-eases-after-soft-us-inflation-data-ce785ad3d981f42c",
-   "published_utc": "2026-09-30T16:46:42+00:00"
   }
  ]
 }
