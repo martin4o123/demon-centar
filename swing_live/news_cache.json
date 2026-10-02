@@ -1,8 +1,16 @@
 {
- "collected_utc": "2026-10-02T05:37:01.120535+00:00",
- "collected_epoch": 1790919421.120535,
+ "collected_utc": "2026-10-02T06:07:01.076690+00:00",
+ "collected_epoch": 1790921221.07669,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "Bloomberg Tax News",
+   "title": "Hong Kong Investors Buying Treasuries Is a No-Brainer: Shuli Ren",
+   "summary": "With its currency pegged to the US dollar, Hong Kong flinches when the Federal Reserve starts raising interest rates.",
+   "url": "https://news.bloombergtax.com/daily-tax-report/hong-kong-investors-buying-treasuries-is-a-no-brainer-shuli-ren",
+   "published_utc": "2026-10-01T18:00:01+00:00"
+  },
   {
    "provider": "gnews",
    "source": "Buffalo Buffalo News",
@@ -74,14 +82,6 @@
    "summary": "The Federal Reserve’s internal watchdog says that the central bank has broadly mismanaged an expansive building renovation project but did not find any criminal violations, as alleged by Trump administration prosecutors. The Fed’s inspector general said Wednesday that a variety of missteps by its Board of Governors inflated the cost of the $2.4 billion renovation. The board did not secure a comprehensive cost estimate at the beginning of the project, nor did it nail down a maximum overall cost, a step that could have forced the building contractor to absorb the impact of inflation, the IG said in a 120-page report. Prices spiked after construction began in 2022.",
    "url": "https://www.ajc.com/news/2026/09/fed-watchdog-finds-no-crimes-in-24b-building-renovation-only-mismanagement/",
    "published_utc": "2026-09-30T20:22:24+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "MarketScreener",
-   "title": "US dollar flat against peers after softer-than-expected inflation data",
-   "summary": "The dollar was flat against major currencies on Wednesday following a smaller-than-expected increase in US inflation, which reduced market bets on an interest rate hike from the Federal Reserve.\n...",
-   "url": "https://www.marketscreener.com/news/us-dollar-flat-against-peers-after-softer-than-expected-inflation-data-ce785ad3d880f723",
-   "published_utc": "2026-09-30T20:11:19+00:00"
   }
  ]
 }
