@@ -1,8 +1,16 @@
 {
- "collected_utc": "2026-10-03T01:37:01.063897+00:00",
- "collected_epoch": 1790991421.063897,
+ "collected_utc": "2026-10-03T02:07:01.037489+00:00",
+ "collected_epoch": 1790993221.037489,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "The Economic Times",
+   "title": "U.S. hiring stalls at 29,000, yet Dow, S&P 500 and Nasdaq surge: Why Wall Street welcomed September’s weak jobs report",
+   "summary": "US jobs report and markets: The U.S. added only 29,000 jobs in September, far below the 90,000 economists expected. Unemployment also edged up to 4.2%. On the surface, that looks like bad news for the economy. Wall Street saw another side of it. The Dow rose 0.64%, the S&P 500 gained 0.90%, and the Nasdaq climbed 1.39%. The reason was the growing possibility that weaker hiring could reduce pressure on the Federal Reserve to keep interest rates high.",
+   "url": "https://economictimes.indiatimes.com/news/international/us/u-s-hiring-stalls-at-29000-yet-dow-sp-500-and-nasdaq-surge-why-wall-street-welcomed-septembers-weak-jobs-report/articleshow/134641191.cms",
+   "published_utc": "2026-10-02T13:49:00+00:00"
+  },
   {
    "provider": "gnews",
    "source": "New York Post",
@@ -74,14 +82,6 @@
    "summary": "With its currency pegged to the US dollar, Hong Kong flinches when the Federal Reserve starts raising interest rates.",
    "url": "https://news.bloombergtax.com/daily-tax-report/hong-kong-investors-buying-treasuries-is-a-no-brainer-shuli-ren",
    "published_utc": "2026-10-01T18:00:01+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "Buffalo Buffalo News",
-   "title": "NY Fed president weighs in on inflation, AI",
-   "summary": "John Williams, the president of the Federal Reserve Bank of New York, shared insights on the economy, inflation and AI.",
-   "url": "https://buffalonews.com/news/local/business/article_0a02d530-7de9-453c-bd16-dbc0456b24ff.html",
-   "published_utc": "2026-10-01T17:00:00+00:00"
   }
  ]
 }
