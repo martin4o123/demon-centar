@@ -1,8 +1,16 @@
 {
- "collected_utc": "2026-10-03T22:07:01.089952+00:00",
- "collected_epoch": 1791065221.089952,
+ "collected_utc": "2026-10-03T22:37:01.064944+00:00",
+ "collected_epoch": 1791067021.064944,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "Washington Examiner",
+   "title": "Federal Reserve expected to raise interest rates again",
+   "summary": "Warsh promised to have high ethical standards. Until inflation is tamed, the president is likely to have to live with a monetary policy he doesn’t like.",
+   "url": "https://www.washingtonexaminer.com/news/business/4744131/fed-expected-raise-interest-rates-against-trump-wishes-until-inflation-is-tamed/",
+   "published_utc": "2026-10-03T10:15:00+00:00"
+  },
   {
    "provider": "gnews",
    "source": "The Atlanta Journal-Constitution",
@@ -58,14 +66,6 @@
    "summary": "US jobless claims stayed below 200,000 for three weeks. Will low layoffs and rising factory prices push the Federal Reserve to raise interest rates in October?",
    "url": "https://www.hindustantimes.com/world-news/us-news/us-jobless-claims-below-200-000-for-3rd-week-as-layoffs-fall-will-fed-raise-rates-101790878998405.html",
    "published_utc": "2026-10-01T18:55:57+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "Cable News Network",
-   "title": "How are higher interest rates and rising prices affecting you?",
-   "summary": "Last month, the Federal Reserve raised interest rates for the first time in more than three years, as it tries to bring inflation under control. But higher rates make borrowing more expensive for consumers and businesses — one reason mortgage rates have climbed to a three-year high in recent weeks.",
-   "url": "https://edition.cnn.com/2026/10/01/economy/interest-rates-inflation-impact-callout",
-   "published_utc": "2026-10-01T18:41:43+00:00"
   },
   {
    "provider": "gnews",
