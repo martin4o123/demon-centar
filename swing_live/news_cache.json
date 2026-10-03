@@ -1,8 +1,16 @@
 {
- "collected_utc": "2026-10-03T07:07:01.066085+00:00",
- "collected_epoch": 1791011221.066085,
+ "collected_utc": "2026-10-03T07:37:01.066079+00:00",
+ "collected_epoch": 1791013021.066079,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "The Atlanta Journal-Constitution",
+   "title": "US stocks rise near their record after the latest jobs report eases worries about inflation",
+   "summary": "U.S. stocks are rising near their record after the latest jobs report cooled worries that a potentially hot U.S economy could make inflation worse. The S&P 500 climbed 0.7% Friday and pulled within 1% of its all-time high. The Dow Jones Industrial Average added 233 points, and the Nasdaq composite rose 1.2%. They got a boost after a report showed U.S. employers slowed their hiring last month. That pushed traders to pare bets that the Federal Reserve will hike interest rates later this month. Treasury yields initially tumbled but later retraced their losses as oil prices recovered most of an early swoon.",
+   "url": "https://www.ajc.com/news/2026/10/us-stocks-rise-near-their-record-after-the-latest-jobs-report-eases-worries-about-inflation/",
+   "published_utc": "2026-10-02T19:22:10+00:00"
+  },
   {
    "provider": "gnews",
    "source": "The Economic Times",
@@ -74,14 +82,6 @@
    "summary": "With its currency pegged to the US dollar, Hong Kong flinches when the Federal Reserve starts raising interest rates.",
    "url": "https://www.livemint.com/market/hong-kong-investors-buying-us-treasuries-is-anobrainer-11790879988010.html",
    "published_utc": "2026-10-01T18:39:47+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "Bloomberg Tax News",
-   "title": "Hong Kong Investors Buying Treasuries Is a No-Brainer: Shuli Ren",
-   "summary": "With its currency pegged to the US dollar, Hong Kong flinches when the Federal Reserve starts raising interest rates.",
-   "url": "https://news.bloombergtax.com/daily-tax-report/hong-kong-investors-buying-treasuries-is-a-no-brainer-shuli-ren",
-   "published_utc": "2026-10-01T18:00:01+00:00"
   }
  ]
 }
