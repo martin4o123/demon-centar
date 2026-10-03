@@ -1,8 +1,16 @@
 {
- "collected_utc": "2026-10-03T00:37:01.059553+00:00",
- "collected_epoch": 1790987821.059553,
+ "collected_utc": "2026-10-03T01:07:01.058458+00:00",
+ "collected_epoch": 1790989621.058458,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "New York Post",
+   "title": "Job growth cools in September -- sorely missing forecasts",
+   "summary": "Employers hired at a steady pace in September, enough to keep the unemployment rate steady and the Federal Reserve’s focus squarely on inflation – meaning more interest-rate hikes are likely.",
+   "url": "https://nypost.com/2026/10/02/business/job-growth-cools-in-september-sorely-missing-forecasts/",
+   "published_utc": "2026-10-02T12:45:48+00:00"
+  },
   {
    "provider": "gnews",
    "source": "Phys.org",
@@ -74,14 +82,6 @@
    "summary": "John Williams, the president of the Federal Reserve Bank of New York, shared insights on the economy, inflation and AI.",
    "url": "https://buffalonews.com/news/local/business/article_0a02d530-7de9-453c-bd16-dbc0456b24ff.html",
    "published_utc": "2026-10-01T17:00:00+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "MarketScreener",
-   "title": "Oil Rises as Supply Concerns Persist Despite -2-",
-   "summary": "Gold Edges Higher as U.S. Inflation Data Tempers Rate-Hike Bets -- Market Talk\n0745 GMT - Gold ticks higher as investors weigh lower expectations for another Federal Reserve interest-rate increase...\n-October 01, 2026 at 12:07 pm EDT\n- MarketScreener",
-   "url": "https://www.marketscreener.com/news/oil-rises-as-supply-concerns-persist-despite-2-ce785ddad88af321",
-   "published_utc": "2026-10-01T16:07:44+00:00"
   }
  ]
 }
