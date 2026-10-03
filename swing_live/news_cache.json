@@ -1,8 +1,16 @@
 {
- "collected_utc": "2026-10-03T19:37:01.075908+00:00",
- "collected_epoch": 1791056221.075908,
+ "collected_utc": "2026-10-03T20:07:01.079478+00:00",
+ "collected_epoch": 1791058021.079478,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "The Atlanta Journal-Constitution",
+   "title": "Wall Street week ahead: Fed minutes, unemployment data, consumer sentiment update",
+   "summary": "Wall Street has a busy week ahead with a mix of economic updates and details about the Federal Reserve’s decision to raise interest rates at its last meeting. The updates include fresh data on the health of the services sector, unemployment and consumer sentiment. Those reports can help give investors and economists more insight into how businesses and households are adapting to persistently high inflation. The minutes from the Fed’s last meeting will also give Wall Street more details about the central bank’s decision-making process for interest rate policy.",
+   "url": "https://www.ajc.com/news/2026/10/wall-street-week-ahead-fed-minutes-unemployment-data-consumer-sentiment-update/",
+   "published_utc": "2026-10-03T08:02:25+00:00"
+  },
   {
    "provider": "gnews",
    "source": "The Atlanta Journal-Constitution",
@@ -74,14 +82,6 @@
    "summary": "(CNN) — Last month, the Federal Reserve raised interest rates for the first time in more than three years, as it tries to bring inflation under control. But higher rates",
    "url": "https://buffalonews.com/news/nation-world/business/article_4626dc6b-8887-51b9-90bf-f0111dd5b1e0.html",
    "published_utc": "2026-10-01T18:41:43+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "Livemint",
-   "title": "Hong Kong Investors Buying US Treasuries Is a No-Brainer",
-   "summary": "With its currency pegged to the US dollar, Hong Kong flinches when the Federal Reserve starts raising interest rates.",
-   "url": "https://www.livemint.com/market/hong-kong-investors-buying-us-treasuries-is-anobrainer-11790879988010.html",
-   "published_utc": "2026-10-01T18:39:47+00:00"
   }
  ]
 }
