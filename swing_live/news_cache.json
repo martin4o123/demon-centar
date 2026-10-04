@@ -1,6 +1,6 @@
 {
- "collected_utc": "2026-10-04T03:07:01.085882+00:00",
- "collected_epoch": 1791083221.085882,
+ "collected_utc": "2026-10-04T03:37:01.115520+00:00",
+ "collected_epoch": 1791085021.11552,
  "cached": false,
  "items": [
   {
@@ -26,6 +26,14 @@
    "summary": "U.S. hiring slowed in September as employers added just 29,000 jobs. The disappointing jobs report has wide-reaching implications for consumer prices and interest rates, and it comes a month before Americans head to the polls for midterm elections. Amna Nawaz discussed more with Beth Hammack, president of the Federal Reserve Bank of Cleveland.",
    "url": "https://www.pbs.org/newshour/show/what-a-hiring-slowdown-signals-about-the-state-of-the-u-s-economy",
    "published_utc": "2026-10-02T22:55:34+00:00"
+  },
+  {
+   "provider": "gnews",
+   "source": "MarketScreener",
+   "title": "TSX pares weekly decline as investors reduce Fed rate hike bets",
+   "summary": "Canada's main stock index rallied on Friday, led by materials and industrial shares, after weaker-than-expected US jobs data bolstered expectations the Federal Reserve would leave interest rates on...",
+   "url": "https://www.marketscreener.com/news/tsx-pares-weekly-decline-as-investors-reduce-fed-rate-hike-bets-ce785ddbd880f024",
+   "published_utc": "2026-10-02T20:30:21+00:00"
   },
   {
    "provider": "gnews",
@@ -74,14 +82,6 @@
    "summary": "US jobless claims stayed below 200,000 for three weeks. Will low layoffs and rising factory prices push the Federal Reserve to raise interest rates in October?",
    "url": "https://www.hindustantimes.com/world-news/us-news/us-jobless-claims-below-200-000-for-3rd-week-as-layoffs-fall-will-fed-raise-rates-101790878998405.html",
    "published_utc": "2026-10-01T18:55:57+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "Buffalo Buffalo News",
-   "title": "How are higher interest rates and rising prices affecting you?",
-   "summary": "(CNN) — Last month, the Federal Reserve raised interest rates for the first time in more than three years, as it tries to bring inflation under control. But higher rates",
-   "url": "https://buffalonews.com/news/nation-world/business/article_4626dc6b-8887-51b9-90bf-f0111dd5b1e0.html",
-   "published_utc": "2026-10-01T18:41:43+00:00"
   }
  ]
 }
