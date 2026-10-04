@@ -1,6 +1,6 @@
 {
- "collected_utc": "2026-10-04T02:37:01.092365+00:00",
- "collected_epoch": 1791081421.092365,
+ "collected_utc": "2026-10-04T03:07:01.085882+00:00",
+ "collected_epoch": 1791083221.085882,
  "cached": false,
  "items": [
   {
@@ -18,6 +18,14 @@
    "summary": "Wall Street has a busy week ahead with a mix of economic updates and details about the Federal Reserve’s decision to raise interest rates at its last meeting. The updates include fresh data on the health of the services sector, unemployment and consumer sentiment. Those reports can help give investors and economists more insight into how businesses and households are adapting to persistently high inflation. The minutes from the Fed’s last meeting will also give Wall Street more details about the central bank’s decision-making process for interest rate policy.",
    "url": "https://www.ajc.com/news/2026/10/wall-street-week-ahead-fed-minutes-unemployment-data-consumer-sentiment-update/",
    "published_utc": "2026-10-03T08:02:25+00:00"
+  },
+  {
+   "provider": "gnews",
+   "source": "PBS News",
+   "title": "What a hiring slowdown signals about the state of the U.S. economy",
+   "summary": "U.S. hiring slowed in September as employers added just 29,000 jobs. The disappointing jobs report has wide-reaching implications for consumer prices and interest rates, and it comes a month before Americans head to the polls for midterm elections. Amna Nawaz discussed more with Beth Hammack, president of the Federal Reserve Bank of Cleveland.",
+   "url": "https://www.pbs.org/newshour/show/what-a-hiring-slowdown-signals-about-the-state-of-the-u-s-economy",
+   "published_utc": "2026-10-02T22:55:34+00:00"
   },
   {
    "provider": "gnews",
@@ -66,14 +74,6 @@
    "summary": "US jobless claims stayed below 200,000 for three weeks. Will low layoffs and rising factory prices push the Federal Reserve to raise interest rates in October?",
    "url": "https://www.hindustantimes.com/world-news/us-news/us-jobless-claims-below-200-000-for-3rd-week-as-layoffs-fall-will-fed-raise-rates-101790878998405.html",
    "published_utc": "2026-10-01T18:55:57+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "ABC17News.com",
-   "title": "How are higher interest rates and rising prices affecting you?",
-   "summary": "By Elisabeth Buchwald, CNN (CNN) — Last month, the Federal Reserve raised interest rates for the first time in more than three years, as it tries to bring inflation under control. But higher rates make borrowing more expensive for consumers and businesses — one reason mortgage rates have climbed to a three-year high in recent",
-   "url": "https://abc17news.com/money/cnn-business-consumer/2026/10/01/how-are-higher-interest-rates-and-rising-prices-affecting-you/",
-   "published_utc": "2026-10-01T18:41:43+00:00"
   },
   {
    "provider": "gnews",
