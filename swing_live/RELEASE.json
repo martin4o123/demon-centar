@@ -1,9 +1,9 @@
 {
   "schema": 1,
   "product_id": "admiral-swing-live",
-  "version": "0.9.68",
-  "published_utc": "2026-10-03T09:14:13.088390+00:00",
-  "notes": "ROBOT.bat вече се опреснява от каноничния шаблон в пакета при всеки ъпдейт (стари лаунчери с BOM/без test се лекуват сами). Смяна на клиентска парола от собственика през License Manager — криптирана с лицензния ключ на клиента, прилага се с часовия ъпдейт чек. Рестарт след ъпдейт вече не зависи от owner-скриптове.",
+  "version": "0.9.69",
+  "published_utc": "2026-10-04T13:17:36.891938+00:00",
+  "notes": "Седмичен одит: default пазители синхронизирани към 3%/10% навсякъде; двигателят праща дневен engine_pulse (dead-man за всяка машина); здравният чек вече не флагва пенсионирания bridge; таблото чете breakeven от конфига; тестовете вече не замърсяват телеметрията (DEMON_TELEMETRY_OFF).",
   "publisher": {
     "algorithm": "RSA-3072-PKCS1v15-SHA256",
     "key_id": "da6dbc7a152497ac",
@@ -14,8 +14,8 @@
     "signature": "MANIFEST.sig"
   },
   "installer": {
-    "file": "releases/0.9.68/swing_live-0.9.68.zip",
-    "bytes": 1711629,
-    "sha256": "e589773b7ddf453bbd98a4db435c9d2e685953bdefcae11640729445dcb1456a"
+    "file": "releases/0.9.69/swing_live-0.9.69.zip",
+    "bytes": 1712037,
+    "sha256": "76e3632ae8e3c737887f423053afca52ba7c7f0f1ea672e89048c216d6abc84e"
   }
 }

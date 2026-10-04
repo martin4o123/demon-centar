@@ -1,87 +1,23 @@
 {
- "collected_utc": "2026-10-04T13:07:01.096365+00:00",
- "collected_epoch": 1791119221.096365,
+ "collected_utc": "2026-10-04T13:17:28.510137+00:00",
+ "collected_epoch": 1791119848.510137,
  "cached": false,
  "items": [
   {
    "provider": "gnews",
-   "source": "EUROPE SAYS",
-   "title": "US Fed, ECB minutes to show inflation fears as hike bets fade",
-   "summary": "(Oct 4): Any urgency among Federal Reserve and European Central Bank policymakers to follow up September interest-rate hikes at this month’s meetings has been",
-   "url": "https://www.europesays.com/3288460/",
-   "published_utc": "2026-10-04T00:17:15+00:00"
+   "source": "Reuters",
+   "title": "Fed holds interest rates",
+   "summary": "FOMC decision",
+   "url": "https://example.com/1",
+   "published_utc": "2026-09-14T10:00:00+00:00"
   },
   {
    "provider": "gnews",
-   "source": "EUROPE SAYS",
-   "title": "Top 3 Japanese Hidden Gem Stocks To Watch In October 2026",
-   "summary": "The Federal Reserve has just lifted US interest rates again, and higher borrowing costs are rippling through global markets. Big money often rotates toward",
-   "url": "https://www.europesays.com/3288004/",
-   "published_utc": "2026-10-03T18:42:34+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "Washington Examiner",
-   "title": "Federal Reserve expected to raise interest rates again",
-   "summary": "Warsh promised to have high ethical standards. Until inflation is tamed, the president is likely to have to live with a monetary policy he doesn’t like.",
-   "url": "https://www.washingtonexaminer.com/news/business/4744131/fed-expected-raise-interest-rates-against-trump-wishes-until-inflation-is-tamed/",
-   "published_utc": "2026-10-03T10:15:00+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "The Atlanta Journal-Constitution",
-   "title": "Wall Street week ahead: Fed minutes, unemployment data, consumer sentiment update",
-   "summary": "Wall Street has a busy week ahead with a mix of economic updates and details about the Federal Reserve’s decision to raise interest rates at its last meeting. The updates include fresh data on the health of the services sector, unemployment and consumer sentiment. Those reports can help give investors and economists more insight into how businesses and households are adapting to persistently high inflation. The minutes from the Fed’s last meeting will also give Wall Street more details about the central bank’s decision-making process for interest rate policy.",
-   "url": "https://www.ajc.com/news/2026/10/wall-street-week-ahead-fed-minutes-unemployment-data-consumer-sentiment-update/",
-   "published_utc": "2026-10-03T08:02:25+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "PBS News",
-   "title": "What a hiring slowdown signals about the state of the U.S. economy",
-   "summary": "U.S. hiring slowed in September as employers added just 29,000 jobs. The disappointing jobs report has wide-reaching implications for consumer prices and interest rates, and it comes a month before Americans head to the polls for midterm elections. Amna Nawaz discussed more with Beth Hammack, president of the Federal Reserve Bank of Cleveland.",
-   "url": "https://www.pbs.org/newshour/show/what-a-hiring-slowdown-signals-about-the-state-of-the-u-s-economy",
-   "published_utc": "2026-10-02T22:55:34+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "MarketScreener",
-   "title": "TSX pares weekly decline as investors reduce Fed rate hike bets",
-   "summary": "Canada's main stock index rallied on Friday, led by materials and industrial shares, after weaker-than-expected US jobs data bolstered expectations the Federal Reserve would leave interest rates on...",
-   "url": "https://www.marketscreener.com/news/tsx-pares-weekly-decline-as-investors-reduce-fed-rate-hike-bets-ce785ddbd880f024",
-   "published_utc": "2026-10-02T20:30:21+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "The Atlanta Journal-Constitution",
-   "title": "US stocks rise near their record after the latest jobs report eases worries about inflation",
-   "summary": "U.S. stocks are rising near their record after the latest jobs report cooled worries that a potentially hot U.S economy could make inflation worse. The S&P 500 climbed 0.7% Friday and pulled within 1% of its all-time high. The Dow Jones Industrial Average added 233 points, and the Nasdaq composite rose 1.2%. They got a boost after a report showed U.S. employers slowed their hiring last month. That pushed traders to pare bets that the Federal Reserve will hike interest rates later this month. Treasury yields initially tumbled but later retraced their losses as oil prices recovered most of an early swoon.",
-   "url": "https://www.ajc.com/news/2026/10/us-stocks-rise-near-their-record-after-the-latest-jobs-report-eases-worries-about-inflation/",
-   "published_utc": "2026-10-02T19:22:10+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "The Economic Times",
-   "title": "U.S. hiring stalls at 29,000, yet Dow, S&P 500 and Nasdaq surge: Why Wall Street welcomed September’s weak jobs report",
-   "summary": "US jobs report and markets: The U.S. added only 29,000 jobs in September, far below the 90,000 economists expected. Unemployment also edged up to 4.2%. On the surface, that looks like bad news for the economy. Wall Street saw another side of it. The Dow rose 0.64%, the S&P 500 gained 0.90%, and the Nasdaq climbed 1.39%. The reason was the growing possibility that weaker hiring could reduce pressure on the Federal Reserve to keep interest rates high.",
-   "url": "https://economictimes.indiatimes.com/news/international/us/u-s-hiring-stalls-at-29000-yet-dow-sp-500-and-nasdaq-surge-why-wall-street-welcomed-septembers-weak-jobs-report/articleshow/134641191.cms",
-   "published_utc": "2026-10-02T13:49:00+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "New York Post",
-   "title": "Job growth cools in September -- sorely missing forecasts",
-   "summary": "Employers hired at a steady pace in September, enough to keep the unemployment rate steady and the Federal Reserve’s focus squarely on inflation – meaning more interest-rate hikes are likely.",
-   "url": "https://nypost.com/2026/10/02/business/job-growth-cools-in-september-sorely-missing-forecasts/",
-   "published_utc": "2026-10-02T12:45:48+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "Phys.org",
-   "title": "The economy is resilient: Why do many Americans feel differently? An expert explains",
-   "summary": "Even as the Federal Reserve moves to raise interest rates for the first time in three years, many of the metrics that economists rely on to gauge the overall health of the economy—like jobs reports, the unemployment rate and the stock market—have looked relatively strong in recent months. Despite this, only about 24% of Americans rated the economy as \"good\" or \"excellent\" in a recent Pew Research Center survey.",
-   "url": "https://phys.org/news/2026-10-economy-resilient-americans-differently-expert.html",
-   "published_utc": "2026-10-02T11:20:07+00:00"
+   "source": "AP",
+   "title": "ECB outlook",
+   "summary": "inflation cools",
+   "url": "https://example.com/2",
+   "published_utc": "2026-09-14T09:00:00+00:00"
   }
  ]
 }
