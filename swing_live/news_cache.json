@@ -1,8 +1,16 @@
 {
- "collected_utc": "2026-10-05T08:37:01.087334+00:00",
- "collected_epoch": 1791189421.087334,
+ "collected_utc": "2026-10-05T09:07:01.129973+00:00",
+ "collected_epoch": 1791191221.129973,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "EUROPE SAYS",
+   "title": "Let exchange rate act as shock absorber: IMF on Fed hike impact on India",
+   "summary": "On September 17, the Federal Reserve raised interest rates for the first time since July 2023 and indicated another hike could follow, as part of its effort",
+   "url": "https://www.europesays.com/3290172/",
+   "published_utc": "2026-10-04T20:48:19+00:00"
+  },
   {
    "provider": "gnews",
    "source": "EUROPE SAYS",
@@ -74,14 +82,6 @@
    "summary": "Employers hired at a steady pace in September, enough to keep the unemployment rate steady and the Federal Reserve’s focus squarely on inflation – meaning more interest-rate hikes are likely.",
    "url": "https://nypost.com/2026/10/02/business/job-growth-cools-in-september-sorely-missing-forecasts/",
    "published_utc": "2026-10-02T12:45:48+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "Phys.org",
-   "title": "The economy is resilient: Why do many Americans feel differently? An expert explains",
-   "summary": "Even as the Federal Reserve moves to raise interest rates for the first time in three years, many of the metrics that economists rely on to gauge the overall health of the economy—like jobs reports, the unemployment rate and the stock market—have looked relatively strong in recent months. Despite this, only about 24% of Americans rated the economy as \"good\" or \"excellent\" in a recent Pew Research Center survey.",
-   "url": "https://phys.org/news/2026-10-economy-resilient-americans-differently-expert.html",
-   "published_utc": "2026-10-02T11:20:07+00:00"
   }
  ]
 }
