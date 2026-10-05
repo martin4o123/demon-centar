@@ -1,8 +1,16 @@
 {
- "collected_utc": "2026-10-05T13:37:01.360120+00:00",
- "collected_epoch": 1791207421.36012,
+ "collected_utc": "2026-10-05T14:07:01.355132+00:00",
+ "collected_epoch": 1791209221.355132,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "The Economic Times",
+   "title": "Gold inches up as October Fed rate hike prospects fade",
+   "summary": "During early Monday trading in Asia, gold prices surged due to lackluster US job growth figures. This disappointing employment data notably diminished the Federal Reserve's likelihood of raising interest rates in October, prompting investors to pivot towards safe-haven assets. Spot gold climbed to $4,153.32 per ounce, while silver and platinum also experienced price increases as market reactions unfolded. Economic trends are steering investment behaviors in precious metals significantly.",
+   "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-inches-up-as-october-fed-rate-hike-prospects-fade/articleshow/134683767.cms",
+   "published_utc": "2026-10-05T01:56:00+00:00"
+  },
   {
    "provider": "gnews",
    "source": "EUROPE SAYS",
@@ -74,14 +82,6 @@
    "summary": "U.S. stocks are rising near their record after the latest jobs report cooled worries that a potentially hot U.S economy could make inflation worse. The S&P 500 climbed 0.7% Friday and pulled within 1% of its all-time high. The Dow Jones Industrial Average added 233 points, and the Nasdaq composite rose 1.2%. They got a boost after a report showed U.S. employers slowed their hiring last month. That pushed traders to pare bets that the Federal Reserve will hike interest rates later this month. Treasury yields initially tumbled but later retraced their losses as oil prices recovered most of an early swoon.",
    "url": "https://www.ajc.com/news/2026/10/us-stocks-rise-near-their-record-after-the-latest-jobs-report-eases-worries-about-inflation/",
    "published_utc": "2026-10-02T19:22:10+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "The Economic Times",
-   "title": "U.S. hiring stalls at 29,000, yet Dow, S&P 500 and Nasdaq surge: Why Wall Street welcomed September’s weak jobs report",
-   "summary": "US jobs report and markets: The U.S. added only 29,000 jobs in September, far below the 90,000 economists expected. Unemployment also edged up to 4.2%. On the surface, that looks like bad news for the economy. Wall Street saw another side of it. The Dow rose 0.64%, the S&P 500 gained 0.90%, and the Nasdaq climbed 1.39%. The reason was the growing possibility that weaker hiring could reduce pressure on the Federal Reserve to keep interest rates high.",
-   "url": "https://economictimes.indiatimes.com/news/international/us/u-s-hiring-stalls-at-29000-yet-dow-sp-500-and-nasdaq-surge-why-wall-street-welcomed-septembers-weak-jobs-report/articleshow/134641191.cms",
-   "published_utc": "2026-10-02T13:49:00+00:00"
   }
  ]
 }
