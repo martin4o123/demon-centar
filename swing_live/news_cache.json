@@ -1,8 +1,16 @@
 {
- "collected_utc": "2026-10-05T11:07:01.180159+00:00",
- "collected_epoch": 1791198421.180159,
+ "collected_utc": "2026-10-05T11:37:01.148398+00:00",
+ "collected_epoch": 1791200221.148398,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "EUROPE SAYS",
+   "title": "Let exchange rate act as shock absorber: IMF on Fed hike impact on India",
+   "summary": "WASHINGTON, Oct 4 : The International Monetary Fund has said the US Federal Reserve's decision to hike interest rates would contribute to tighter global",
+   "url": "https://www.europesays.com/3290416/",
+   "published_utc": "2026-10-04T23:36:22+00:00"
+  },
   {
    "provider": "gnews",
    "source": "EUROPE SAYS",
@@ -74,14 +82,6 @@
    "summary": "US jobs report and markets: The U.S. added only 29,000 jobs in September, far below the 90,000 economists expected. Unemployment also edged up to 4.2%. On the surface, that looks like bad news for the economy. Wall Street saw another side of it. The Dow rose 0.64%, the S&P 500 gained 0.90%, and the Nasdaq climbed 1.39%. The reason was the growing possibility that weaker hiring could reduce pressure on the Federal Reserve to keep interest rates high.",
    "url": "https://economictimes.indiatimes.com/news/international/us/u-s-hiring-stalls-at-29000-yet-dow-sp-500-and-nasdaq-surge-why-wall-street-welcomed-septembers-weak-jobs-report/articleshow/134641191.cms",
    "published_utc": "2026-10-02T13:49:00+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "New York Post",
-   "title": "Job growth cools in September -- sorely missing forecasts",
-   "summary": "Employers hired at a steady pace in September, enough to keep the unemployment rate steady and the Federal Reserve’s focus squarely on inflation – meaning more interest-rate hikes are likely.",
-   "url": "https://nypost.com/2026/10/02/business/job-growth-cools-in-september-sorely-missing-forecasts/",
-   "published_utc": "2026-10-02T12:45:48+00:00"
   }
  ]
 }
