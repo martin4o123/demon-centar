@@ -1,8 +1,16 @@
 {
- "collected_utc": "2026-10-06T14:07:01.733072+00:00",
- "collected_epoch": 1791295621.733072,
+ "collected_utc": "2026-10-06T14:37:01.161742+00:00",
+ "collected_epoch": 1791297421.161742,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "The Economic Times",
+   "title": "Gold steady as firm dollar counters softer US rate-hike bets",
+   "summary": "Gold prices demonstrated stability amidst a stronger dollar, which countered the positive effects of moderating Federal Reserve rate hike anticipations. The price for spot gold remained steady at $4,141.81 per ounce, while US gold futures experienced a slight increase, reaching $4,169.10. The ongoing rise in interest rates raises the opportunity cost associated with gold, making it less appealing for investors.",
+   "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-steady-as-firm-dollar-counters-softer-us-rate-hike-bets/articleshow/134720923.cms",
+   "published_utc": "2026-10-06T02:08:00+00:00"
+  },
   {
    "provider": "gnews",
    "source": "The Economic Times",
@@ -74,14 +82,6 @@
    "summary": "U.S. hiring slowed in September as employers added just 29,000 jobs. The disappointing jobs report has wide-reaching implications for consumer prices and interest rates, and it comes a month before Americans head to the polls for midterm elections. Amna Nawaz discussed more with Beth Hammack, president of the Federal Reserve Bank of Cleveland.",
    "url": "https://www.pbs.org/newshour/show/what-a-hiring-slowdown-signals-about-the-state-of-the-u-s-economy",
    "published_utc": "2026-10-02T22:55:34+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "MarketScreener",
-   "title": "TSX pares weekly decline as investors reduce Fed rate hike bets",
-   "summary": "Canada's main stock index rallied on Friday, led by materials and industrial shares, after weaker-than-expected US jobs data bolstered expectations the Federal Reserve would leave interest rates on...",
-   "url": "https://www.marketscreener.com/news/tsx-pares-weekly-decline-as-investors-reduce-fed-rate-hike-bets-ce785ddbd880f024",
-   "published_utc": "2026-10-02T20:30:21+00:00"
   }
  ]
 }
