@@ -1,8 +1,16 @@
 {
- "collected_utc": "2026-10-07T05:37:01.189649+00:00",
- "collected_epoch": 1791351421.189649,
+ "collected_utc": "2026-10-07T06:07:01.176928+00:00",
+ "collected_epoch": 1791353221.176928,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "The Economic Times",
+   "title": "Fed plans bank-supervision overhaul to strengthen accountability, says Vice Chair Michelle Bowman",
+   "summary": "The Federal Reserve is set to realign its bank supervision system for increased accountability and efficient decision-making. Five new geographic supervisory regions will be established, each led by a regional leader. This new structure aims to address concerns raised in an independent review of Silicon Valley Banks collapse. The Fed will also reconsider asset thresholds for regulatory requirements to better align with inflation and economic growth.",
+   "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/fed-plans-bank-supervision-overhaul-to-strengthen-accountability-says-vice-chair-michelle-bowman/articleshow/134747705.cms",
+   "published_utc": "2026-10-06T18:05:00+00:00"
+  },
   {
    "provider": "gnews",
    "source": "The Economic Times",
@@ -74,14 +82,6 @@
    "summary": "Wall Street has a busy week ahead with a mix of economic updates and details about the Federal Reserve’s decision to raise interest rates at its last meeting. The updates include fresh data on the health of the services sector, unemployment and consumer sentiment. Those reports can help give investors and economists more insight into how businesses and households are adapting to persistently high inflation. The minutes from the Fed’s last meeting will also give Wall Street more details about the central bank’s decision-making process for interest rate policy.",
    "url": "https://www.ajc.com/news/2026/10/wall-street-week-ahead-fed-minutes-unemployment-data-consumer-sentiment-update/",
    "published_utc": "2026-10-03T08:02:25+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "PBS News",
-   "title": "What a hiring slowdown signals about the state of the U.S. economy",
-   "summary": "U.S. hiring slowed in September as employers added just 29,000 jobs. The disappointing jobs report has wide-reaching implications for consumer prices and interest rates, and it comes a month before Americans head to the polls for midterm elections. Amna Nawaz discussed more with Beth Hammack, president of the Federal Reserve Bank of Cleveland.",
-   "url": "https://www.pbs.org/newshour/show/what-a-hiring-slowdown-signals-about-the-state-of-the-u-s-economy",
-   "published_utc": "2026-10-02T22:55:34+00:00"
   }
  ]
 }
