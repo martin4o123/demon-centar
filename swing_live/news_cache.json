@@ -1,8 +1,16 @@
 {
- "collected_utc": "2026-10-07T12:07:01.232462+00:00",
- "collected_epoch": 1791374821.232462,
+ "collected_utc": "2026-10-07T12:37:01.172729+00:00",
+ "collected_epoch": 1791376621.172729,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "Livemint",
+   "title": "Gold Steady as More Oil and Falling Yields Ease Rate-Hike Bets",
+   "summary": "Gold held gains as increasing oil supplies from the Middle East and a decline in bond yields eased pressure on the US Federal Reserve to hike interest rates this month.",
+   "url": "https://www.livemint.com/market/gold-steady-as-more-oil-and-falling-yields-ease-rate-hike-bets-11791333075934.html",
+   "published_utc": "2026-10-07T00:31:15+00:00"
+  },
   {
    "provider": "gnews",
    "source": "The Economic Times",
@@ -74,14 +82,6 @@
    "summary": "Warsh promised to have high ethical standards. Until inflation is tamed, the president is likely to have to live with a monetary policy he doesn’t like.",
    "url": "https://www.washingtonexaminer.com/news/business/4744131/fed-expected-raise-interest-rates-against-trump-wishes-until-inflation-is-tamed/",
    "published_utc": "2026-10-03T10:15:00+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "The Atlanta Journal-Constitution",
-   "title": "Wall Street week ahead: Fed minutes, unemployment data, consumer sentiment update",
-   "summary": "Wall Street has a busy week ahead with a mix of economic updates and details about the Federal Reserve’s decision to raise interest rates at its last meeting. The updates include fresh data on the health of the services sector, unemployment and consumer sentiment. Those reports can help give investors and economists more insight into how businesses and households are adapting to persistently high inflation. The minutes from the Fed’s last meeting will also give Wall Street more details about the central bank’s decision-making process for interest rate policy.",
-   "url": "https://www.ajc.com/news/2026/10/wall-street-week-ahead-fed-minutes-unemployment-data-consumer-sentiment-update/",
-   "published_utc": "2026-10-03T08:02:25+00:00"
   }
  ]
 }
