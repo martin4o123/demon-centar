@@ -1,8 +1,16 @@
 {
- "collected_utc": "2026-10-07T13:37:01.218086+00:00",
- "collected_epoch": 1791380221.218086,
+ "collected_utc": "2026-10-07T14:07:01.804928+00:00",
+ "collected_epoch": 1791382021.804928,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "The Economic Times",
+   "title": "Gold flat as focus turns to Fed minutes",
+   "summary": "Gold prices remained steady as market participants look forward to insights from the Federal Reserve's upcoming meeting minutes. Spot gold hovered at $4,159.62 per ounce, while December futures were valued at $4,187.30. Amid ongoing inflation and recent sluggish economic indicators, Fed discussions around interest rate hikes are influencing investor sentiment, with many opting for yield-generating assets over gold.",
+   "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-flat-as-focus-turns-to-fed-minutes/articleshow/134753704.cms",
+   "published_utc": "2026-10-07T01:58:00+00:00"
+  },
   {
    "provider": "gnews",
    "source": "Livemint",
@@ -74,14 +82,6 @@
    "summary": "The Federal Reserve has just lifted US interest rates again, and higher borrowing costs are rippling through global markets. Big money often rotates toward",
    "url": "https://www.europesays.com/3288004/",
    "published_utc": "2026-10-03T18:42:34+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "Washington Examiner",
-   "title": "Federal Reserve expected to raise interest rates again",
-   "summary": "Warsh promised to have high ethical standards. Until inflation is tamed, the president is likely to have to live with a monetary policy he doesn’t like.",
-   "url": "https://www.washingtonexaminer.com/news/business/4744131/fed-expected-raise-interest-rates-against-trump-wishes-until-inflation-is-tamed/",
-   "published_utc": "2026-10-03T10:15:00+00:00"
   }
  ]
 }
