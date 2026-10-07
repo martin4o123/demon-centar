@@ -1,8 +1,16 @@
 {
- "collected_utc": "2026-10-07T14:07:01.804928+00:00",
- "collected_epoch": 1791382021.804928,
+ "collected_utc": "2026-10-07T14:37:00.749430+00:00",
+ "collected_epoch": 1791383820.74943,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "Moneycontrol",
+   "title": "Commodity Corner: Oil gains on supply fears; gold holds firm as yields ease",
+   "summary": "Gold held gains as increasing oil supplies from the Middle East and a decline in bond yields eased pressure on the US Federal Reserve to hike interest rates this month.",
+   "url": "https://www.moneycontrol.com/news/business/commodities/commodity-corner-oil-gains-on-supply-fears-gold-holds-firm-as-yields-ease-14046028.html",
+   "published_utc": "2026-10-07T02:10:11+00:00"
+  },
   {
    "provider": "gnews",
    "source": "The Economic Times",
@@ -74,14 +82,6 @@
    "summary": "(Oct 4): Any urgency among Federal Reserve and European Central Bank policymakers to follow up September interest-rate hikes at this month’s meetings has been",
    "url": "https://www.europesays.com/3288460/",
    "published_utc": "2026-10-04T00:17:15+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "EUROPE SAYS",
-   "title": "Top 3 Japanese Hidden Gem Stocks To Watch In October 2026",
-   "summary": "The Federal Reserve has just lifted US interest rates again, and higher borrowing costs are rippling through global markets. Big money often rotates toward",
-   "url": "https://www.europesays.com/3288004/",
-   "published_utc": "2026-10-03T18:42:34+00:00"
   }
  ]
 }
