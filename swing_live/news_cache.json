@@ -1,8 +1,16 @@
 {
- "collected_utc": "2026-10-07T16:07:00.761967+00:00",
- "collected_epoch": 1791389220.761967,
+ "collected_utc": "2026-10-07T16:37:00.785517+00:00",
+ "collected_epoch": 1791391020.785517,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "CNBC TV18",
+   "title": "RBI Monetary Policy: Rates raised by 25 bps, stance changed to 'calibrated tightening'",
+   "summary": "With this rate hike, the RBI has joined other major global central banks, including the US Federal Reserve, the European Central Bank (ECB), the Bank of Japan (BoJ) and the Bank of Korea (BoK) who have embarked on a policy tightening cycle.",
+   "url": "https://www.cnbctv18.com/economy/rbi-mpc-meeting-outcome-repo-rate-hike-stance-gdp-inflation-forecast-governor-sanjay-malhotra-20006345.htm",
+   "published_utc": "2026-10-07T04:34:13+00:00"
+  },
   {
    "provider": "gnews",
    "source": "Moneycontrol",
@@ -74,14 +82,6 @@
    "summary": "On September 17, the Federal Reserve raised interest rates for the first time since July 2023 and indicated another hike could follow, as part of its effort",
    "url": "https://www.europesays.com/3290172/",
    "published_utc": "2026-10-04T20:48:19+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "EUROPE SAYS",
-   "title": "US Fed, ECB minutes to show inflation fears as hike bets fade",
-   "summary": "(Oct 4): Any urgency among Federal Reserve and European Central Bank policymakers to follow up September interest-rate hikes at this month’s meetings has been",
-   "url": "https://www.europesays.com/3288460/",
-   "published_utc": "2026-10-04T00:17:15+00:00"
   }
  ]
 }
