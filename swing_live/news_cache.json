@@ -1,8 +1,16 @@
 {
- "collected_utc": "2026-10-08T12:37:00.783822+00:00",
- "collected_epoch": 1791463020.783822,
+ "collected_utc": "2026-10-08T13:07:00.769990+00:00",
+ "collected_epoch": 1791464820.76999,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "Reuters",
+   "title": "Dollar edges back from 18-month high after FOMC minutes",
+   "summary": "The dollar held near its strongest level in a year-and-a-half in subdued trading at the start of the Asian session on ​Thursday, after hawkish minutes from the Federal Open Market Committee signaled policymakers ‌at the US central bank viewed inflation as the biggest risk to their outlook.",
+   "url": "https://www.reuters.com/world/africa/dollar-edges-back-18-month-high-after-fomc-minutes-2026-10-08/",
+   "published_utc": "2026-10-08T00:43:19+00:00"
+  },
   {
    "provider": "gnews",
    "source": "The Boston Herald",
@@ -57,14 +65,6 @@
    "title": "Federal Reserve officials expect another rate hike needed this year",
    "summary": "Most Federal Reserve officials expect that another interest rate increase will likely be needed this year to combat inflation, minutes released Wednesday from the central bank’s most recent meeting showed.",
    "url": "https://www.pilotonline.com/2026/10/07/federal-reserve-minutes-rate-hike/",
-   "published_utc": "2026-10-07T18:15:39+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "San Diego Union-Tribune",
-   "title": "Federal Reserve officials expect another rate hike needed this year",
-   "summary": "Most Federal Reserve officials expect that another interest rate increase will likely be needed this year to combat inflation, minutes released Wednesday from the central bank’s most recent meeting showed.",
-   "url": "https://www.sandiegouniontribune.com/2026/10/07/federal-reserve-minutes-rate-hike/",
    "published_utc": "2026-10-07T18:15:39+00:00"
   },
   {
