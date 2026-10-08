@@ -1,8 +1,16 @@
 {
- "collected_utc": "2026-10-08T18:37:00.788979+00:00",
- "collected_epoch": 1791484620.788979,
+ "collected_utc": "2026-10-08T19:07:00.813215+00:00",
+ "collected_epoch": 1791486420.813215,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "RTE.ie",
+   "title": "Fed policymakers divided over September rate",
+   "summary": "US Federal Reserve policymakers were divided last month over the rationale for raising interest rates, with \"some participants\" seeing a hike as needed to keep the impact of energy and other price shocks at bay.",
+   "url": "https://www.rte.ie/news/business/2026/1008/1594499-us-federal-reserve-minutes/",
+   "published_utc": "2026-10-08T06:53:04+00:00"
+  },
   {
    "provider": "gnews",
    "source": "The Economic Times",
@@ -73,14 +81,6 @@
    "title": "Federal Reserve officials expect another rate hike needed this year",
    "summary": "Most Federal Reserve officials expect that another interest rate increase will likely be needed this year to combat inflation, minutes released Wednesday from the central bank’s most recent meeting showed.",
    "url": "https://www.baltimoresun.com/2026/10/07/federal-reserve-minutes-rate-hike/",
-   "published_utc": "2026-10-07T18:15:39+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "Norfolk Virginian-Pilot",
-   "title": "Federal Reserve officials expect another rate hike needed this year",
-   "summary": "Most Federal Reserve officials expect that another interest rate increase will likely be needed this year to combat inflation, minutes released Wednesday from the central bank’s most recent meeting showed.",
-   "url": "https://www.pilotonline.com/2026/10/07/federal-reserve-minutes-rate-hike/",
    "published_utc": "2026-10-07T18:15:39+00:00"
   }
  ]
