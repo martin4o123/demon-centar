@@ -1,8 +1,24 @@
 {
- "collected_utc": "2026-10-08T06:37:00.760509+00:00",
- "collected_epoch": 1791441420.760509,
+ "collected_utc": "2026-10-08T07:07:00.752387+00:00",
+ "collected_epoch": 1791443220.752387,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "The Economic Times",
+   "title": "US Fed minutes signal another rate hike by year-end as inflation stays high",
+   "summary": "According to the latest minutes from the US Federal Reserve, officials hint at a possible interest rate rise by year's end in response to ongoing inflation challenges. With inflation reaching a high of 7.2% in June 2022, fluctuations have continued amid worries over geopolitical events and escalating energy costs. The Fed faces the complex task of controlling inflation while ensuring stable employment within the economy.",
+   "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-fed-minutes-show-members-backing-another-rate-hike-before-year-end/articleshow/134773656.cms",
+   "published_utc": "2026-10-07T18:53:00+00:00"
+  },
+  {
+   "provider": "gnews",
+   "source": "CNBC TV18",
+   "title": "Federal Reserve officials expect another rate hike will be needed this year, according to minutes",
+   "summary": "The officials unanimously agreed that inflation was still elevated and had not made much progress toward their 2% target in recent months, the minutes said. The Fed increased its key interest rate at the September 15-16 meeting by a quarter-point to about 3.9%, its first increase in three years.",
+   "url": "https://www.cnbctv18.com/market/federal-reserve-officials-expect-another-rate-hike-will-be-needed-this-year-according-to-minutes-20007130.htm",
+   "published_utc": "2026-10-07T18:51:15+00:00"
+  },
   {
    "provider": "gnews",
    "source": "New York Post",
@@ -53,14 +69,6 @@
   },
   {
    "provider": "gnews",
-   "source": "Boulder Daily Camera",
-   "title": "Federal Reserve officials expect another rate hike needed this year",
-   "summary": "Most Federal Reserve officials expect that another interest rate increase will likely be needed this year to combat inflation, minutes released Wednesday from the central bank’s most recent meeting showed.",
-   "url": "https://www.dailycamera.com/2026/10/07/federal-reserve-minutes-rate-hike/",
-   "published_utc": "2026-10-07T18:15:39+00:00"
-  },
-  {
-   "provider": "gnews",
    "source": "Santa Ana Orange County Register",
    "title": "Federal Reserve officials expect another rate hike needed this year",
    "summary": "Most Federal Reserve officials expect that another interest rate increase will likely be needed this year to combat inflation, minutes released Wednesday from the central bank’s most recent meeting showed.",
@@ -73,14 +81,6 @@
    "title": "Federal Reserve officials expect another rate hike needed this year",
    "summary": "Most Federal Reserve officials expect that another interest rate increase will likely be needed this year to combat inflation, minutes released Wednesday from the central bank’s most recent meeting showed.",
    "url": "https://www.mercurynews.com/2026/10/07/federal-reserve-minutes-rate-hike/",
-   "published_utc": "2026-10-07T18:15:39+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "Hartford Courant",
-   "title": "Federal Reserve officials expect another rate hike needed this year",
-   "summary": "Most Federal Reserve officials expect that another interest rate increase will likely be needed this year to combat inflation, minutes released Wednesday from the central bank’s most recent meeting showed.",
-   "url": "https://www.courant.com/2026/10/07/federal-reserve-minutes-rate-hike/",
    "published_utc": "2026-10-07T18:15:39+00:00"
   }
  ]
