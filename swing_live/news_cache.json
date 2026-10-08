@@ -1,8 +1,16 @@
 {
- "collected_utc": "2026-10-08T22:37:00.800229+00:00",
- "collected_epoch": 1791499020.800229,
+ "collected_utc": "2026-10-08T23:07:00.798786+00:00",
+ "collected_epoch": 1791500820.798786,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "International Business Times",
+   "title": "Inflation Fears Surge Again: Americans' One-Year Outlook Hits Highest Level in More Than Three Years",
+   "summary": "Median inflation expectations for the next 12 months jumped to 3.9%, up from 3.6% in August, according to the Federal Reserve Bank of New York's September Survey of Consumer Expectations.",
+   "url": "https://www.ibtimes.com/inflation-fears-surge-again-americans-one-year-outlook-hits-highest-level-more-three-years-3808349",
+   "published_utc": "2026-10-08T10:49:01+00:00"
+  },
   {
    "provider": "gnews",
    "source": "The Economic Times",
@@ -74,14 +82,6 @@
    "summary": "According to the latest minutes from the US Federal Reserve, officials hint at a possible interest rate rise by year's end in response to ongoing inflation challenges. With inflation reaching a high of 7.2% in June 2022, fluctuations have continued amid worries over geopolitical events and escalating energy costs. The Fed faces the complex task of controlling inflation while ensuring stable employment within the economy.",
    "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-fed-minutes-show-members-backing-another-rate-hike-before-year-end/articleshow/134773656.cms",
    "published_utc": "2026-10-07T18:53:00+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "CNBC TV18",
-   "title": "Federal Reserve officials expect another rate hike will be needed this year, according to minutes",
-   "summary": "The officials unanimously agreed that inflation was still elevated and had not made much progress toward their 2% target in recent months, the minutes said. The Fed increased its key interest rate at the September 15-16 meeting by a quarter-point to about 3.9%, its first increase in three years.",
-   "url": "https://www.cnbctv18.com/market/federal-reserve-officials-expect-another-rate-hike-will-be-needed-this-year-according-to-minutes-20007130.htm",
-   "published_utc": "2026-10-07T18:51:15+00:00"
   }
  ]
 }
