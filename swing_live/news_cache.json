@@ -1,8 +1,16 @@
 {
- "collected_utc": "2026-10-08T02:37:00.833917+00:00",
- "collected_epoch": 1791427020.833917,
+ "collected_utc": "2026-10-08T03:07:00.868611+00:00",
+ "collected_epoch": 1791428820.868611,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "Reuters",
+   "title": "NY Fed September survey finds public expecting more near-term inflation",
+   "summary": "The public’s near-term expected path for inflation jumped ​in September to its highest level in over three years as households downgraded both their current and future ‌financial outlooks, the Federal Reserve Bank of New York said on Wednesday.",
+   "url": "https://www.reuters.com/world/us/ny-fed-september-survey-finds-public-expecting-more-near-term-inflation-2026-10-07/",
+   "published_utc": "2026-10-07T15:01:25+00:00"
+  },
   {
    "provider": "gnews",
    "source": "Reuters",
@@ -74,14 +82,6 @@
    "summary": "During early Monday trading in Asia, gold prices surged due to lackluster US job growth figures. This disappointing employment data notably diminished the Federal Reserve's likelihood of raising interest rates in October, prompting investors to pivot towards safe-haven assets. Spot gold climbed to $4,153.32 per ounce, while silver and platinum also experienced price increases as market reactions unfolded. Economic trends are steering investment behaviors in precious metals significantly.",
    "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-inches-up-as-october-fed-rate-hike-prospects-fade/articleshow/134683767.cms",
    "published_utc": "2026-10-05T01:56:00+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "EUROPE SAYS",
-   "title": "Let exchange rate act as shock absorber: IMF on Fed hike impact on India",
-   "summary": "WASHINGTON, Oct 4 : The International Monetary Fund has said the US Federal Reserve's decision to hike interest rates would contribute to tighter global",
-   "url": "https://www.europesays.com/3290416/",
-   "published_utc": "2026-10-04T23:36:22+00:00"
   }
  ]
 }
