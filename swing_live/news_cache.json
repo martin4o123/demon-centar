@@ -1,8 +1,16 @@
 {
- "collected_utc": "2026-10-08T13:37:02.577389+00:00",
- "collected_epoch": 1791466622.577389,
+ "collected_utc": "2026-10-08T14:07:00.855061+00:00",
+ "collected_epoch": 1791468420.855061,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "The Economic Times",
+   "title": "Dollar edges back from 18-month high after FOMC minutes",
+   "summary": "The dollar index has maintained its position as hawkish Fed minutes emphasize inflation as a major concern. Recent interest rate hikes by the Federal Reserve have been met with caution regarding future increases. Meanwhile, the US dollar's performance varied against other currencies, influenced by Japan's positive current account surplus report.",
+   "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-edges-back-from-18-month-high-after-fomc-minutes/articleshow/134777696.cms",
+   "published_utc": "2026-10-08T01:59:00+00:00"
+  },
   {
    "provider": "gnews",
    "source": "The Star",
@@ -73,14 +81,6 @@
    "title": "Federal Reserve officials expect another rate hike needed this year",
    "summary": "Most Federal Reserve officials expect that another interest rate increase will likely be needed this year to combat inflation, minutes released Wednesday from the central bank’s most recent meeting showed.",
    "url": "https://www.pilotonline.com/2026/10/07/federal-reserve-minutes-rate-hike/",
-   "published_utc": "2026-10-07T18:15:39+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "Santa Ana Orange County Register",
-   "title": "Federal Reserve officials expect another rate hike needed this year",
-   "summary": "Most Federal Reserve officials expect that another interest rate increase will likely be needed this year to combat inflation, minutes released Wednesday from the central bank’s most recent meeting showed.",
-   "url": "https://www.ocregister.com/2026/10/07/federal-reserve-minutes-rate-hike/",
    "published_utc": "2026-10-07T18:15:39+00:00"
   }
  ]
