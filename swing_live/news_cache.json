@@ -1,8 +1,16 @@
 {
- "collected_utc": "2026-10-08T21:37:00.790378+00:00",
- "collected_epoch": 1791495420.790378,
+ "collected_utc": "2026-10-08T22:07:00.739206+00:00",
+ "collected_epoch": 1791497220.739206,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "The Economic Times",
+   "title": "Global Market: European stocks slide as oil surge revives inflation concerns",
+   "summary": "European shares fell as banks hit over three-month lows amid rising bond yields and oil prices. Investors worried persistent inflation could constrain central bank rate cuts and hurt growth, while markets awaited ECB, Federal Reserve and Bank of England signals.",
+   "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-stocks-slide-as-oil-surge-revives-inflation-concerns/articleshow/134786755.cms",
+   "published_utc": "2026-10-08T10:06:00+00:00"
+  },
   {
    "provider": "gnews",
    "source": "Bloomberg Tax News",
@@ -74,14 +82,6 @@
    "summary": "The officials unanimously agreed that inflation was still elevated and had not made much progress toward their 2% target in recent months, the minutes said. The Fed increased its key interest rate at the September 15-16 meeting by a quarter-point to about 3.9%, its first increase in three years.",
    "url": "https://www.cnbctv18.com/market/federal-reserve-officials-expect-another-rate-hike-will-be-needed-this-year-according-to-minutes-20007130.htm",
    "published_utc": "2026-10-07T18:51:15+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "New York Post",
-   "title": "Fed officials expect another rate hike will be needed this year: meeting minutes",
-   "summary": "Most Federal Reserve officials expect that another interest rate increase will likely be needed this year to combat inflation, according to minutes released Wednesday from the central bank’s most recent meeting.",
-   "url": "https://nypost.com/2026/10/07/business/fed-officials-expect-another-rate-hike-will-be-needed-this-year-meeting-minutes/",
-   "published_utc": "2026-10-07T18:27:17+00:00"
   }
  ]
 }
