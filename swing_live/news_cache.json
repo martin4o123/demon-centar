@@ -1,8 +1,40 @@
 {
- "collected_utc": "2026-10-08T05:37:00.757988+00:00",
- "collected_epoch": 1791437820.757988,
+ "collected_utc": "2026-10-08T06:07:01.660784+00:00",
+ "collected_epoch": 1791439621.660784,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "Reuters",
+   "title": "Fed policymakers divided over rate-hike logic in September, minutes show",
+   "summary": "Federal Reserve ​policymakers were divided last month over the rationale for raising interest rates, with \"some participants\" seeing a hike ‌as needed to keep the impact of energy and other price shocks at bay, but a more hawkish core viewing it as necessary to guard against emerging demand-driven inflation.",
+   "url": "https://www.reuters.com/business/fed-policymakers-divided-over-rate-hike-logic-september-minutes-show-2026-10-07/",
+   "published_utc": "2026-10-07T18:05:55+00:00"
+  },
+  {
+   "provider": "gnews",
+   "source": "WDIV ClickOnDetroit",
+   "title": "Federal Reserve officials expect another rate hike will be needed this year, according to minutes",
+   "summary": "Most Federal Reserve officials expect that another interest rate increase will likely be needed this year to combat inflation, minutes released Wednesday from the central bank’s most recent meeting showed.",
+   "url": "https://www.clickondetroit.com/business/2026/10/07/federal-reserve-officials-expect-another-rate-hike-will-be-needed-this-year-according-to-minutes/",
+   "published_utc": "2026-10-07T18:05:47+00:00"
+  },
+  {
+   "provider": "gnews",
+   "source": "U.S. News & World Report",
+   "title": "Federal Reserve Officials Expect Another Rate Hike Will Be Needed This Year, According to Minutes",
+   "summary": "WASHINGTON (AP) — Most Federal Reserve officials expect that another interest rate increase will likely be needed this year to combat inflation, according to minutes released Wednesday from the central bank's most recent meeting.",
+   "url": "https://www.usnews.com/news/business/articles/2026-10-07/federal-reserve-officials-expect-another-rate-hike-will-be-needed-this-year-according-to-minutes",
+   "published_utc": "2026-10-07T18:05:00+00:00"
+  },
+  {
+   "provider": "gnews",
+   "source": "MarketScreener",
+   "title": "Fed policymakers divided over rate-hike logic in September, minutes show",
+   "summary": "Federal Reserve policymakers were divided last month over the rationale for raising interest rates, with some participants seeing a hike as needed to keep the impact of energy and other price shocks...\n-October 07, 2026 at 02:01 pm EDT\n- MarketScreener",
+   "url": "https://www.marketscreener.com/news/fed-policymakers-divided-over-rate-hike-logic-in-september-minutes-show-ce785ddedd89f72c",
+   "published_utc": "2026-10-07T18:01:04+00:00"
+  },
   {
    "provider": "gnews",
    "source": "PerthNow",
@@ -50,38 +82,6 @@
    "summary": "With this rate hike, the RBI has joined other major global central banks, including the US Federal Reserve, the European Central Bank (ECB), the Bank of Japan (BoJ) and the Bank of Korea (BoK) who have embarked on a policy tightening cycle.",
    "url": "https://www.cnbctv18.com/economy/rbi-mpc-meeting-outcome-repo-rate-hike-stance-gdp-inflation-forecast-governor-sanjay-malhotra-20006345.htm",
    "published_utc": "2026-10-07T04:34:13+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "Moneycontrol",
-   "title": "Commodity Corner: Oil gains on supply fears; gold holds firm as yields ease",
-   "summary": "Gold held gains as increasing oil supplies from the Middle East and a decline in bond yields eased pressure on the US Federal Reserve to hike interest rates this month.",
-   "url": "https://www.moneycontrol.com/news/business/commodities/commodity-corner-oil-gains-on-supply-fears-gold-holds-firm-as-yields-ease-14046028.html",
-   "published_utc": "2026-10-07T02:10:11+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "The Economic Times",
-   "title": "Gold flat as focus turns to Fed minutes",
-   "summary": "Gold prices remained steady as market participants look forward to insights from the Federal Reserve's upcoming meeting minutes. Spot gold hovered at $4,159.62 per ounce, while December futures were valued at $4,187.30. Amid ongoing inflation and recent sluggish economic indicators, Fed discussions around interest rate hikes are influencing investor sentiment, with many opting for yield-generating assets over gold.",
-   "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-flat-as-focus-turns-to-fed-minutes/articleshow/134753704.cms",
-   "published_utc": "2026-10-07T01:58:00+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "Livemint",
-   "title": "Gold Steady as More Oil and Falling Yields Ease Rate-Hike Bets",
-   "summary": "Gold held gains as increasing oil supplies from the Middle East and a decline in bond yields eased pressure on the US Federal Reserve to hike interest rates this month.",
-   "url": "https://www.livemint.com/market/gold-steady-as-more-oil-and-falling-yields-ease-rate-hike-bets-11791333075934.html",
-   "published_utc": "2026-10-07T00:31:15+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "The Economic Times",
-   "title": "Fed plans bank-supervision overhaul to strengthen accountability, says Vice Chair Michelle Bowman",
-   "summary": "The Federal Reserve is set to realign its bank supervision system for increased accountability and efficient decision-making. Five new geographic supervisory regions will be established, each led by a regional leader. This new structure aims to address concerns raised in an independent review of Silicon Valley Banks collapse. The Fed will also reconsider asset thresholds for regulatory requirements to better align with inflation and economic growth.",
-   "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/fed-plans-bank-supervision-overhaul-to-strengthen-accountability-says-vice-chair-michelle-bowman/articleshow/134747705.cms",
-   "published_utc": "2026-10-06T18:05:00+00:00"
   }
  ]
 }
