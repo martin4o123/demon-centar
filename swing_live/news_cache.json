@@ -1,8 +1,16 @@
 {
- "collected_utc": "2026-10-08T03:07:00.868611+00:00",
- "collected_epoch": 1791428820.868611,
+ "collected_utc": "2026-10-08T03:37:00.772240+00:00",
+ "collected_epoch": 1791430620.77224,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "Bloomberg Tax News",
+   "title": "One-Year Inflation Expectations Reach Three-Year High: NY Fed",
+   "summary": "Americans’ expectations for inflation in the short-term jumped last month while their sentiment toward the labor market improved, according to a Federal Reserve Bank of New York survey released Wednesday.",
+   "url": "https://news.bloombergtax.com/daily-tax-report/one-year-inflation-expectations-reach-three-year-high-ny-fed",
+   "published_utc": "2026-10-07T15:34:58+00:00"
+  },
   {
    "provider": "gnews",
    "source": "Reuters",
@@ -74,14 +82,6 @@
    "summary": "Federal Reserve officials have signalled they have time to assess incoming economic data before making further changes to interest rates. Cleveland Fed President Beth Hammack said Septembers weak employment report was broadly consistent with recent labour-market trends. With hiring slowing but remaining stable and inflation pressures persistent, policymakers are weighing employment and price stability before the next rate decision.",
    "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-market-feds-hammack-says-jobs-data-gives-time-to-assess-rate-path/articleshow/134692368.cms",
    "published_utc": "2026-10-05T08:19:00+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "The Economic Times",
-   "title": "Gold inches up as October Fed rate hike prospects fade",
-   "summary": "During early Monday trading in Asia, gold prices surged due to lackluster US job growth figures. This disappointing employment data notably diminished the Federal Reserve's likelihood of raising interest rates in October, prompting investors to pivot towards safe-haven assets. Spot gold climbed to $4,153.32 per ounce, while silver and platinum also experienced price increases as market reactions unfolded. Economic trends are steering investment behaviors in precious metals significantly.",
-   "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-inches-up-as-october-fed-rate-hike-prospects-fade/articleshow/134683767.cms",
-   "published_utc": "2026-10-05T01:56:00+00:00"
   }
  ]
 }
