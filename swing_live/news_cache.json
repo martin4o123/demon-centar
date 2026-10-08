@@ -1,8 +1,24 @@
 {
- "collected_utc": "2026-10-08T08:37:00.768728+00:00",
- "collected_epoch": 1791448620.768728,
+ "collected_utc": "2026-10-08T09:07:00.807517+00:00",
+ "collected_epoch": 1791450420.807517,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "The Boston Herald",
+   "title": "Ticker: Fed minutes: Another rate hike likely",
+   "summary": "Most Federal Reserve officials expect that another interest rate increase will likely be needed this year to combat inflation, according to minutes released Wednesday from the central bank's most recent meeting.",
+   "url": "https://www.bostonherald.com/2026/10/07/ticker-fed-minutes-another-rate-hike-likely/",
+   "published_utc": "2026-10-07T21:05:35+00:00"
+  },
+  {
+   "provider": "gnews",
+   "source": "The Independent Florida Alligator",
+   "title": "The Fed raised interest rates for the first time in three years. Here's what it changes for UF students with loans",
+   "summary": "The Federal Reserve voted unanimously to raise its benchmark interest rate by a quarter of a percentage point Sept. 16, bringing its target range to 3.75% to 4%, the first increase since July 2023. About 91% of U.S. student loan debt is federal, which doesn't change in parallel to interest rate changes. Congress sets the rate once a year and the rate is locked for its life.Federal Direct Loans first disbursed between July 1, 2026, and June 30, 2027, carry a 6.52% interest rate for undergraduates, 8.07% for graduate and professional students and 9.07% for PLUS loans, according to the Department of Education. The Fed’s increase can, however, affect private student loans.",
+   "url": "https://www.alligator.org/article/2026/10/the-fed-raised-interest-rates-for-the-first-time-in-three-years-heres-what-it-changes-for-uf-students-with-loans",
+   "published_utc": "2026-10-07T21:02:22+00:00"
+  },
   {
    "provider": "gnews",
    "source": "The Economic Times",
@@ -45,14 +61,6 @@
   },
   {
    "provider": "gnews",
-   "source": "Reading Eagle",
-   "title": "Federal Reserve officials expect another rate hike needed this year",
-   "summary": "Most Federal Reserve officials expect that another interest rate increase will likely be needed this year to combat inflation, minutes released Wednesday from the central bank’s most recent meeting showed.",
-   "url": "https://www.readingeagle.com/2026/10/07/federal-reserve-minutes-rate-hike/",
-   "published_utc": "2026-10-07T18:15:39+00:00"
-  },
-  {
-   "provider": "gnews",
    "source": "San Diego Union-Tribune",
    "title": "Federal Reserve officials expect another rate hike needed this year",
    "summary": "Most Federal Reserve officials expect that another interest rate increase will likely be needed this year to combat inflation, minutes released Wednesday from the central bank’s most recent meeting showed.",
@@ -73,14 +81,6 @@
    "title": "Federal Reserve officials expect another rate hike needed this year",
    "summary": "Most Federal Reserve officials expect that another interest rate increase will likely be needed this year to combat inflation, minutes released Wednesday from the central bank’s most recent meeting showed.",
    "url": "https://www.ocregister.com/2026/10/07/federal-reserve-minutes-rate-hike/",
-   "published_utc": "2026-10-07T18:15:39+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "The Mercury News",
-   "title": "Federal Reserve officials expect another rate hike needed this year",
-   "summary": "Most Federal Reserve officials expect that another interest rate increase will likely be needed this year to combat inflation, minutes released Wednesday from the central bank’s most recent meeting showed.",
-   "url": "https://www.mercurynews.com/2026/10/07/federal-reserve-minutes-rate-hike/",
    "published_utc": "2026-10-07T18:15:39+00:00"
   }
  ]
