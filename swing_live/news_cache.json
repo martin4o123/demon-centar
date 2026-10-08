@@ -1,8 +1,24 @@
 {
- "collected_utc": "2026-10-08T04:07:00.817715+00:00",
- "collected_epoch": 1791432420.817715,
+ "collected_utc": "2026-10-08T04:37:00.794288+00:00",
+ "collected_epoch": 1791434220.794288,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "PerthNow",
+   "title": "Ratings agency warns on record government spending",
+   "summary": "The federal government and the Reserve Bank are pulling in opposite directions in the fight against inflation, ratings agency S&P says.",
+   "url": "https://www.perthnow.com.au/news/business/ratings-agency-warns-on-record-government-spending-c-22984281",
+   "published_utc": "2026-10-07T16:34:54+00:00"
+  },
+  {
+   "provider": "gnews",
+   "source": "The Canberra Times",
+   "title": "Ratings agency warns on record government spending",
+   "summary": "The federal government and the Reserve Bank are pulling in opposite directions in the fight against inflation, ratings...",
+   "url": "https://www.canberratimes.com.au/story/9364637/ratings-agency-warns-on-record-government-spending/",
+   "published_utc": "2026-10-07T16:31:48+00:00"
+  },
   {
    "provider": "gnews",
    "source": "Bloomberg Tax News",
@@ -66,22 +82,6 @@
    "summary": "The Federal Reserve is set to realign its bank supervision system for increased accountability and efficient decision-making. Five new geographic supervisory regions will be established, each led by a regional leader. This new structure aims to address concerns raised in an independent review of Silicon Valley Banks collapse. The Fed will also reconsider asset thresholds for regulatory requirements to better align with inflation and economic growth.",
    "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/fed-plans-bank-supervision-overhaul-to-strengthen-accountability-says-vice-chair-michelle-bowman/articleshow/134747705.cms",
    "published_utc": "2026-10-06T18:05:00+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "The Economic Times",
-   "title": "Gold steady as firm dollar counters softer US rate-hike bets",
-   "summary": "Gold prices demonstrated stability amidst a stronger dollar, which countered the positive effects of moderating Federal Reserve rate hike anticipations. The price for spot gold remained steady at $4,141.81 per ounce, while US gold futures experienced a slight increase, reaching $4,169.10. The ongoing rise in interest rates raises the opportunity cost associated with gold, making it less appealing for investors.",
-   "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-steady-as-firm-dollar-counters-softer-us-rate-hike-bets/articleshow/134720923.cms",
-   "published_utc": "2026-10-06T02:08:00+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "The Economic Times",
-   "title": "US Market: Fed’s Hammack says jobs data gives time to assess rate path",
-   "summary": "Federal Reserve officials have signalled they have time to assess incoming economic data before making further changes to interest rates. Cleveland Fed President Beth Hammack said Septembers weak employment report was broadly consistent with recent labour-market trends. With hiring slowing but remaining stable and inflation pressures persistent, policymakers are weighing employment and price stability before the next rate decision.",
-   "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-market-feds-hammack-says-jobs-data-gives-time-to-assess-rate-path/articleshow/134692368.cms",
-   "published_utc": "2026-10-05T08:19:00+00:00"
   }
  ]
 }
