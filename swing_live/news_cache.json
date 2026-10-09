@@ -1,8 +1,16 @@
 {
- "collected_utc": "2026-10-09T18:37:00.783844+00:00",
- "collected_epoch": 1791571020.783844,
+ "collected_utc": "2026-10-09T19:07:00.777519+00:00",
+ "collected_epoch": 1791572820.777519,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "The Nation",
+   "title": "Emerging economies gain breathing room as Fed pause expectations strengthen",
+   "summary": "Growing expectations that the US Federal Reserve will leave interest rates unchanged at its October meeting give emerging economies a brief window to reassess",
+   "url": "https://www.nation.com.pk/09-Oct-2026/emerging-economies-gain-breathing-room-fed-pause-expectations-strengthen",
+   "published_utc": "2026-10-09T06:53:22+00:00"
+  },
   {
    "provider": "gnews",
    "source": "Outlook Money",
@@ -74,14 +82,6 @@
    "summary": "Federal Reserve Bank of St. Louis President Alberto Musalem said on Thursday that the US central bank will need to hike rates again to bring inflation back to the 2% target.\nTo bring...\n-October 08, 2026 at 02:08 pm EDT\n- MarketScreener",
    "url": "https://www.marketscreener.com/news/fed-s-musalem-says-lowering-inflation-will-require-more-rate-hikes-ce785ddfdd89f02c",
    "published_utc": "2026-10-08T18:08:20+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "Bitcoin Magazine",
-   "title": "Bitcoin Falls Below $81,000 As Oil Spikes, Fed Talks Tough",
-   "summary": "The price of bitcoin has continued to drop this week, spurred by fears that the Federal Reserve is increasingly tempted to raise interest rates.",
-   "url": "https://bitcoinmagazine.com/markets/bitcoin-price-slide-continues-below-81000",
-   "published_utc": "2026-10-08T17:14:58+00:00"
   }
  ]
 }
