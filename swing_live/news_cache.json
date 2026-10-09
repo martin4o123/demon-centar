@@ -1,8 +1,16 @@
 {
- "collected_utc": "2026-10-09T07:07:00.845443+00:00",
- "collected_epoch": 1791529620.845443,
+ "collected_utc": "2026-10-09T07:37:00.844437+00:00",
+ "collected_epoch": 1791531420.844437,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "MarketScreener",
+   "title": "Fed's Musalem says tighter monetary policy needed to lower inflation",
+   "summary": "St. Louis Federal Reserve President Alberto Musalem said on Thursday the US central bank will need to hike interest rates again to bring inflation back to its 2% target, although he declined to say...\n-October 08, 2026 at 03:14 pm EDT\n- MarketScreener",
+   "url": "https://www.marketscreener.com/news/fed-s-musalem-says-tighter-monetary-policy-needed-to-lower-inflation-ce785ddfdd8af420",
+   "published_utc": "2026-10-08T19:14:38+00:00"
+  },
   {
    "provider": "gnews",
    "source": "Reuters",
@@ -74,14 +82,6 @@
    "summary": "European shares fell as banks hit over three-month lows amid rising bond yields and oil prices. Investors worried persistent inflation could constrain central bank rate cuts and hurt growth, while markets awaited ECB, Federal Reserve and Bank of England signals.",
    "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-stocks-slide-as-oil-surge-revives-inflation-concerns/articleshow/134786755.cms",
    "published_utc": "2026-10-08T10:06:00+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "Bloomberg Tax News",
-   "title": "Fed’s Waller Says There Is Some Flexibility on Rate-Hike Timing",
-   "summary": "Federal Reserve Governor Christopher Waller said further interest-rate hikes will likely be needed to slow inflation, though officials have some flexibility on timing and don’t need to tighten at consecutive policy meetings.",
-   "url": "https://news.bloombergtax.com/daily-tax-report/feds-waller-says-there-is-some-flexibility-on-rate-hike-timing",
-   "published_utc": "2026-10-08T08:30:00+00:00"
   }
  ]
 }
