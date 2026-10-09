@@ -1,8 +1,32 @@
 {
- "collected_utc": "2026-10-09T21:07:00.844425+00:00",
- "collected_epoch": 1791580020.844425,
+ "collected_utc": "2026-10-09T21:37:00.805554+00:00",
+ "collected_epoch": 1791581820.805554,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "Devdiscourse",
+   "title": "US Fed's Waller expects more rate hikes as inflation stays elevated",
+   "summary": "US Federal Reserve Governor Christopher Waller has indicated that further interest rate hikes are likely in the coming months as inflation remains stubbornly above the central bank's 2 per cent target, although the timing and pace of increases will depend on incoming economic data.",
+   "url": "https://www.devdiscourse.com/article/business/3989664-us-feds-waller-expects-more-rate-hikes-as-inflation-stays-elevated",
+   "published_utc": "2026-10-09T09:29:09+00:00"
+  },
+  {
+   "provider": "gnews",
+   "source": "The Tribune",
+   "title": "US Fed's Waller expects more rate hikes as inflation stays elevated",
+   "summary": "US Federal Reserve Governor Christopher Waller has indicated that further interest rate hikes are likely in the coming months as inflation remains stubbornly above the central bank's 2 per cent target, although the timing and pace of increases will depend on incoming economic data.",
+   "url": "https://www.tribuneindia.com/news/business/us-feds-waller-expects-more-rate-hikes-as-inflation-stays-elevated/",
+   "published_utc": "2026-10-09T09:26:26+00:00"
+  },
+  {
+   "provider": "gnews",
+   "source": "ANI (Asian News International)",
+   "title": "US Fed's Waller expects more rate hikes as inflation stays elevated",
+   "summary": "US Federal Reserve Governor Christopher Waller has indicated that further interest rate hikes are likely in the coming months as inflation remains stubbornly above the central bank's 2 per cent target, although the timing and pace of increases will depend on incoming economic data.",
+   "url": "https://www.aninews.in/news/business/us-feds-waller-expects-more-rate-hikes-as-inflation-stays-elevated20261009145425/",
+   "published_utc": "2026-10-09T09:24:25+00:00"
+  },
   {
    "provider": "gnews",
    "source": "The Nation",
@@ -58,30 +82,6 @@
    "summary": "On Friday, gold prices experienced a modest uptrend as investors weighed concerns about inflation alongside potential interest rate hikes by the Federal Reserve. Spot gold saw a 0.3% increase, while US gold futures for December rose by 0.4%. St. Louis Fed President Alberto Musalem hinted at the necessity for further rate adjustments to combat inflation.",
    "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-nudges-higher-with-inflation-risks-fed-rate-path-in-focus/articleshow/134804008.cms",
    "published_utc": "2026-10-09T01:49:00+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "MarketScreener",
-   "title": "Fed's Musalem says tighter monetary policy needed to lower inflation",
-   "summary": "St. Louis Federal Reserve President Alberto Musalem said on Thursday the US central bank will need to hike interest rates again to bring inflation back to its 2% target, although he declined to say...\n-October 08, 2026 at 03:14 pm EDT\n- MarketScreener",
-   "url": "https://www.marketscreener.com/news/fed-s-musalem-says-tighter-monetary-policy-needed-to-lower-inflation-ce785ddfdd8af420",
-   "published_utc": "2026-10-08T19:14:38+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "Reuters",
-   "title": "Fed's Musalem says tighter monetary policy needed to lower inflation",
-   "summary": "St. Louis Federal Reserve President ​Alberto Musalem said on Thursday the US central bank will need to hike interest rates again to bring inflation back to ‌its 2% target, although he declined to say what policymakers should do at their meeting later this month.",
-   "url": "https://www.reuters.com/markets/us/feds-musalem-says-lowering-inflation-will-require-more-rate-hikes-2026-10-08/",
-   "published_utc": "2026-10-08T18:09:45+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "MarketScreener",
-   "title": "Fed's Musalem says lowering inflation will require more rate hikes",
-   "summary": "Federal Reserve Bank of St. Louis President Alberto Musalem said on Thursday that the US central bank will need to hike rates again to bring inflation back to the 2% target.\nTo bring...\n-October 08, 2026 at 02:08 pm EDT\n- MarketScreener",
-   "url": "https://www.marketscreener.com/news/fed-s-musalem-says-lowering-inflation-will-require-more-rate-hikes-ce785ddfdd89f02c",
-   "published_utc": "2026-10-08T18:08:20+00:00"
   }
  ]
 }
