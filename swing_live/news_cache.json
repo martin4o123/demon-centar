@@ -1,8 +1,32 @@
 {
- "collected_utc": "2026-10-09T13:37:00.822151+00:00",
- "collected_epoch": 1791553020.822151,
+ "collected_utc": "2026-10-09T14:07:00.777941+00:00",
+ "collected_epoch": 1791554820.777941,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "Reuters",
+   "title": "Gold rises more than 1%, Fed outlook in focus",
+   "summary": "Gold rose more than ​1% on Friday, helped by a softer US dollar, easing Treasury ‌yields and lower oil prices, as market players weighed lingering inflation concerns and the outlook for Federal Reserve interest rates.",
+   "url": "https://www.reuters.com/world/india/gold-rises-softer-dollar-easing-yields-fed-outlook-focus-2026-10-09/",
+   "published_utc": "2026-10-09T01:58:16+00:00"
+  },
+  {
+   "provider": "gnews",
+   "source": "MarketScreener",
+   "title": "Gold rises on softer dollar, easing yields; Fed outlook in focus",
+   "summary": "Gold firmed on Friday as a softer US dollar and easing Treasury yields boosted bullion's appeal, while market players weighed lingering inflation concerns and the outlook for Federal Reserve interest...",
+   "url": "https://www.marketscreener.com/news/gold-rises-on-softer-dollar-easing-yields-fed-outlook-in-focus-ce785ddfdf8bf22d",
+   "published_utc": "2026-10-09T01:56:23+00:00"
+  },
+  {
+   "provider": "gnews",
+   "source": "The Economic Times",
+   "title": "Gold nudges higher with inflation risks, Fed rate path in focus",
+   "summary": "On Friday, gold prices experienced a modest uptrend as investors weighed concerns about inflation alongside potential interest rate hikes by the Federal Reserve. Spot gold saw a 0.3% increase, while US gold futures for December rose by 0.4%. St. Louis Fed President Alberto Musalem hinted at the necessity for further rate adjustments to combat inflation.",
+   "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-nudges-higher-with-inflation-risks-fed-rate-path-in-focus/articleshow/134804008.cms",
+   "published_utc": "2026-10-09T01:49:00+00:00"
+  },
   {
    "provider": "gnews",
    "source": "MarketScreener",
@@ -58,30 +82,6 @@
    "summary": "WASHINGON, D.C. — US Federal Reserve minutes released on Wednesday show most policymakers foresee another interest rate hike by year’s end, as the central bank targets stubbornly high inflation.",
    "url": "https://www.manilatimes.net/2026/10/09/business/top-business/most-fed-policymakers-see-hike-before-year-end/2442111",
    "published_utc": "2026-10-08T16:14:00+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "The Economic Times",
-   "title": "US stocks: US markets fall as higher yields and oil prices flag inflation risk",
-   "summary": "US stocks fell as crude oil prices surged and Treasury yields remained high, raising inflation concerns. Major companies like Amazon, Tesla, and Nvidia experienced losses, contributing to a broader decline in the technology sector. Investors are now focused on upcoming third-quarter earnings reports, particularly from financial institutions. The Federal Reserve is expected to keep interest rates unchanged in October, while considering future hikes.",
-   "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-us-market-as-higher-yields-and-oil-prices-flag-inflation-risk/articleshow/134793270.cms",
-   "published_utc": "2026-10-08T14:19:00+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "International Business Times",
-   "title": "Inflation Fears Surge Again: Americans' One-Year Outlook Hits Highest Level in More Than Three Years",
-   "summary": "Median inflation expectations for the next 12 months jumped to 3.9%, up from 3.6% in August, according to the Federal Reserve Bank of New York's September Survey of Consumer Expectations.",
-   "url": "https://www.ibtimes.com/inflation-fears-surge-again-americans-one-year-outlook-hits-highest-level-more-three-years-3808349",
-   "published_utc": "2026-10-08T10:49:01+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "The Economic Times",
-   "title": "Global Market: European stocks slide as oil surge revives inflation concerns",
-   "summary": "European shares fell as banks hit over three-month lows amid rising bond yields and oil prices. Investors worried persistent inflation could constrain central bank rate cuts and hurt growth, while markets awaited ECB, Federal Reserve and Bank of England signals.",
-   "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-stocks-slide-as-oil-surge-revives-inflation-concerns/articleshow/134786755.cms",
-   "published_utc": "2026-10-08T10:06:00+00:00"
   }
  ]
 }
