@@ -1,8 +1,16 @@
 {
- "collected_utc": "2026-10-09T18:07:00.811908+00:00",
- "collected_epoch": 1791569220.811908,
+ "collected_utc": "2026-10-09T18:37:00.783844+00:00",
+ "collected_epoch": 1791571020.783844,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "Outlook Money",
+   "title": "Another US Fed Rate Hike On The Cards? Know How To Play Yours",
+   "summary": "The US Federal Reserve could raise interest rates again in 2026, with implications for Indian equities, the rupee, government bonds and gold. Here’s how higher US yields and a stronger dollar could affect these asset classes.",
+   "url": "https://www.outlookmoney.com/invest/us-fed-rate-hike-impact-india-stocks-rupee-bonds-gold",
+   "published_utc": "2026-10-09T06:22:55+00:00"
+  },
   {
    "provider": "gnews",
    "source": "EUROPE SAYS",
@@ -74,14 +82,6 @@
    "summary": "The price of bitcoin has continued to drop this week, spurred by fears that the Federal Reserve is increasingly tempted to raise interest rates.",
    "url": "https://bitcoinmagazine.com/markets/bitcoin-price-slide-continues-below-81000",
    "published_utc": "2026-10-08T17:14:58+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "Baltimore News",
-   "title": "Fed grows more hawkish on inflation but sees room to wait on rate hikes",
-   "summary": "Officials at the Federal Reserve are taking an increasingly hawkish outlook on combatting inflation, signaling more interest rate increases are likely to come.",
-   "url": "https://foxbaltimore.com/news/nation-world/fed-grows-more-hawkish-on-inflation-but-sees-room-to-wait-on-rate-hikes",
-   "published_utc": "2026-10-08T17:14:47+00:00"
   }
  ]
 }
