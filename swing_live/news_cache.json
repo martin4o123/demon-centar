@@ -1,8 +1,16 @@
 {
- "collected_utc": "2026-10-09T02:07:00.792783+00:00",
- "collected_epoch": 1791511620.792783,
+ "collected_utc": "2026-10-09T02:37:00.804166+00:00",
+ "collected_epoch": 1791513420.804166,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "The Economic Times",
+   "title": "US stocks: US markets fall as higher yields and oil prices flag inflation risk",
+   "summary": "US stocks fell as crude oil prices surged and Treasury yields remained high, raising inflation concerns. Major companies like Amazon, Tesla, and Nvidia experienced losses, contributing to a broader decline in the technology sector. Investors are now focused on upcoming third-quarter earnings reports, particularly from financial institutions. The Federal Reserve is expected to keep interest rates unchanged in October, while considering future hikes.",
+   "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-us-market-as-higher-yields-and-oil-prices-flag-inflation-risk/articleshow/134793270.cms",
+   "published_utc": "2026-10-08T14:19:00+00:00"
+  },
   {
    "provider": "gnews",
    "source": "International Business Times",
@@ -74,14 +82,6 @@
    "summary": "The Federal Reserve voted unanimously to raise its benchmark interest rate by a quarter of a percentage point Sept. 16, bringing its target range to 3.75% to 4%, the first increase since July 2023. About 91% of U.S. student loan debt is federal, which doesn't change in parallel to interest rate changes. Congress sets the rate once a year and the rate is locked for its life.Federal Direct Loans first disbursed between July 1, 2026, and June 30, 2027, carry a 6.52% interest rate for undergraduates, 8.07% for graduate and professional students and 9.07% for PLUS loans, according to the Department of Education. The Fed’s increase can, however, affect private student loans.",
    "url": "https://www.alligator.org/article/2026/10/the-fed-raised-interest-rates-for-the-first-time-in-three-years-heres-what-it-changes-for-uf-students-with-loans",
    "published_utc": "2026-10-07T21:02:22+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "The Economic Times",
-   "title": "US Fed minutes signal another rate hike by year-end as inflation stays high",
-   "summary": "According to the latest minutes from the US Federal Reserve, officials hint at a possible interest rate rise by year's end in response to ongoing inflation challenges. With inflation reaching a high of 7.2% in June 2022, fluctuations have continued amid worries over geopolitical events and escalating energy costs. The Fed faces the complex task of controlling inflation while ensuring stable employment within the economy.",
-   "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-fed-minutes-show-members-backing-another-rate-hike-before-year-end/articleshow/134773656.cms",
-   "published_utc": "2026-10-07T18:53:00+00:00"
   }
  ]
 }
