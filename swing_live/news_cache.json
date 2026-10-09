@@ -1,8 +1,16 @@
 {
- "collected_utc": "2026-10-09T16:07:00.778781+00:00",
- "collected_epoch": 1791562020.778781,
+ "collected_utc": "2026-10-09T16:37:00.839508+00:00",
+ "collected_epoch": 1791563820.839508,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "EUROPE SAYS",
+   "title": "Federal Reserve Warns: Another Rate Hike Coming this Year",
+   "summary": "WASHINGTON, D.C. — Most Federal Reserve officials expect another interest rate increase will likely be needed this year to combat inflation, as indicated in",
+   "url": "https://www.europesays.com/3299579/",
+   "published_utc": "2026-10-09T04:17:23+00:00"
+  },
   {
    "provider": "gnews",
    "source": "Moneycontrol",
@@ -73,14 +81,6 @@
    "title": "Fed grows more hawkish on inflation but sees room to wait on rate hikes",
    "summary": "Officials at the Federal Reserve are taking an increasingly hawkish outlook on combatting inflation, signaling more interest rate increases are likely to come.",
    "url": "https://foxbaltimore.com/news/nation-world/fed-grows-more-hawkish-on-inflation-but-sees-room-to-wait-on-rate-hikes",
-   "published_utc": "2026-10-08T17:14:47+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "WJLA",
-   "title": "Fed grows more hawkish on inflation but sees room to wait on rate hikes",
-   "summary": "Officials at the Federal Reserve are taking an increasingly hawkish outlook on combatting inflation, signaling more interest rate increases are likely to come.",
-   "url": "https://wjla.com/news/nation-world/fed-grows-more-hawkish-on-inflation-but-sees-room-to-wait-on-rate-hikes",
    "published_utc": "2026-10-08T17:14:47+00:00"
   }
  ]
