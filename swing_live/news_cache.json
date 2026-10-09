@@ -1,8 +1,32 @@
 {
- "collected_utc": "2026-10-09T05:07:00.825135+00:00",
- "collected_epoch": 1791522420.825135,
+ "collected_utc": "2026-10-09T05:37:00.857778+00:00",
+ "collected_epoch": 1791524220.857778,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "Bitcoin Magazine",
+   "title": "Bitcoin Falls Below $81,000 As Oil Spikes, Fed Talks Tough",
+   "summary": "The price of bitcoin has continued to drop this week, spurred by fears that the Federal Reserve is increasingly tempted to raise interest rates.",
+   "url": "https://bitcoinmagazine.com/markets/bitcoin-price-slide-continues-below-81000",
+   "published_utc": "2026-10-08T17:14:58+00:00"
+  },
+  {
+   "provider": "gnews",
+   "source": "Baltimore News",
+   "title": "Fed grows more hawkish on inflation but sees room to wait on rate hikes",
+   "summary": "Officials at the Federal Reserve are taking an increasingly hawkish outlook on combatting inflation, signaling more interest rate increases are likely to come.",
+   "url": "https://foxbaltimore.com/news/nation-world/fed-grows-more-hawkish-on-inflation-but-sees-room-to-wait-on-rate-hikes",
+   "published_utc": "2026-10-08T17:14:47+00:00"
+  },
+  {
+   "provider": "gnews",
+   "source": "WJLA",
+   "title": "Fed grows more hawkish on inflation but sees room to wait on rate hikes",
+   "summary": "Officials at the Federal Reserve are taking an increasingly hawkish outlook on combatting inflation, signaling more interest rate increases are likely to come.",
+   "url": "https://wjla.com/news/nation-world/fed-grows-more-hawkish-on-inflation-but-sees-room-to-wait-on-rate-hikes",
+   "published_utc": "2026-10-08T17:14:47+00:00"
+  },
   {
    "provider": "gnews",
    "source": "The Manila Times",
@@ -58,30 +82,6 @@
    "summary": "The dollar index has maintained its position as hawkish Fed minutes emphasize inflation as a major concern. Recent interest rate hikes by the Federal Reserve have been met with caution regarding future increases. Meanwhile, the US dollar's performance varied against other currencies, influenced by Japan's positive current account surplus report.",
    "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-edges-back-from-18-month-high-after-fomc-minutes/articleshow/134777696.cms",
    "published_utc": "2026-10-08T01:59:00+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "The Star",
-   "title": "Dollar edges back from 18-month high after FOMC minutes",
-   "summary": "SINGAPORE: The dollar held near its strongest level in a year-and-a-half in subdued trading at the start of the Asian session on Thursday, after hawkish minutes from the Federal Open Market Committee signaled policymakers at the US central bank viewed inflation as the biggest risk to their outlook.",
-   "url": "https://www.thestar.com.my/business/business-news/2026/10/08/dollar-edges-back-from-18-month-high-after-fomc-minutes",
-   "published_utc": "2026-10-08T01:15:00+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "Reuters",
-   "title": "Dollar edges back from 18-month high after FOMC minutes",
-   "summary": "The dollar held near its strongest level in a year-and-a-half in subdued trading at the start of the Asian session on ​Thursday, after hawkish minutes from the Federal Open Market Committee signaled policymakers ‌at the US central bank viewed inflation as the biggest risk to their outlook.",
-   "url": "https://www.reuters.com/world/africa/dollar-edges-back-18-month-high-after-fomc-minutes-2026-10-08/",
-   "published_utc": "2026-10-08T00:43:19+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "The Boston Herald",
-   "title": "Ticker: Fed minutes: Another rate hike likely",
-   "summary": "Most Federal Reserve officials expect that another interest rate increase will likely be needed this year to combat inflation, according to minutes released Wednesday from the central bank's most recent meeting.",
-   "url": "https://www.bostonherald.com/2026/10/07/ticker-fed-minutes-another-rate-hike-likely/",
-   "published_utc": "2026-10-07T21:05:35+00:00"
   }
  ]
 }
