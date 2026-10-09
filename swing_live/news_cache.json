@@ -1,8 +1,24 @@
 {
- "collected_utc": "2026-10-09T06:07:00.810774+00:00",
- "collected_epoch": 1791526020.810774,
+ "collected_utc": "2026-10-09T06:37:00.795574+00:00",
+ "collected_epoch": 1791527820.795574,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "Reuters",
+   "title": "Fed's Musalem says tighter monetary policy needed to lower inflation",
+   "summary": "St. Louis Federal Reserve President ​Alberto Musalem said on Thursday the US central bank will need to hike interest rates again to bring inflation back to ‌its 2% target, although he declined to say what policymakers should do at their meeting later this month.",
+   "url": "https://www.reuters.com/markets/us/feds-musalem-says-lowering-inflation-will-require-more-rate-hikes-2026-10-08/",
+   "published_utc": "2026-10-08T18:09:45+00:00"
+  },
+  {
+   "provider": "gnews",
+   "source": "MarketScreener",
+   "title": "Fed's Musalem says lowering inflation will require more rate hikes",
+   "summary": "Federal Reserve Bank of St. Louis President Alberto Musalem said on Thursday that the US central bank will need to hike rates again to bring inflation back to the 2% target.\nTo bring...\n-October 08, 2026 at 02:08 pm EDT\n- MarketScreener",
+   "url": "https://www.marketscreener.com/news/fed-s-musalem-says-lowering-inflation-will-require-more-rate-hikes-ce785ddfdd89f02c",
+   "published_utc": "2026-10-08T18:08:20+00:00"
+  },
   {
    "provider": "gnews",
    "source": "Bitcoin Magazine",
@@ -66,22 +82,6 @@
    "summary": "Federal Reserve Governor Christopher Waller said further interest-rate hikes will likely be needed to slow inflation, though officials have some flexibility on timing and don’t need to tighten at consecutive policy meetings.",
    "url": "https://news.bloombergtax.com/daily-tax-report/feds-waller-says-there-is-some-flexibility-on-rate-hike-timing",
    "published_utc": "2026-10-08T08:30:00+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "RTE.ie",
-   "title": "Fed policymakers divided over September rate",
-   "summary": "US Federal Reserve policymakers were divided last month over the rationale for raising interest rates, with \"some participants\" seeing a hike as needed to keep the impact of energy and other price shocks at bay.",
-   "url": "https://www.rte.ie/news/business/2026/1008/1594499-us-federal-reserve-minutes/",
-   "published_utc": "2026-10-08T06:53:04+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "The Economic Times",
-   "title": "Dollar edges back from 18-month high after FOMC minutes",
-   "summary": "The dollar index has maintained its position as hawkish Fed minutes emphasize inflation as a major concern. Recent interest rate hikes by the Federal Reserve have been met with caution regarding future increases. Meanwhile, the US dollar's performance varied against other currencies, influenced by Japan's positive current account surplus report.",
-   "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-edges-back-from-18-month-high-after-fomc-minutes/articleshow/134777696.cms",
-   "published_utc": "2026-10-08T01:59:00+00:00"
   }
  ]
 }
