@@ -1,8 +1,16 @@
 {
- "collected_utc": "2026-10-10T07:37:01.452238+00:00",
- "collected_epoch": 1791617821.452238,
+ "collected_utc": "2026-10-10T08:07:01.432316+00:00",
+ "collected_epoch": 1791619621.432316,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "Livemint",
+   "title": "Treasuries Slip on Inflation Worry as Energy Costs Stay High",
+   "summary": "Treasuries slipped at the end of the week as still-elevated energy costs stoked concern about inflation and backed expectations for further Federal Reserve interest-rate increases.",
+   "url": "https://www.livemint.com/market/treasuries-slip-on-inflation-worry-as-energy-costs-stay-high-11791575735690.html",
+   "published_utc": "2026-10-09T19:55:35+00:00"
+  },
   {
    "provider": "gnews",
    "source": "Devdiscourse",
@@ -74,14 +82,6 @@
    "summary": "Gold firmed on Friday as a softer US dollar and easing Treasury yields boosted bullion's appeal, while market players weighed lingering inflation concerns and the outlook for Federal Reserve interest...",
    "url": "https://www.marketscreener.com/news/gold-rises-on-softer-dollar-easing-yields-fed-outlook-in-focus-ce785ddfdf8bf22d",
    "published_utc": "2026-10-09T01:56:23+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "The Economic Times",
-   "title": "Gold nudges higher with inflation risks, Fed rate path in focus",
-   "summary": "On Friday, gold prices experienced a modest uptrend as investors weighed concerns about inflation alongside potential interest rate hikes by the Federal Reserve. Spot gold saw a 0.3% increase, while US gold futures for December rose by 0.4%. St. Louis Fed President Alberto Musalem hinted at the necessity for further rate adjustments to combat inflation.",
-   "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-nudges-higher-with-inflation-risks-fed-rate-path-in-focus/articleshow/134804008.cms",
-   "published_utc": "2026-10-09T01:49:00+00:00"
   }
  ]
 }
