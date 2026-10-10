@@ -1,8 +1,24 @@
 {
- "collected_utc": "2026-10-10T16:07:01.953010+00:00",
- "collected_epoch": 1791648421.95301,
+ "collected_utc": "2026-10-10T16:37:01.485926+00:00",
+ "collected_epoch": 1791650221.485926,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "The Economic Times",
+   "title": "Wall Street Week Ahead: Bank earnings, CPI headline busy markets week as S&P 500 hovers near records",
+   "summary": "U.S. stock investors are on high alert as they anticipate quarterly earnings reports from major banks, including JPMorgan and Goldman Sachs. These reports are pivotal, shedding light on corporate profitability and the future direction of interest rates. The upcoming Consumer Price Index report will also provide vital clues about inflation trends, potentially swaying Federal Reserve policy.",
+   "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-week-ahead-bank-earnings-cpi-headline-busy-markets-week-as-sp-500-hovers-near-records/articleshow/134847295.cms",
+   "published_utc": "2026-10-10T04:29:00+00:00"
+  },
+  {
+   "provider": "gnews",
+   "source": "The Economic Times",
+   "title": "Gold hits one-week high, heads for weekly gain on bargain-hunting",
+   "summary": "Gold prices surged as investors seized the opportunity to buy low after a recent dip to a two-month low. Currently, spot gold has ascended to around $4,190.49 and is on track for a weekly increase. Traders are closely monitoring potential interest rate adjustments by the US Federal Reserve. Analysts suggest a possible test of the $4,000 support level if inflation continues to be a factor.",
+   "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-hits-one-week-high-heads-for-weekly-gain-on-bargain-hunting/articleshow/134847226.cms",
+   "published_utc": "2026-10-10T04:18:00+00:00"
+  },
   {
    "provider": "gnews",
    "source": "Livemint",
@@ -66,22 +82,6 @@
    "summary": "The market will focus on next week’s US CPI data, which is expected to carry significant weight in shaping expectations around the Fed’s interest-rate trajectory. Traders are bracing for the possibility of one more US Federal Reserve rate hike this year.",
    "url": "https://www.moneycontrol.com/news/business/personal-finance/gold-and-silver-price-today-october-9-check-rates-of-24k-22k-gold-in-delhi-mumbai-kolkata-other-cities-14048180.html",
    "published_utc": "2026-10-09T03:05:03+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "Reuters",
-   "title": "Gold rises more than 1%, Fed outlook in focus",
-   "summary": "Gold rose more than ​1% on Friday, helped by a softer US dollar, easing Treasury ‌yields and lower oil prices, as market players weighed lingering inflation concerns and the outlook for Federal Reserve interest rates.",
-   "url": "https://www.reuters.com/world/india/gold-rises-softer-dollar-easing-yields-fed-outlook-focus-2026-10-09/",
-   "published_utc": "2026-10-09T01:58:16+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "MarketScreener",
-   "title": "Gold rises on softer dollar, easing yields; Fed outlook in focus",
-   "summary": "Gold firmed on Friday as a softer US dollar and easing Treasury yields boosted bullion's appeal, while market players weighed lingering inflation concerns and the outlook for Federal Reserve interest...",
-   "url": "https://www.marketscreener.com/news/gold-rises-on-softer-dollar-easing-yields-fed-outlook-in-focus-ce785ddfdf8bf22d",
-   "published_utc": "2026-10-09T01:56:23+00:00"
   }
  ]
 }
