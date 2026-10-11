@@ -1,9 +1,9 @@
 {
   "schema": 1,
   "product_id": "admiral-swing-live",
-  "version": "0.9.69",
-  "published_utc": "2026-10-04T13:17:36.891938+00:00",
-  "notes": "Седмичен одит: default пазители синхронизирани към 3%/10% навсякъде; двигателят праща дневен engine_pulse (dead-man за всяка машина); здравният чек вече не флагва пенсионирания bridge; таблото чете breakeven от конфига; тестовете вече не замърсяват телеметрията (DEMON_TELEMETRY_OFF).",
+  "version": "0.9.70",
+  "published_utc": "2026-10-11T08:39:44.339774+00:00",
+  "notes": "Watchdog вече пази и таблото, и S5 двигателя (самовъзстановяване след рестарт/крах — уважава STOP/QUIET). Телеметрия v2: плик с машина/вид/час извън криптираната част — карантинираните събития остават диагностируеми. Legacy форматът остава четим.",
   "publisher": {
     "algorithm": "RSA-3072-PKCS1v15-SHA256",
     "key_id": "da6dbc7a152497ac",
@@ -14,8 +14,8 @@
     "signature": "MANIFEST.sig"
   },
   "installer": {
-    "file": "releases/0.9.69/swing_live-0.9.69.zip",
-    "bytes": 1712037,
-    "sha256": "76e3632ae8e3c737887f423053afca52ba7c7f0f1ea672e89048c216d6abc84e"
+    "file": "releases/0.9.70/swing_live-0.9.70.zip",
+    "bytes": 1712243,
+    "sha256": "94c0c917a56d847736799013343874712dd3e79a075b07d86a7cc264e8efd0d2"
   }
 }
