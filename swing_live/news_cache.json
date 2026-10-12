@@ -1,8 +1,16 @@
 {
- "collected_utc": "2026-10-12T14:07:01.477060+00:00",
- "collected_epoch": 1791814021.47706,
+ "collected_utc": "2026-10-12T14:37:01.481688+00:00",
+ "collected_epoch": 1791815821.481688,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "The Economic Times",
+   "title": "Dollar stays near 18-month high as Mideast conflict, inflation data in focus",
+   "summary": "The dollar's steadiness reflects a cautious market responding to geopolitical stresses in the Middle East, which have dampened investor confidence. Fluctuations in oil prices continue as conflict in Saudi Arabia disrupts infrastructure, paired with controversial ceasefire news. Investors focus on the looming US consumer price index report, which will influence Federal Reserve interest rate policies.",
+   "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-stays-near-18-month-high-as-mideast-conflict-inflation-data-in-focus/articleshow/134880836.cms",
+   "published_utc": "2026-10-12T02:20:00+00:00"
+  },
   {
    "provider": "gnews",
    "source": "KABC-TV",
@@ -74,14 +82,6 @@
    "summary": "US Federal Reserve Governor Christopher Waller has indicated that further interest rate hikes are likely in the coming months as inflation remains stubbornly above the central bank's 2 per cent target, although the timing and pace of increases will depend on incoming economic data.",
    "url": "https://www.aninews.in/news/business/us-feds-waller-expects-more-rate-hikes-as-inflation-stays-elevated20261009145425/",
    "published_utc": "2026-10-09T09:24:25+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "The Nation",
-   "title": "Emerging economies gain breathing room as Fed pause expectations strengthen",
-   "summary": "Growing expectations that the US Federal Reserve will leave interest rates unchanged at its October meeting give emerging economies a brief window to reassess",
-   "url": "https://www.nation.com.pk/09-Oct-2026/emerging-economies-gain-breathing-room-fed-pause-expectations-strengthen",
-   "published_utc": "2026-10-09T06:53:22+00:00"
   }
  ]
 }
