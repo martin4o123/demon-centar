@@ -1,23 +1,87 @@
 {
- "collected_utc": "2026-10-12T16:25:06.128716+00:00",
- "collected_epoch": 1791822306.128716,
+ "collected_utc": "2026-10-12T16:37:01.465245+00:00",
+ "collected_epoch": 1791823021.465245,
  "cached": false,
  "items": [
   {
    "provider": "gnews",
-   "source": "Reuters",
-   "title": "Fed holds interest rates",
-   "summary": "FOMC decision",
-   "url": "https://example.com/1",
-   "published_utc": "2026-09-14T10:00:00+00:00"
+   "source": "The Economic Times",
+   "title": "Dollar stays near 18-month high as Mideast conflict, inflation data in focus",
+   "summary": "The dollar's steadiness reflects a cautious market responding to geopolitical stresses in the Middle East, which have dampened investor confidence. Fluctuations in oil prices continue as conflict in Saudi Arabia disrupts infrastructure, paired with controversial ceasefire news. Investors focus on the looming US consumer price index report, which will influence Federal Reserve interest rate policies.",
+   "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-stays-near-18-month-high-as-mideast-conflict-inflation-data-in-focus/articleshow/134880836.cms",
+   "published_utc": "2026-10-12T02:20:00+00:00"
   },
   {
    "provider": "gnews",
-   "source": "AP",
-   "title": "ECB outlook",
-   "summary": "inflation cools",
-   "url": "https://example.com/2",
-   "published_utc": "2026-09-14T09:00:00+00:00"
+   "source": "KABC-TV",
+   "title": "Fed minutes: Another rate hike likely coming this year to combat persistent inflation",
+   "summary": "Most Federal Reserve officials expect another interest rate increase will likely be needed this year to combat inflation, according to the central bank's meeting minutes.",
+   "url": "https://abc7.com/story/fed-minutes-another-rate-hike-coming-year-combat-persistent-inflation/19929930/",
+   "published_utc": "2026-10-11T17:25:06+00:00"
+  },
+  {
+   "provider": "gnews",
+   "source": "7NEWS Australia",
+   "title": "Ratings agency S&P warns federal government and Reserve Bank are ‘pulling in opposite’ directions in fight against inflation",
+   "summary": "‘If we don’t fix this, all of our grandkids are going to be worse off.’",
+   "url": "https://7news.com.au/business/ratings-agency-sp-warns-federal-government-and-reserve-bank-are-pulling-in-opposite-directions-in-fight-against-inflation-c-22984276",
+   "published_utc": "2026-10-11T01:22:36+00:00"
+  },
+  {
+   "provider": "gnews",
+   "source": "Livemint",
+   "title": "Week Ahead: US inflation data, major bank earnings to drive Wall Street",
+   "summary": "September Consumer Price Index report in focus as investors assess prospects of Federal Reserve rate hike in December",
+   "url": "https://www.livemint.com/market/stock-market-news/week-ahead-us-inflation-data-major-bank-earnings-to-drive-wall-street-11791652997422.html",
+   "published_utc": "2026-10-10T18:12:57+00:00"
+  },
+  {
+   "provider": "gnews",
+   "source": "The Economic Times",
+   "title": "Wall Street Week Ahead: Bank earnings, CPI headline busy markets week as S&P 500 hovers near records",
+   "summary": "U.S. stock investors are on high alert as they anticipate quarterly earnings reports from major banks, including JPMorgan and Goldman Sachs. These reports are pivotal, shedding light on corporate profitability and the future direction of interest rates. The upcoming Consumer Price Index report will also provide vital clues about inflation trends, potentially swaying Federal Reserve policy.",
+   "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-week-ahead-bank-earnings-cpi-headline-busy-markets-week-as-sp-500-hovers-near-records/articleshow/134847295.cms",
+   "published_utc": "2026-10-10T04:29:00+00:00"
+  },
+  {
+   "provider": "gnews",
+   "source": "The Economic Times",
+   "title": "Gold hits one-week high, heads for weekly gain on bargain-hunting",
+   "summary": "Gold prices surged as investors seized the opportunity to buy low after a recent dip to a two-month low. Currently, spot gold has ascended to around $4,190.49 and is on track for a weekly increase. Traders are closely monitoring potential interest rate adjustments by the US Federal Reserve. Analysts suggest a possible test of the $4,000 support level if inflation continues to be a factor.",
+   "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-hits-one-week-high-heads-for-weekly-gain-on-bargain-hunting/articleshow/134847226.cms",
+   "published_utc": "2026-10-10T04:18:00+00:00"
+  },
+  {
+   "provider": "gnews",
+   "source": "Livemint",
+   "title": "Treasuries Slip on Inflation Worry as Energy Costs Stay High",
+   "summary": "Treasuries slipped at the end of the week as still-elevated energy costs stoked concern about inflation and backed expectations for further Federal Reserve interest-rate increases.",
+   "url": "https://www.livemint.com/market/treasuries-slip-on-inflation-worry-as-energy-costs-stay-high-11791575735690.html",
+   "published_utc": "2026-10-09T19:55:35+00:00"
+  },
+  {
+   "provider": "gnews",
+   "source": "Devdiscourse",
+   "title": "US Fed's Waller expects more rate hikes as inflation stays elevated",
+   "summary": "US Federal Reserve Governor Christopher Waller has indicated that further interest rate hikes are likely in the coming months as inflation remains stubbornly above the central bank's 2 per cent target, although the timing and pace of increases will depend on incoming economic data.",
+   "url": "https://www.devdiscourse.com/article/business/3989664-us-feds-waller-expects-more-rate-hikes-as-inflation-stays-elevated",
+   "published_utc": "2026-10-09T09:29:09+00:00"
+  },
+  {
+   "provider": "gnews",
+   "source": "The Tribune",
+   "title": "US Fed's Waller expects more rate hikes as inflation stays elevated",
+   "summary": "US Federal Reserve Governor Christopher Waller has indicated that further interest rate hikes are likely in the coming months as inflation remains stubbornly above the central bank's 2 per cent target, although the timing and pace of increases will depend on incoming economic data.",
+   "url": "https://www.tribuneindia.com/news/business/us-feds-waller-expects-more-rate-hikes-as-inflation-stays-elevated/",
+   "published_utc": "2026-10-09T09:26:26+00:00"
+  },
+  {
+   "provider": "gnews",
+   "source": "ANI (Asian News International)",
+   "title": "US Fed's Waller expects more rate hikes as inflation stays elevated",
+   "summary": "US Federal Reserve Governor Christopher Waller has indicated that further interest rate hikes are likely in the coming months as inflation remains stubbornly above the central bank's 2 per cent target, although the timing and pace of increases will depend on incoming economic data.",
+   "url": "https://www.aninews.in/news/business/us-feds-waller-expects-more-rate-hikes-as-inflation-stays-elevated20261009145425/",
+   "published_utc": "2026-10-09T09:24:25+00:00"
   }
  ]
 }
