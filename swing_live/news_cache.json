@@ -1,8 +1,32 @@
 {
- "collected_utc": "2026-10-12T17:07:01.456767+00:00",
- "collected_epoch": 1791824821.456767,
+ "collected_utc": "2026-10-12T17:37:01.430758+00:00",
+ "collected_epoch": 1791826621.430758,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "Devdiscourse",
+   "title": "Strong US growth, sticky inflation may prompt two more Fed rate hikes in 2026: BofA",
+   "summary": "Bank of America (BofA) expects the US Federal Reserve to raise interest rates twice more this year, in October and December, as resilient economic growth and persistent inflation pressures could require further monetary tightening, even as policymakers consider slowing the pace of rate hikes.",
+   "url": "https://www.devdiscourse.com/article/business/3990655-strong-us-growth-sticky-inflation-may-prompt-two-more-fed-rate-hikes-in-2026-bofa",
+   "published_utc": "2026-10-12T05:35:09+00:00"
+  },
+  {
+   "provider": "gnews",
+   "source": "The Tribune",
+   "title": "Strong US growth, sticky inflation may prompt two more Fed rate hikes in 2026: BofA",
+   "summary": "Bank of America (BofA) expects the US Federal Reserve to raise interest rates twice more this year, in October and December, as resilient economic growth and persistent inflation pressures could require further monetary tightening, even as policymakers consider slowing the pace of rate hikes.",
+   "url": "https://www.tribuneindia.com/news/business/strong-us-growth-sticky-inflation-may-prompt-two-more-fed-rate-hikes-in-2026-bofa/",
+   "published_utc": "2026-10-12T05:31:39+00:00"
+  },
+  {
+   "provider": "gnews",
+   "source": "ANI (Asian News International)",
+   "title": "Strong US growth, sticky inflation may prompt two more Fed rate hikes in 2026: BofA",
+   "summary": "Bank of America (BofA) expects the US Federal Reserve to raise interest rates twice more this year, in October and December, as resilient economic growth and persistent inflation pressures could require further monetary tightening, even as policymakers consider slowing the pace of rate hikes.",
+   "url": "https://www.aninews.in/news/business/strong-us-growth-sticky-inflation-may-prompt-two-more-fed-rate-hikes-in-2026-bofa20261012110000/",
+   "published_utc": "2026-10-12T05:30:00+00:00"
+  },
   {
    "provider": "gnews",
    "source": "The Economic Times",
@@ -58,30 +82,6 @@
    "summary": "Treasuries slipped at the end of the week as still-elevated energy costs stoked concern about inflation and backed expectations for further Federal Reserve interest-rate increases.",
    "url": "https://www.livemint.com/market/treasuries-slip-on-inflation-worry-as-energy-costs-stay-high-11791575735690.html",
    "published_utc": "2026-10-09T19:55:35+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "Devdiscourse",
-   "title": "US Fed's Waller expects more rate hikes as inflation stays elevated",
-   "summary": "US Federal Reserve Governor Christopher Waller has indicated that further interest rate hikes are likely in the coming months as inflation remains stubbornly above the central bank's 2 per cent target, although the timing and pace of increases will depend on incoming economic data.",
-   "url": "https://www.devdiscourse.com/article/business/3989664-us-feds-waller-expects-more-rate-hikes-as-inflation-stays-elevated",
-   "published_utc": "2026-10-09T09:29:09+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "The Tribune",
-   "title": "US Fed's Waller expects more rate hikes as inflation stays elevated",
-   "summary": "US Federal Reserve Governor Christopher Waller has indicated that further interest rate hikes are likely in the coming months as inflation remains stubbornly above the central bank's 2 per cent target, although the timing and pace of increases will depend on incoming economic data.",
-   "url": "https://www.tribuneindia.com/news/business/us-feds-waller-expects-more-rate-hikes-as-inflation-stays-elevated/",
-   "published_utc": "2026-10-09T09:26:26+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "ANI (Asian News International)",
-   "title": "US Fed's Waller expects more rate hikes as inflation stays elevated",
-   "summary": "US Federal Reserve Governor Christopher Waller has indicated that further interest rate hikes are likely in the coming months as inflation remains stubbornly above the central bank's 2 per cent target, although the timing and pace of increases will depend on incoming economic data.",
-   "url": "https://www.aninews.in/news/business/us-feds-waller-expects-more-rate-hikes-as-inflation-stays-elevated20261009145425/",
-   "published_utc": "2026-10-09T09:24:25+00:00"
   }
  ]
 }
