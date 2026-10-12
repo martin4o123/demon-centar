@@ -1,8 +1,16 @@
 {
- "collected_utc": "2026-10-12T05:07:01.455949+00:00",
- "collected_epoch": 1791781621.455949,
+ "collected_utc": "2026-10-12T05:37:01.418156+00:00",
+ "collected_epoch": 1791783421.418156,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "KABC-TV",
+   "title": "Fed minutes: Another rate hike likely coming this year to combat persistent inflation",
+   "summary": "Most Federal Reserve officials expect another interest rate increase will likely be needed this year to combat inflation, according to the central bank's meeting minutes.",
+   "url": "https://abc7.com/story/fed-minutes-another-rate-hike-coming-year-combat-persistent-inflation/19929930/",
+   "published_utc": "2026-10-11T17:25:06+00:00"
+  },
   {
    "provider": "gnews",
    "source": "7NEWS Australia",
@@ -74,14 +82,6 @@
    "summary": "Growing expectations that the US Federal Reserve will leave interest rates unchanged at its October meeting give emerging economies a brief window to reassess",
    "url": "https://www.nation.com.pk/09-Oct-2026/emerging-economies-gain-breathing-room-fed-pause-expectations-strengthen",
    "published_utc": "2026-10-09T06:53:22+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "Outlook Money",
-   "title": "Another US Fed Rate Hike On The Cards? Know How To Play Yours",
-   "summary": "The US Federal Reserve could raise interest rates again in 2026, with implications for Indian equities, the rupee, government bonds and gold. Here’s how higher US yields and a stronger dollar could affect these asset classes.",
-   "url": "https://www.outlookmoney.com/invest/us-fed-rate-hike-impact-india-stocks-rupee-bonds-gold",
-   "published_utc": "2026-10-09T06:22:55+00:00"
   }
  ]
 }
