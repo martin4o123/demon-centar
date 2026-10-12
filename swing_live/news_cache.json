@@ -1,8 +1,16 @@
 {
- "collected_utc": "2026-10-12T23:07:01.438881+00:00",
- "collected_epoch": 1791846421.438881,
+ "collected_utc": "2026-10-12T23:37:01.450826+00:00",
+ "collected_epoch": 1791848221.450826,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "Bloomberg",
+   "title": "Rising Bond Yields Are No Excuse for Central Bank Inertia",
+   "summary": "Are the bond and derivatives markets doing the tough work for central bankers? Swaps are pricing a globally coordinated cycle of interest rate increased over the next 12 months, and longer-term bond yields are hitting multi-decade highs in the US, Europe and Japan. That, in turn, has prompted Federal Reserve Chair Kevin Warsh and some policymakers from the Bank of England and European Central Bank to suggest they might not have to raise rates as much as expected because the debt markets are ma",
+   "url": "https://www.bloomberg.com/opinion/articles/2026-10-12/rising-bond-yields-are-no-substitute-for-tighter-monetary-policy",
+   "published_utc": "2026-10-12T09:00:01+00:00"
+  },
   {
    "provider": "gnews",
    "source": "MarketScreener",
@@ -74,14 +82,6 @@
    "summary": "U.S. stock investors are on high alert as they anticipate quarterly earnings reports from major banks, including JPMorgan and Goldman Sachs. These reports are pivotal, shedding light on corporate profitability and the future direction of interest rates. The upcoming Consumer Price Index report will also provide vital clues about inflation trends, potentially swaying Federal Reserve policy.",
    "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-week-ahead-bank-earnings-cpi-headline-busy-markets-week-as-sp-500-hovers-near-records/articleshow/134847295.cms",
    "published_utc": "2026-10-10T04:29:00+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "The Economic Times",
-   "title": "Gold hits one-week high, heads for weekly gain on bargain-hunting",
-   "summary": "Gold prices surged as investors seized the opportunity to buy low after a recent dip to a two-month low. Currently, spot gold has ascended to around $4,190.49 and is on track for a weekly increase. Traders are closely monitoring potential interest rate adjustments by the US Federal Reserve. Analysts suggest a possible test of the $4,000 support level if inflation continues to be a factor.",
-   "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-hits-one-week-high-heads-for-weekly-gain-on-bargain-hunting/articleshow/134847226.cms",
-   "published_utc": "2026-10-10T04:18:00+00:00"
   }
  ]
 }
