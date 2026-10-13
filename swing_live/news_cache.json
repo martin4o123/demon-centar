@@ -1,8 +1,16 @@
 {
- "collected_utc": "2026-10-13T09:07:01.451210+00:00",
- "collected_epoch": 1791882421.45121,
+ "collected_utc": "2026-10-13T09:37:01.459338+00:00",
+ "collected_epoch": 1791884221.459338,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "The Economic Times",
+   "title": "Bitcoin price prediction: Why BTC USD can drop before a Fed rate hike and rally after",
+   "summary": "Explore the impact of Federal Reserve rate hikes on Bitcoin prices, examining the relationship between interest rates and investor behavior in the crypto market.",
+   "url": "https://economictimes.indiatimes.com/world/business/bitcoin-price-prediction-why-btc-usd-can-drop-before-a-fed-rate-hike-and-rally-after/articleshow/134902184.cms",
+   "published_utc": "2026-10-12T21:19:00+00:00"
+  },
   {
    "provider": "gnews",
    "source": "Bloomberg",
@@ -74,14 +82,6 @@
    "summary": "‘If we don’t fix this, all of our grandkids are going to be worse off.’",
    "url": "https://7news.com.au/business/ratings-agency-sp-warns-federal-government-and-reserve-bank-are-pulling-in-opposite-directions-in-fight-against-inflation-c-22984276",
    "published_utc": "2026-10-11T01:22:36+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "Livemint",
-   "title": "Week Ahead: US inflation data, major bank earnings to drive Wall Street",
-   "summary": "September Consumer Price Index report in focus as investors assess prospects of Federal Reserve rate hike in December",
-   "url": "https://www.livemint.com/market/stock-market-news/week-ahead-us-inflation-data-major-bank-earnings-to-drive-wall-street-11791652997422.html",
-   "published_utc": "2026-10-10T18:12:57+00:00"
   }
  ]
 }
