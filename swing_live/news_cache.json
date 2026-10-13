@@ -1,8 +1,16 @@
 {
- "collected_utc": "2026-10-13T04:37:01.554642+00:00",
- "collected_epoch": 1791866221.554642,
+ "collected_utc": "2026-10-13T05:07:02.561807+00:00",
+ "collected_epoch": 1791868022.561807,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "Bloomberg",
+   "title": "Fed’s Hammack Says Smaller, Frequent Rate Adjustments Preferable",
+   "summary": "Federal Reserve Bank of Cleveland President Beth Hammack said smaller, more frequent adjustments to policy can help inflation expectations remain anchored, but she stopped short of backing a rate increase this month.",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-12/fed-s-hammack-says-smaller-frequent-rate-adjustments-preferable",
+   "published_utc": "2026-10-12T16:50:00+00:00"
+  },
   {
    "provider": "gnews",
    "source": "Bloomberg",
@@ -74,14 +82,6 @@
    "summary": "September Consumer Price Index report in focus as investors assess prospects of Federal Reserve rate hike in December",
    "url": "https://www.livemint.com/market/stock-market-news/week-ahead-us-inflation-data-major-bank-earnings-to-drive-wall-street-11791652997422.html",
    "published_utc": "2026-10-10T18:12:57+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "The Economic Times",
-   "title": "Wall Street Week Ahead: Bank earnings, CPI headline busy markets week as S&P 500 hovers near records",
-   "summary": "U.S. stock investors are on high alert as they anticipate quarterly earnings reports from major banks, including JPMorgan and Goldman Sachs. These reports are pivotal, shedding light on corporate profitability and the future direction of interest rates. The upcoming Consumer Price Index report will also provide vital clues about inflation trends, potentially swaying Federal Reserve policy.",
-   "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-week-ahead-bank-earnings-cpi-headline-busy-markets-week-as-sp-500-hovers-near-records/articleshow/134847295.cms",
-   "published_utc": "2026-10-10T04:29:00+00:00"
   }
  ]
 }
