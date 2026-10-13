@@ -1,8 +1,16 @@
 {
- "collected_utc": "2026-10-13T14:07:01.462258+00:00",
- "collected_epoch": 1791900421.462258,
+ "collected_utc": "2026-10-13T14:37:01.502842+00:00",
+ "collected_epoch": 1791902221.502842,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "MarketScreener",
+   "title": "Gold eases on firm dollar; spotlight on US inflation data",
+   "summary": "Gold prices eased on Tuesday as the US dollar held firm, while markets focused on upcoming US inflation prints for fresh signals on the Federal Reserve's interest-rate trajectory. \nSpot...",
+   "url": "https://www.marketscreener.com/news/gold-eases-on-firm-dollar-spotlight-on-us-inflation-data-ce785dddda8bf52c",
+   "published_utc": "2026-10-13T02:16:49+00:00"
+  },
   {
    "provider": "gnews",
    "source": "The Economic Times",
@@ -74,14 +82,6 @@
    "summary": "The dollar's steadiness reflects a cautious market responding to geopolitical stresses in the Middle East, which have dampened investor confidence. Fluctuations in oil prices continue as conflict in Saudi Arabia disrupts infrastructure, paired with controversial ceasefire news. Investors focus on the looming US consumer price index report, which will influence Federal Reserve interest rate policies.",
    "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-stays-near-18-month-high-as-mideast-conflict-inflation-data-in-focus/articleshow/134880836.cms",
    "published_utc": "2026-10-12T02:20:00+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "KABC-TV",
-   "title": "Fed minutes: Another rate hike likely coming this year to combat persistent inflation",
-   "summary": "Most Federal Reserve officials expect another interest rate increase will likely be needed this year to combat inflation, according to the central bank's meeting minutes.",
-   "url": "https://abc7.com/story/fed-minutes-another-rate-hike-coming-year-combat-persistent-inflation/19929930/",
-   "published_utc": "2026-10-11T17:25:06+00:00"
   }
  ]
 }
