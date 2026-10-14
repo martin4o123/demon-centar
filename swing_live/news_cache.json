@@ -1,8 +1,24 @@
 {
- "collected_utc": "2026-10-14T13:37:01.575806+00:00",
- "collected_epoch": 1791985021.575806,
+ "collected_utc": "2026-10-14T14:07:01.551314+00:00",
+ "collected_epoch": 1791986821.551314,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "The Economic Times",
+   "title": "Gold prices flat as markets await US CPI data",
+   "summary": "In early Asian trading, gold prices held steady as investors awaited crucial US consumer price data, which could affect future Federal Reserve decisions. New York Fed President John Williams spoke about the need for potential interest rate increases to combat inflation. Additionally, Fed Governor Christopher Waller noted that robust economic growth could influence US bond yields, with other precious metals experiencing slight downturns amid the evolving market conditions.",
+   "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-flat-as-markets-await-us-cpi-data/articleshow/134929941.cms",
+   "published_utc": "2026-10-14T02:00:00+00:00"
+  },
+  {
+   "provider": "gnews",
+   "source": "The Economic Times",
+   "title": "Dollar languishes as focus turns to CPI, Fed speakers",
+   "summary": "The dollar declined as traders awaited new information on the timing for interest rate increases. Investors reevaluated the recent rally fueled by artificial intelligence developments and easing oil prices. Meanwhile, the euro gained slightly amid regional budget concerns affecting bond yields. The US consumer price index data release is upcoming, alongside important speeches from Federal Reserve officials.",
+   "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-languishes-as-focus-turns-to-cpi-fed-speakers/articleshow/134929930.cms",
+   "published_utc": "2026-10-14T01:57:00+00:00"
+  },
   {
    "provider": "gnews",
    "source": "The Star",
@@ -66,22 +82,6 @@
    "summary": "Gold prices eased on Tuesday as the US dollar held firm, while markets focused on upcoming US inflation prints for fresh signals on the Federal Reserve's interest-rate trajectory. \nSpot...",
    "url": "https://www.marketscreener.com/news/gold-eases-on-firm-dollar-spotlight-on-us-inflation-data-ce785dddda8bf52c",
    "published_utc": "2026-10-13T02:16:49+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "The Economic Times",
-   "title": "Gold subdued with spotlight on US inflation data",
-   "summary": "Gold prices have seen a slight retreat as investors brace for key US inflation figures that could sway interest rates. The robust US dollar further complicates matters, making gold pricier for overseas buyers. While the Federal Reserve is poised to maintain current rates this month, market watchers are speculating on a potential hike in December.",
-   "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-subdued-with-spotlight-on-us-inflation-data/articleshow/134906003.cms",
-   "published_utc": "2026-10-13T02:02:00+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "The Economic Times",
-   "title": "Bitcoin price prediction: Why BTC USD can drop before a Fed rate hike and rally after",
-   "summary": "Explore the impact of Federal Reserve rate hikes on Bitcoin prices, examining the relationship between interest rates and investor behavior in the crypto market.",
-   "url": "https://economictimes.indiatimes.com/world/business/bitcoin-price-prediction-why-btc-usd-can-drop-before-a-fed-rate-hike-and-rally-after/articleshow/134902184.cms",
-   "published_utc": "2026-10-12T21:19:00+00:00"
   }
  ]
 }
