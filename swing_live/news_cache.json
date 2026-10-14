@@ -1,8 +1,16 @@
 {
- "collected_utc": "2026-10-14T06:37:01.476102+00:00",
- "collected_epoch": 1791959821.476102,
+ "collected_utc": "2026-10-14T07:07:01.475037+00:00",
+ "collected_epoch": 1791961621.475037,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "The Economic Times",
+   "title": "NY Fed President Williams sees no need for a rate hike in 2027",
+   "summary": "At a recent conference, John Williams from the Federal Reserve Bank of New York expressed optimism about a potential interest-rate increase this year, suggesting inflation could hit the 2% goal by next year. He cited the role of artificial intelligence in affecting inflation rates while also addressing the sector's supply-demand imbalance.",
+   "url": "https://economictimes.indiatimes.com/markets/us-stocks/ny-fed-president-williams-sees-no-need-for-a-rate-hike-in-2027/articleshow/134925718.cms",
+   "published_utc": "2026-10-13T18:58:00+00:00"
+  },
   {
    "provider": "gnews",
    "source": "CNBC TV18",
@@ -74,14 +82,6 @@
    "summary": "Gold eased from a more than one-week high on Monday as investors stayed cautious ahead of key US inflation data due this week for fresh clues on the Federal Reserve's interest rate path.\n...",
    "url": "https://www.marketscreener.com/news/gold-retreats-as-markets-await-key-us-inflation-data-ce785ddcde8df720",
    "published_utc": "2026-10-12T07:36:46+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "Devdiscourse",
-   "title": "Strong US growth, sticky inflation may prompt two more Fed rate hikes in 2026: BofA",
-   "summary": "Bank of America (BofA) expects the US Federal Reserve to raise interest rates twice more this year, in October and December, as resilient economic growth and persistent inflation pressures could require further monetary tightening, even as policymakers consider slowing the pace of rate hikes.",
-   "url": "https://www.devdiscourse.com/article/business/3990655-strong-us-growth-sticky-inflation-may-prompt-two-more-fed-rate-hikes-in-2026-bofa",
-   "published_utc": "2026-10-12T05:35:09+00:00"
   }
  ]
 }
