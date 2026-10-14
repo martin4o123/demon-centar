@@ -1,8 +1,16 @@
 {
- "collected_utc": "2026-10-14T17:07:01.550604+00:00",
- "collected_epoch": 1791997621.550604,
+ "collected_utc": "2026-10-14T17:37:01.476545+00:00",
+ "collected_epoch": 1791999421.476545,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "MarketScreener",
+   "title": "Asian Equities Mixed Ahead of Data for Fed Rate-Path Clues -- Update",
+   "summary": "By Megan Cheah and Sherry Qin\nAsian equities were mixed as investors shift their attention to economic data for clues on the Federal Reserve's interest-rate path.\nU.S. inflation data due...\n-October 14, 2026 at 01:36 am EDT\n- MarketScreener",
+   "url": "https://www.marketscreener.com/news/asian-equities-mixed-ahead-of-data-for-fed-rate-path-clues-update-ce785dd2db8cff2d",
+   "published_utc": "2026-10-14T05:36:58+00:00"
+  },
   {
    "provider": "gnews",
    "source": "The Economic Times",
@@ -74,14 +82,6 @@
    "summary": "Indian government bonds have rebounded following a significant rise in yields, drawing investors back into the market. The benchmark bond yield has risen due to a central bank policy rate hike and liquidity measures. The rupee has appreciated against the dollar after the central bank implemented new measures to support the currency. Meanwhile, traders are anticipating US inflation data, which could influence Federal Reserve decisions.",
    "url": "https://economictimes.indiatimes.com/markets/bonds/indias-benchmark-bond-breaks-4-day-falling-streak-as-value-investors-return/articleshow/134918791.cms",
    "published_utc": "2026-10-13T13:00:00+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "MarketScreener",
-   "title": "Gold eases on firm dollar; spotlight on US inflation data",
-   "summary": "Gold prices eased on Tuesday as the US dollar held firm, while markets focused on upcoming US inflation prints for fresh signals on the Federal Reserve's interest-rate trajectory. \nSpot...",
-   "url": "https://www.marketscreener.com/news/gold-eases-on-firm-dollar-spotlight-on-us-inflation-data-ce785dddda8bf52c",
-   "published_utc": "2026-10-13T02:16:49+00:00"
   }
  ]
 }
