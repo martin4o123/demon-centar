@@ -1,8 +1,16 @@
 {
- "collected_utc": "2026-10-14T21:37:01.515622+00:00",
- "collected_epoch": 1792013821.515622,
+ "collected_utc": "2026-10-14T22:07:01.538191+00:00",
+ "collected_epoch": 1792015621.538191,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "Fox News",
+   "title": "Trump tariffs also caused 'Made in America' prices to go up, NY Fed finds",
+   "summary": "Trump's tariffs contributed 2.9 percentage points to consumer goods inflation, according to Federal Reserve Bank of New York research. Energy prices add further pressure.",
+   "url": "https://www.foxnews.com/politics/american-made-goods-expensive-under-trump-tariffs-new-research-finds",
+   "published_utc": "2026-10-14T10:00:09+00:00"
+  },
   {
    "provider": "gnews",
    "source": "NDTV Profit",
@@ -74,14 +82,6 @@
    "summary": "At a recent conference, John Williams from the Federal Reserve Bank of New York expressed optimism about a potential interest-rate increase this year, suggesting inflation could hit the 2% goal by next year. He cited the role of artificial intelligence in affecting inflation rates while also addressing the sector's supply-demand imbalance.",
    "url": "https://economictimes.indiatimes.com/markets/us-stocks/ny-fed-president-williams-sees-no-need-for-a-rate-hike-in-2027/articleshow/134925718.cms",
    "published_utc": "2026-10-13T18:58:00+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "CNBC TV18",
-   "title": "Federal Reserve Bank of Chicago President Austan Goolsbee Warns AI Boom May Be Fueling Inflation Overheating",
-   "summary": "Federal Reserve Bank of Chicago President Austan Goolsbee warned that AI investment booms may be fueling aggregate overheating and persistent inflation.",
-   "url": "https://www.cnbctv18.com/market/goolsbee-says-ai-induced-inflation-is-jumping-out-of-its-lane-semafor-reports-20011193.htm",
-   "published_utc": "2026-10-13T15:48:21+00:00"
   }
  ]
 }
