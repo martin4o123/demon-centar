@@ -1,8 +1,16 @@
 {
- "collected_utc": "2026-10-14T01:07:01.463252+00:00",
- "collected_epoch": 1791940021.463252,
+ "collected_utc": "2026-10-14T01:37:01.481987+00:00",
+ "collected_epoch": 1791941821.481987,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "Hindustan Times",
+   "title": "Stock market today: Why are S&P 500 futures falling despite strong bank earnings?",
+   "summary": "S&P 500 futures fell as chip stocks slid and US bank earnings began, while investors awaited inflation data and clues on the Federal Reserve's rate decision.",
+   "url": "https://www.hindustantimes.com/world-news/us-news/stock-market-today-why-are-s-p-500-futures-falling-despite-strong-bank-earnings-101791896258259.html",
+   "published_utc": "2026-10-13T13:22:49+00:00"
+  },
   {
    "provider": "gnews",
    "source": "The Economic Times",
@@ -74,14 +82,6 @@
    "summary": "Bank of America (BofA) expects the US Federal Reserve to raise interest rates twice more this year, in October and December, as resilient economic growth and persistent inflation pressures could require further monetary tightening, even as policymakers consider slowing the pace of rate hikes.",
    "url": "https://www.tribuneindia.com/news/business/strong-us-growth-sticky-inflation-may-prompt-two-more-fed-rate-hikes-in-2026-bofa/",
    "published_utc": "2026-10-12T05:31:39+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "ANI (Asian News International)",
-   "title": "Strong US growth, sticky inflation may prompt two more Fed rate hikes in 2026: BofA",
-   "summary": "Bank of America (BofA) expects the US Federal Reserve to raise interest rates twice more this year, in October and December, as resilient economic growth and persistent inflation pressures could require further monetary tightening, even as policymakers consider slowing the pace of rate hikes.",
-   "url": "https://www.aninews.in/news/business/strong-us-growth-sticky-inflation-may-prompt-two-more-fed-rate-hikes-in-2026-bofa20261012110000/",
-   "published_utc": "2026-10-12T05:30:00+00:00"
   }
  ]
 }
