@@ -1,8 +1,16 @@
 {
- "collected_utc": "2026-10-14T00:37:01.451838+00:00",
- "collected_epoch": 1791938221.451838,
+ "collected_utc": "2026-10-14T01:07:01.463252+00:00",
+ "collected_epoch": 1791940021.463252,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "The Economic Times",
+   "title": "India's benchmark bond breaks 4-day falling streak as value investors return",
+   "summary": "Indian government bonds have rebounded following a significant rise in yields, drawing investors back into the market. The benchmark bond yield has risen due to a central bank policy rate hike and liquidity measures. The rupee has appreciated against the dollar after the central bank implemented new measures to support the currency. Meanwhile, traders are anticipating US inflation data, which could influence Federal Reserve decisions.",
+   "url": "https://economictimes.indiatimes.com/markets/bonds/indias-benchmark-bond-breaks-4-day-falling-streak-as-value-investors-return/articleshow/134918791.cms",
+   "published_utc": "2026-10-13T13:00:00+00:00"
+  },
   {
    "provider": "gnews",
    "source": "MarketScreener",
@@ -74,14 +82,6 @@
    "summary": "Bank of America (BofA) expects the US Federal Reserve to raise interest rates twice more this year, in October and December, as resilient economic growth and persistent inflation pressures could require further monetary tightening, even as policymakers consider slowing the pace of rate hikes.",
    "url": "https://www.aninews.in/news/business/strong-us-growth-sticky-inflation-may-prompt-two-more-fed-rate-hikes-in-2026-bofa20261012110000/",
    "published_utc": "2026-10-12T05:30:00+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "The Economic Times",
-   "title": "Dollar stays near 18-month high as Mideast conflict, inflation data in focus",
-   "summary": "The dollar's steadiness reflects a cautious market responding to geopolitical stresses in the Middle East, which have dampened investor confidence. Fluctuations in oil prices continue as conflict in Saudi Arabia disrupts infrastructure, paired with controversial ceasefire news. Investors focus on the looming US consumer price index report, which will influence Federal Reserve interest rate policies.",
-   "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-stays-near-18-month-high-as-mideast-conflict-inflation-data-in-focus/articleshow/134880836.cms",
-   "published_utc": "2026-10-12T02:20:00+00:00"
   }
  ]
 }
