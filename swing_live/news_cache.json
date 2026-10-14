@@ -1,8 +1,16 @@
 {
- "collected_utc": "2026-10-14T07:37:01.487064+00:00",
- "collected_epoch": 1791963421.487064,
+ "collected_utc": "2026-10-14T08:07:01.477663+00:00",
+ "collected_epoch": 1791965221.477663,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "Bloomberg Tax News",
+   "title": "Fed’s Collins Sees Higher Rates Likely This Year to Tame Prices",
+   "summary": "Federal Reserve Bank of Boston President Susan Collins said interest rates will likely need to rise more before the end of the year to help rein in inflation.",
+   "url": "https://news.bloombergtax.com/daily-tax-report/feds-collins-sees-higher-rates-likely-this-year-to-tame-prices",
+   "published_utc": "2026-10-13T20:00:00+00:00"
+  },
   {
    "provider": "gnews",
    "source": "MarketScreener",
@@ -74,14 +82,6 @@
    "summary": "Federal Reserve Bank of Cleveland President Beth Hammack said smaller, more frequent adjustments to policy can help inflation expectations remain anchored, but she stopped short of backing a rate increase this month.",
    "url": "https://www.bloomberg.com/news/articles/2026-10-12/fed-s-hammack-says-smaller-frequent-rate-adjustments-preferable",
    "published_utc": "2026-10-12T16:50:00+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "Bloomberg",
-   "title": "Rising Bond Yields Are No Excuse for Central Bank Inertia",
-   "summary": "Are the bond and derivatives markets doing the tough work for central bankers? Swaps are pricing a globally coordinated cycle of interest rate increased over the next 12 months, and longer-term bond yields are hitting multi-decade highs in the US, Europe and Japan. That, in turn, has prompted Federal Reserve Chair Kevin Warsh and some policymakers from the Bank of England and European Central Bank to suggest they might not have to raise rates as much as expected because the debt markets are ma",
-   "url": "https://www.bloomberg.com/opinion/articles/2026-10-12/rising-bond-yields-are-no-substitute-for-tighter-monetary-policy",
-   "published_utc": "2026-10-12T09:00:01+00:00"
   }
  ]
 }
