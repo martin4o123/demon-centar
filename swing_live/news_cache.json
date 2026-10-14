@@ -1,8 +1,16 @@
 {
- "collected_utc": "2026-10-14T07:07:01.475037+00:00",
- "collected_epoch": 1791961621.475037,
+ "collected_utc": "2026-10-14T07:37:01.487064+00:00",
+ "collected_epoch": 1791963421.487064,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "MarketScreener",
+   "title": "Fed's Williams sees no need for rate hike in 2027, Bloomberg News reports",
+   "summary": "New York Federal Reserve President John Williams has reaffirmed his view that the US central bank may need to raise interest rates once more this year in its bid to lower inflation. \nI...",
+   "url": "https://www.marketscreener.com/news/fed-s-williams-sees-no-need-for-rate-hike-in-2027-bloomberg-news-reports-ce785dd2d988f324",
+   "published_utc": "2026-10-13T19:25:01+00:00"
+  },
   {
    "provider": "gnews",
    "source": "The Economic Times",
@@ -74,14 +82,6 @@
    "summary": "Are the bond and derivatives markets doing the tough work for central bankers? Swaps are pricing a globally coordinated cycle of interest rate increased over the next 12 months, and longer-term bond yields are hitting multi-decade highs in the US, Europe and Japan. That, in turn, has prompted Federal Reserve Chair Kevin Warsh and some policymakers from the Bank of England and European Central Bank to suggest they might not have to raise rates as much as expected because the debt markets are ma",
    "url": "https://www.bloomberg.com/opinion/articles/2026-10-12/rising-bond-yields-are-no-substitute-for-tighter-monetary-policy",
    "published_utc": "2026-10-12T09:00:01+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "MarketScreener",
-   "title": "Gold retreats as markets await key US inflation data",
-   "summary": "Gold eased from a more than one-week high on Monday as investors stayed cautious ahead of key US inflation data due this week for fresh clues on the Federal Reserve's interest rate path.\n...",
-   "url": "https://www.marketscreener.com/news/gold-retreats-as-markets-await-key-us-inflation-data-ce785ddcde8df720",
-   "published_utc": "2026-10-12T07:36:46+00:00"
   }
  ]
 }
