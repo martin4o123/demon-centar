@@ -1,8 +1,16 @@
 {
- "collected_utc": "2026-10-15T08:07:01.592634+00:00",
- "collected_epoch": 1792051621.592634,
+ "collected_utc": "2026-10-15T08:37:01.502230+00:00",
+ "collected_epoch": 1792053421.50223,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "MarketScreener",
+   "title": "Dollar hits 18-month high, then cools as investors await patient Fed",
+   "summary": "The US dollar hit an 18-month high on Wednesday after stronger-than-expected US inflation data briefly revived expectations for a Federal Reserve interest rate hike later this month, though the...",
+   "url": "https://www.marketscreener.com/news/dollar-hits-18-month-high-then-cools-as-investors-await-patient-fed-ce785dd2d089f123",
+   "published_utc": "2026-10-14T20:32:29+00:00"
+  },
   {
    "provider": "gnews",
    "source": "MarketScreener",
@@ -74,14 +82,6 @@
    "summary": "The South African rand weakened sharply on Wednesday after a hotter-than-expected US inflation reading boosted expectations that the Federal Reserve could raise interest rates later this month.\n...",
    "url": "https://www.marketscreener.com/news/south-african-rand-slides-as-us-inflation-print-boosts-fed-tightening-bets-ce785dd2de8bf625",
    "published_utc": "2026-10-14T14:27:30+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "The Economic Times",
-   "title": "US yields jump as hot consumer inflation boosts rate hike bets",
-   "summary": "In September, the US Treasury yields climbed as the Consumer Price Index (CPI) showed a surprising rise of 0.6% month-over-month and 3.7% year-over-year. This unexpected inflation report heightened the chances of an interest rate hike by the Federal Reserve in December, signaling a potential response to ongoing inflationary pressures. Market sentiments are now leaning toward the anticipation of policy changes from the Fed as they aim to manage inflation effectively.",
-   "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-yields-jump-as-hot-consumer-inflation-boosts-rate-hike-bets/articleshow/134944738.cms",
-   "published_utc": "2026-10-14T14:08:00+00:00"
   }
  ]
 }
