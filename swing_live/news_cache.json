@@ -1,8 +1,16 @@
 {
- "collected_utc": "2026-10-15T06:07:02.492871+00:00",
- "collected_epoch": 1792044422.492871,
+ "collected_utc": "2026-10-15T06:37:01.537297+00:00",
+ "collected_epoch": 1792046221.537297,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "MarketScreener",
+   "title": "Wall Street tumbles as hot inflation data feeds worries about Fed rate hikes",
+   "summary": "Hotter-than-expected inflation data sent Wall Street tumbling on Wednesday, with worries about more interest rate hikes from the Federal Reserve pummeling shares of Oracle, CoreWeave and other AI...",
+   "url": "https://www.marketscreener.com/news/wall-street-tumbles-as-hot-inflation-data-feeds-worries-about-fed-rate-hikes-ce785dd2d18cf62d",
+   "published_utc": "2026-10-14T18:18:21+00:00"
+  },
   {
    "provider": "gnews",
    "source": "Baltimore News",
@@ -74,14 +82,6 @@
    "summary": "A U.S. Federal Reserve interest-rate decision later this month may be a closer call than previously thought, traders bet on Wednesday, after U.S. Labor Department data showed consumer prices were up 3.7 per cent last month from a year earlier, well above the Fed’s two per cent target and moving in the wrong direction.",
    "url": "https://www.cp24.com/news/money/2026/10/14/fed-rate-hike-call-seen-tight-as-us-inflation-heats-up/",
    "published_utc": "2026-10-14T13:48:49+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "MarketScreener",
-   "title": "Fed rate hike call seen tight as inflation heats up",
-   "summary": "A Federal Reserve interest-rate decision later this month may be a closer call than previously thought, traders bet on Wednesday, after Labor Department data showed consumer prices were up 3.7% last...\n-October 14, 2026 at 09:33 am EDT\n- MarketScreener",
-   "url": "https://www.marketscreener.com/news/fed-rate-hike-call-seen-tight-as-inflation-heats-up-ce785dd2df8eff2d",
-   "published_utc": "2026-10-14T13:33:59+00:00"
   }
  ]
 }
