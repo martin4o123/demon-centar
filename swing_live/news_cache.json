@@ -1,8 +1,16 @@
 {
- "collected_utc": "2026-10-15T12:07:01.494176+00:00",
- "collected_epoch": 1792066021.494176,
+ "collected_utc": "2026-10-15T12:37:01.535061+00:00",
+ "collected_epoch": 1792067821.535061,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "Livemint",
+   "title": "Chip Stocks Deepen Losses as Concerns Mount Over Rates, AI Debt",
+   "summary": "A rout in global technology hardware stocks extended Thursday, as Asian chipmakers followed US peers lower on worries over Federal Reserve interest rate hikes and AI funding difficulties.",
+   "url": "https://www.livemint.com/market/chip-stocks-deepen-losses-as-concerns-mount-over-rates-ai-debt-11792024262771.html",
+   "published_utc": "2026-10-15T00:31:02+00:00"
+  },
   {
    "provider": "gnews",
    "source": "The Star",
@@ -73,14 +81,6 @@
    "title": "Steve Moore warns stubborn inflation could complicate Fed rate decision",
    "summary": "The latest inflation report is putting renewed attention on the Federal Reserve's next interest rate decision as Americans continue facing elevated prices.",
    "url": "https://foxbaltimore.com/news/nation-world/steve-moore-warns-stubborn-inflation-could-complicate-fed-rate-decision-white-house-economic-adviser-steve-moore-midterms-trump-administration-groceries-federal-tax-code-oil-prices-middle-east",
-   "published_utc": "2026-10-14T17:44:11+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "WJLA",
-   "title": "Steve Moore warns stubborn inflation could complicate Fed rate decision",
-   "summary": "The latest inflation report is putting renewed attention on the Federal Reserve's next interest rate decision as Americans continue facing elevated prices.",
-   "url": "https://wjla.com/news/nation-world/steve-moore-warns-stubborn-inflation-could-complicate-fed-rate-decision-white-house-economic-adviser-steve-moore-midterms-trump-administration-groceries-federal-tax-code-oil-prices-middle-east",
    "published_utc": "2026-10-14T17:44:11+00:00"
   }
  ]
