@@ -1,8 +1,16 @@
 {
- "collected_utc": "2026-10-14T23:37:01.508135+00:00",
- "collected_epoch": 1792021021.508135,
+ "collected_utc": "2026-10-15T00:07:01.527538+00:00",
+ "collected_epoch": 1792022821.527538,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "The Economic Times",
+   "title": "More expensive gas, semiconductors likely pushed up inflation in US last month",
+   "summary": "Inflation in the United States is projected to increase to 3.6% in September from the previous month. This rise is attributed to factors such as continuous supply issues caused by the Iran war. The Federal Reserve is monitoring inflation data closely and may adjust interest rates accordingly. Several companies, including PepsiCo, have announced price increases to address rising costs.",
+   "url": "https://economictimes.indiatimes.com/news/international/world-news/more-expensive-gas-semiconductors-likely-pushed-up-inflation-in-us-last-month/articleshow/134942231.cms",
+   "published_utc": "2026-10-14T12:07:00+00:00"
+  },
   {
    "provider": "gnews",
    "source": "Fox News",
@@ -74,14 +82,6 @@
    "summary": "New York Federal Reserve President John Williams has reaffirmed his view that the US central bank may need to raise interest rates once more this year in its bid to lower inflation. \nI...",
    "url": "https://www.marketscreener.com/news/fed-s-williams-sees-no-need-for-rate-hike-in-2027-bloomberg-news-reports-ce785dd2d988f324",
    "published_utc": "2026-10-13T19:25:01+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "The Economic Times",
-   "title": "NY Fed President Williams sees no need for a rate hike in 2027",
-   "summary": "At a recent conference, John Williams from the Federal Reserve Bank of New York expressed optimism about a potential interest-rate increase this year, suggesting inflation could hit the 2% goal by next year. He cited the role of artificial intelligence in affecting inflation rates while also addressing the sector's supply-demand imbalance.",
-   "url": "https://economictimes.indiatimes.com/markets/us-stocks/ny-fed-president-williams-sees-no-need-for-a-rate-hike-in-2027/articleshow/134925718.cms",
-   "published_utc": "2026-10-13T18:58:00+00:00"
   }
  ]
 }
