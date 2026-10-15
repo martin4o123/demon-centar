@@ -1,8 +1,24 @@
 {
- "collected_utc": "2026-10-15T13:07:01.580319+00:00",
- "collected_epoch": 1792069621.580319,
+ "collected_utc": "2026-10-15T13:37:01.529164+00:00",
+ "collected_epoch": 1792071421.529164,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "Moneycontrol",
+   "title": "Sensex Today | Stock Market LIVE Updates: GIFT Nifty hints a muted start; US, Asian markets decline",
+   "summary": "Sensex Today | Stock Market LIVE Updates: Hotter-than-expected inflation data sent the Nasdaq ​to a sharply lower close on Wednesday, with worries about more interest rate hikes from the Federal Reserve pummeling ‌shares of Oracle, CoreWeave and other AI stocks sensitive to higher borrowing costs. The S&P 500 declined 1.11% to end the session at 7,718.94 points, its biggest one-day drop since July 29. The Nasdaq declined 1.88% to ​26,692.87 points, its biggest daily drop since July 23. The Dow Jones Industrial Average declined 0.09% to 51,621.48 points.",
+   "url": "https://www.moneycontrol.com/news/business/markets/stock-market-live-updates-nifty50-share-price-sensex-share-price-crude-fii-gift-nifty-rupee-latest-updates-15-10-2026-alpha-liveblog-14052440.html",
+   "published_utc": "2026-10-15T01:30:00+00:00"
+  },
+  {
+   "provider": "gnews",
+   "source": "The Star",
+   "title": "Ringgit opens lower vs US dollar on renewed US rate hike expectations",
+   "summary": "KUALA LUMPUR: The ringgit opened lower against the US dollar on Thursday as stronger-than-expected US inflation data bolstered expectations of a possible interest rate increase by the US Federal Reserve (Fed), lending support to the greenback.",
+   "url": "https://www.thestar.com.my/business/business-news/2026/10/15/ringgit-opens-lower-vs-us-dollar-on-renewed-us-rate-hike-expectations",
+   "published_utc": "2026-10-15T01:09:00+00:00"
+  },
   {
    "provider": "gnews",
    "source": "Livemint",
@@ -66,22 +82,6 @@
    "summary": "Federal Reserve Bank of Chicago President Austan Goolsbee said on Wednesday the latest consumer-level inflation data left him worried.\nThe September consumer price index data, which...\n-October 14, 2026 at 03:32 pm EDT\n- MarketScreener",
    "url": "https://www.marketscreener.com/news/fed-s-goolsbee-says-september-cpi-data-was-discouraging-yahoo-finance-ce785dd2d18ef622",
    "published_utc": "2026-10-14T19:32:20+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "MarketScreener",
-   "title": "Wall Street tumbles as hot inflation data feeds worries about Fed rate hikes",
-   "summary": "Hotter-than-expected inflation data sent Wall Street tumbling on Wednesday, with worries about more interest rate hikes from the Federal Reserve pummeling shares of Oracle, CoreWeave and other AI...",
-   "url": "https://www.marketscreener.com/news/wall-street-tumbles-as-hot-inflation-data-feeds-worries-about-fed-rate-hikes-ce785dd2d18cf62d",
-   "published_utc": "2026-10-14T18:18:21+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "Baltimore News",
-   "title": "Steve Moore warns stubborn inflation could complicate Fed rate decision",
-   "summary": "The latest inflation report is putting renewed attention on the Federal Reserve's next interest rate decision as Americans continue facing elevated prices.",
-   "url": "https://foxbaltimore.com/news/nation-world/steve-moore-warns-stubborn-inflation-could-complicate-fed-rate-decision-white-house-economic-adviser-steve-moore-midterms-trump-administration-groceries-federal-tax-code-oil-prices-middle-east",
-   "published_utc": "2026-10-14T17:44:11+00:00"
   }
  ]
 }
