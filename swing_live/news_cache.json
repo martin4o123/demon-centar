@@ -1,8 +1,24 @@
 {
- "collected_utc": "2026-10-15T01:37:01.524229+00:00",
- "collected_epoch": 1792028221.524229,
+ "collected_utc": "2026-10-15T02:07:01.489919+00:00",
+ "collected_epoch": 1792030021.489919,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "Bnn Bloomberg",
+   "title": "Fed could hike interest rates as U.S. inflation heats up",
+   "summary": "A U.S. Federal Reserve interest-rate decision later this month may be a closer call than previously thought, traders bet on Wednesday, after U.S. Labor Department data showed consumer prices were up 3.7 per cent last month from a year earlier, well above the Fed’s two per cent target and moving in the wrong direction.",
+   "url": "https://www.bnnbloomberg.ca/business/economics/2026/10/14/fed-rate-hike-call-seen-tight-as-us-inflation-heats-up/",
+   "published_utc": "2026-10-14T13:48:49+00:00"
+  },
+  {
+   "provider": "gnews",
+   "source": "CP24 Toronto",
+   "title": "Fed could hike interest rates as U.S. inflation heats up",
+   "summary": "A U.S. Federal Reserve interest-rate decision later this month may be a closer call than previously thought, traders bet on Wednesday, after U.S. Labor Department data showed consumer prices were up 3.7 per cent last month from a year earlier, well above the Fed’s two per cent target and moving in the wrong direction.",
+   "url": "https://www.cp24.com/news/money/2026/10/14/fed-rate-hike-call-seen-tight-as-us-inflation-heats-up/",
+   "published_utc": "2026-10-14T13:48:49+00:00"
+  },
   {
    "provider": "gnews",
    "source": "MarketScreener",
@@ -66,22 +82,6 @@
    "summary": "Trump's tariffs contributed 2.9 percentage points to consumer goods inflation, according to Federal Reserve Bank of New York research. Energy prices add further pressure.",
    "url": "https://www.foxnews.com/politics/american-made-goods-expensive-under-trump-tariffs-new-research-finds",
    "published_utc": "2026-10-14T10:00:09+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "NDTV Profit",
-   "title": "Gold Loses Shine Amid Navratri: Yellow Metal Prices Fall Below Rs 1,48,000; Silver Prices Drop By Over Rs 2,000",
-   "summary": "Gold prices fell below Rs 1,48,000 during Wednesday's session, while silver futures declined by more than Rs 2,000 from the previous close. Investors tracked US inflation data and Federal Reserve signals for clues on the outlook for interest rates.",
-   "url": "https://www.ndtvprofit.com/markets/gold-loses-shine-amid-navratri-yellow-metal-prices-fall-below-rs-1-48-000-silver-prices-drop-by-rs-2-000-12183013",
-   "published_utc": "2026-10-14T06:57:46+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "MarketScreener",
-   "title": "Asian Equities Mixed Ahead of Data for Fed Rate-Path Clues -- Update",
-   "summary": "By Megan Cheah and Sherry Qin\nAsian equities were mixed as investors shift their attention to economic data for clues on the Federal Reserve's interest-rate path.\nU.S. inflation data due...\n-October 14, 2026 at 01:36 am EDT\n- MarketScreener",
-   "url": "https://www.marketscreener.com/news/asian-equities-mixed-ahead-of-data-for-fed-rate-path-clues-update-ce785dd2db8cff2d",
-   "published_utc": "2026-10-14T05:36:58+00:00"
   }
  ]
 }
