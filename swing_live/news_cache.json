@@ -1,8 +1,16 @@
 {
- "collected_utc": "2026-10-15T11:07:01.533585+00:00",
- "collected_epoch": 1792062421.533585,
+ "collected_utc": "2026-10-15T11:37:01.493903+00:00",
+ "collected_epoch": 1792064221.493903,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "The Star",
+   "title": "Nasdaq tumbles as inflation fuels rate-hike fears",
+   "summary": "Hotter-than-expected inflation data sent the Nasdaq to a sharply lower close on Wednesday, with worries about more interest rate hikes from the Federal Reserve pummeling shares of Oracle, CoreWeave and other AI stocks sensitive to higher borrowing costs.",
+   "url": "https://www.thestar.com.my/business/2026/10/15/nasdaq-tumbles-as-inflation-fuels-rate-hike-fears",
+   "published_utc": "2026-10-14T23:25:00+00:00"
+  },
   {
    "provider": "gnews",
    "source": "MarketScreener",
@@ -18,6 +26,14 @@
    "summary": "The Federal Reserve will probably need to increase short-term interest rates further to rein in too-high inflation, San Francisco Federal Reserve President Mary Daly said on Wednesday, but she also...\n-October 14, 2026 at 05:41 pm EDT\n- MarketScreener",
    "url": "https://www.marketscreener.com/news/fed-s-daly-says-rate-hikes-likely-needed-but-not-urgently-ce785dd2d08df221",
    "published_utc": "2026-10-14T21:41:10+00:00"
+  },
+  {
+   "provider": "gnews",
+   "source": "Spokane Spokesman-Review",
+   "title": "Fed’s Goolsbee Says Inflation Discouraging, Warns of Overheating",
+   "summary": "Federal Reserve Bank of Chicago President Austan Goolsbee said a report showing broad-based inflationary pressures last month was worrisome, and warned the build-out of infrastructure related to artificial intelligence may be overheating the economy.",
+   "url": "https://www.spokesman.com/stories/2026/oct/14/feds-goolsbee-says-inflation-discouraging-warns-of/",
+   "published_utc": "2026-10-14T21:00:00+00:00"
   },
   {
    "provider": "gnews",
@@ -66,22 +82,6 @@
    "summary": "The latest inflation report is putting renewed attention on the Federal Reserve's next interest rate decision as Americans continue facing elevated prices.",
    "url": "https://wjla.com/news/nation-world/steve-moore-warns-stubborn-inflation-could-complicate-fed-rate-decision-white-house-economic-adviser-steve-moore-midterms-trump-administration-groceries-federal-tax-code-oil-prices-middle-east",
    "published_utc": "2026-10-14T17:44:11+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "The Philadelphia Inquirer",
-   "title": "Inflation worsened last month to 3.7% in sign that prices remain elevated as midterm elections near",
-   "summary": "The increase was higher than economists expected, putting pressure on the Federal Reserve to raise its key interest rate.",
-   "url": "https://www.inquirer.com/business/inflation-consumer-prices-affordability-election-gas-groceries-20261014.html",
-   "published_utc": "2026-10-14T15:59:18+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "Bangkok Post",
-   "title": "Hot US inflation data dents Wall Street stocks",
-   "summary": "LONDON - A hotter-than-expected inflation reading dented Wall Street stocks on Wednesday, while the dollar and bond yields pushed higher as investors pencilled in a higher chance the US Federal Reserve would raise interest rates later this month.",
-   "url": "https://www.bangkokpost.com/business/general/3337044/hot-us-inflation-data-dents-wall-street-stocks",
-   "published_utc": "2026-10-14T14:45:00+00:00"
   }
  ]
 }
