@@ -1,8 +1,24 @@
 {
- "collected_utc": "2026-10-15T05:37:01.674156+00:00",
- "collected_epoch": 1792042621.674156,
+ "collected_utc": "2026-10-15T06:07:02.492871+00:00",
+ "collected_epoch": 1792044422.492871,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "Baltimore News",
+   "title": "Steve Moore warns stubborn inflation could complicate Fed rate decision",
+   "summary": "The latest inflation report is putting renewed attention on the Federal Reserve's next interest rate decision as Americans continue facing elevated prices.",
+   "url": "https://foxbaltimore.com/news/nation-world/steve-moore-warns-stubborn-inflation-could-complicate-fed-rate-decision-white-house-economic-adviser-steve-moore-midterms-trump-administration-groceries-federal-tax-code-oil-prices-middle-east",
+   "published_utc": "2026-10-14T17:44:11+00:00"
+  },
+  {
+   "provider": "gnews",
+   "source": "WJLA",
+   "title": "Steve Moore warns stubborn inflation could complicate Fed rate decision",
+   "summary": "The latest inflation report is putting renewed attention on the Federal Reserve's next interest rate decision as Americans continue facing elevated prices.",
+   "url": "https://wjla.com/news/nation-world/steve-moore-warns-stubborn-inflation-could-complicate-fed-rate-decision-white-house-economic-adviser-steve-moore-midterms-trump-administration-groceries-federal-tax-code-oil-prices-middle-east",
+   "published_utc": "2026-10-14T17:44:11+00:00"
+  },
   {
    "provider": "gnews",
    "source": "The Philadelphia Inquirer",
@@ -66,22 +82,6 @@
    "summary": "A Federal Reserve interest-rate decision later this month may be a closer call than previously thought, traders bet on Wednesday, after Labor Department data showed consumer prices were up 3.7% last...\n-October 14, 2026 at 09:33 am EDT\n- MarketScreener",
    "url": "https://www.marketscreener.com/news/fed-rate-hike-call-seen-tight-as-inflation-heats-up-ce785dd2df8eff2d",
    "published_utc": "2026-10-14T13:33:59+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "The Economic Times",
-   "title": "Gold drops over 1% as hot US inflation data boosts Fed hike bets",
-   "summary": "US consumer prices increased in September, contributing to expectations of an interest rate hike by the Federal Reserve. Following this inflation data, gold prices fell over 1% for the third consecutive session. The US dollar index also climbed, making gold more expensive for foreign investors. Market predictions indicate a 44% chance of a rate hike in October and a 95% chance in December.",
-   "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/gold-drops-over-1-as-hot-us-inflation-data-boosts-fed-hike-bets/articleshow/134944020.cms",
-   "published_utc": "2026-10-14T13:30:00+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "The Tribune",
-   "title": "US inflation rises to 3.7% in September as gasoline prices jump 9.1%",
-   "summary": "US consumer inflation rose to 3.7 per cent in September from 3.4 per cent in August, driven largely by a sharp increase in gasoline prices, adding to concerns over persistent price pressures ahead of the Federal Reserve's next interest rate decision.",
-   "url": "https://www.tribuneindia.com/news/business/us-inflation-rises-to-3-7-in-september-as-gasoline-prices-jump-9-1/",
-   "published_utc": "2026-10-14T12:56:45+00:00"
   }
  ]
 }
