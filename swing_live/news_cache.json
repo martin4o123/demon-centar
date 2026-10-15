@@ -1,8 +1,16 @@
 {
- "collected_utc": "2026-10-15T19:07:01.565381+00:00",
- "collected_epoch": 1792091221.565381,
+ "collected_utc": "2026-10-15T19:37:01.654606+00:00",
+ "collected_epoch": 1792093021.654606,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "The Star",
+   "title": "Gold rebounds from one-week low as dollar slips",
+   "summary": "GOLD prices edged higher on Thursday, rebounding from a one-week low hit in the previous session, as the US dollar eased, while investors assessed the likelihood of a Federal Reserve interest rate increase this month after a hot inflation report.",
+   "url": "https://www.thestar.com.my/business/business-news/2026/10/15/gold-rebounds-from-one-week-low-as-dollar-slips",
+   "published_utc": "2026-10-15T07:17:00+00:00"
+  },
   {
    "provider": "gnews",
    "source": "The Economic Times",
@@ -74,14 +82,6 @@
    "summary": "STORY: :: Dan Burns/US Economics Editor\nInflation is up again, more than expected in September, and it's putting pressure potentially on the Federal Reserve to raise interest rates just...\n-October 14, 2026 at 05:46 pm EDT\n- MarketScreener",
    "url": "https://www.marketscreener.com/news/hotter-inflation-boosts-odds-of-fed-rate-hike-before-election-day-ce785dd2d08df025",
    "published_utc": "2026-10-14T21:46:35+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "MarketScreener",
-   "title": "Fed's Daly says rate hikes likely needed, but not urgently",
-   "summary": "The Federal Reserve will probably need to increase short-term interest rates further to rein in too-high inflation, San Francisco Federal Reserve President Mary Daly said on Wednesday, but she also...\n-October 14, 2026 at 05:41 pm EDT\n- MarketScreener",
-   "url": "https://www.marketscreener.com/news/fed-s-daly-says-rate-hikes-likely-needed-but-not-urgently-ce785dd2d08df221",
-   "published_utc": "2026-10-14T21:41:10+00:00"
   }
  ]
 }
