@@ -1,8 +1,16 @@
 {
- "collected_utc": "2026-10-15T20:07:01.576598+00:00",
- "collected_epoch": 1792094821.576598,
+ "collected_utc": "2026-10-15T20:37:01.565535+00:00",
+ "collected_epoch": 1792096621.565535,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "The Economic Times",
+   "title": "US labour market remains stuck in low-hire, low-fire state as inflation intensifies: Fed",
+   "summary": "The Federal Reserve's latest Beige Book highlights persistent inflation pressures and a stagnant US labour market, with rising energy, tariff, and insurance costs hitting businesses. With September consumer inflation rising 3.7%, expectations are growing for another potential interest rate hike at the Fed's upcoming October meeting.",
+   "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-labour-market-remains-stuck-in-low-hire-low-fire-state-as-inflation-intensifies-fed/articleshow/134961905.cms",
+   "published_utc": "2026-10-15T08:24:00+00:00"
+  },
   {
    "provider": "gnews",
    "source": "The Star",
@@ -74,14 +82,6 @@
    "summary": "Hotter-than-expected inflation data sent the Nasdaq to a sharply lower close on Wednesday, with worries about more interest rate hikes from the Federal Reserve pummeling shares of Oracle, CoreWeave and other AI stocks sensitive to higher borrowing costs.",
    "url": "https://www.thestar.com.my/business/2026/10/15/nasdaq-tumbles-as-inflation-fuels-rate-hike-fears",
    "published_utc": "2026-10-14T23:25:00+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "MarketScreener",
-   "title": "Hotter inflation boosts odds of Fed rate hike before Election Day",
-   "summary": "STORY: :: Dan Burns/US Economics Editor\nInflation is up again, more than expected in September, and it's putting pressure potentially on the Federal Reserve to raise interest rates just...\n-October 14, 2026 at 05:46 pm EDT\n- MarketScreener",
-   "url": "https://www.marketscreener.com/news/hotter-inflation-boosts-odds-of-fed-rate-hike-before-election-day-ce785dd2d08df025",
-   "published_utc": "2026-10-14T21:46:35+00:00"
   }
  ]
 }
