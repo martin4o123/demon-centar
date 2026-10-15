@@ -1,8 +1,16 @@
 {
- "collected_utc": "2026-10-15T16:07:01.515399+00:00",
- "collected_epoch": 1792080421.515399,
+ "collected_utc": "2026-10-15T16:37:01.508910+00:00",
+ "collected_epoch": 1792082221.50891,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "MarketScreener",
+   "title": "China's yuan gains as Fed rate caution knocks dollar from 18-month high",
+   "summary": "China's yuan inched higher against the dollar on Thursday after the US currency slipped from an 18-month peak as Federal Reserve officials cautioned about chances for a hike in interest rates this...",
+   "url": "https://www.marketscreener.com/news/china-s-yuan-gains-as-fed-rate-caution-knocks-dollar-from-18-month-high-ce785dd3d98ef623",
+   "published_utc": "2026-10-15T04:29:25+00:00"
+  },
   {
    "provider": "gnews",
    "source": "The Atlanta Journal-Constitution",
@@ -74,14 +82,6 @@
    "summary": "Federal Reserve Bank of Chicago President Austan Goolsbee said a report showing broad-based inflationary pressures last month was worrisome, and warned the build-out of infrastructure related to artificial intelligence may be overheating the economy.",
    "url": "https://www.spokesman.com/stories/2026/oct/14/feds-goolsbee-says-inflation-discouraging-warns-of/",
    "published_utc": "2026-10-14T21:00:00+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "MarketScreener",
-   "title": "Dollar hits 18-month high, then cools as investors await patient Fed",
-   "summary": "The US dollar hit an 18-month high on Wednesday after stronger-than-expected US inflation data briefly revived expectations for a Federal Reserve interest rate hike later this month, though the...",
-   "url": "https://www.marketscreener.com/news/dollar-hits-18-month-high-then-cools-as-investors-await-patient-fed-ce785dd2d089f123",
-   "published_utc": "2026-10-14T20:32:29+00:00"
   }
  ]
 }
