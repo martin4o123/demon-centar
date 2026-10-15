@@ -1,8 +1,24 @@
 {
- "collected_utc": "2026-10-15T02:07:01.489919+00:00",
- "collected_epoch": 1792030021.489919,
+ "collected_utc": "2026-10-15T02:37:01.494314+00:00",
+ "collected_epoch": 1792031821.494314,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "MarketScreener",
+   "title": "South African rand slides as US inflation print boosts Fed tightening bets",
+   "summary": "The South African rand weakened sharply on Wednesday after a hotter-than-expected US inflation reading boosted expectations that the Federal Reserve could raise interest rates later this month.\n...",
+   "url": "https://www.marketscreener.com/news/south-african-rand-slides-as-us-inflation-print-boosts-fed-tightening-bets-ce785dd2de8bf625",
+   "published_utc": "2026-10-14T14:27:30+00:00"
+  },
+  {
+   "provider": "gnews",
+   "source": "The Economic Times",
+   "title": "US yields jump as hot consumer inflation boosts rate hike bets",
+   "summary": "In September, the US Treasury yields climbed as the Consumer Price Index (CPI) showed a surprising rise of 0.6% month-over-month and 3.7% year-over-year. This unexpected inflation report heightened the chances of an interest rate hike by the Federal Reserve in December, signaling a potential response to ongoing inflationary pressures. Market sentiments are now leaning toward the anticipation of policy changes from the Fed as they aim to manage inflation effectively.",
+   "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-yields-jump-as-hot-consumer-inflation-boosts-rate-hike-bets/articleshow/134944738.cms",
+   "published_utc": "2026-10-14T14:08:00+00:00"
+  },
   {
    "provider": "gnews",
    "source": "Bnn Bloomberg",
@@ -66,22 +82,6 @@
    "summary": "Inflation heated up again in September as rising energy costs intensified price pressures, bolstering the Federal Reserve’s case for another interest-rate hike this year.",
    "url": "https://nypost.com/2026/10/14/business/inflation-heats-up-to-3-7-in-september-more-than-expected-amid-soaring-energy-costs/",
    "published_utc": "2026-10-14T12:48:17+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "The Economic Times",
-   "title": "More expensive gas, semiconductors likely pushed up inflation in US last month",
-   "summary": "Inflation in the United States is projected to increase to 3.6% in September from the previous month. This rise is attributed to factors such as continuous supply issues caused by the Iran war. The Federal Reserve is monitoring inflation data closely and may adjust interest rates accordingly. Several companies, including PepsiCo, have announced price increases to address rising costs.",
-   "url": "https://economictimes.indiatimes.com/news/international/world-news/more-expensive-gas-semiconductors-likely-pushed-up-inflation-in-us-last-month/articleshow/134942231.cms",
-   "published_utc": "2026-10-14T12:07:00+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "Fox News",
-   "title": "Trump tariffs also caused 'Made in America' prices to go up, NY Fed finds",
-   "summary": "Trump's tariffs contributed 2.9 percentage points to consumer goods inflation, according to Federal Reserve Bank of New York research. Energy prices add further pressure.",
-   "url": "https://www.foxnews.com/politics/american-made-goods-expensive-under-trump-tariffs-new-research-finds",
-   "published_utc": "2026-10-14T10:00:09+00:00"
   }
  ]
 }
