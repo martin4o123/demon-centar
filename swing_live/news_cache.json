@@ -1,8 +1,16 @@
 {
- "collected_utc": "2026-10-15T03:37:01.522261+00:00",
- "collected_epoch": 1792035421.522261,
+ "collected_utc": "2026-10-15T04:07:01.583879+00:00",
+ "collected_epoch": 1792037221.583879,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "The Philadelphia Inquirer",
+   "title": "Inflation worsened last month to 3.7% in sign that prices remain elevated as midterm elections near",
+   "summary": "The increase was higher than economists expected, putting pressure on the Federal Reserve to raise its key interest rate.",
+   "url": "https://www.inquirer.com/business/inflation-consumer-prices-affordability-election-gas-groceries-20261014.html",
+   "published_utc": "2026-10-14T15:59:18+00:00"
+  },
   {
    "provider": "gnews",
    "source": "Bangkok Post",
@@ -74,14 +82,6 @@
    "summary": "US consumer inflation rose to 3.7 per cent in September from 3.4 per cent in August, driven largely by a sharp increase in gasoline prices, adding to concerns over persistent price pressures ahead of the Federal Reserve's next interest rate decision.",
    "url": "https://www.tribuneindia.com/news/business/us-inflation-rises-to-3-7-in-september-as-gasoline-prices-jump-9-1/",
    "published_utc": "2026-10-14T12:56:45+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "The Economic Times",
-   "title": "US inflation worsened last month to 3.7% in sign that prices remain elevated as midterm elections near",
-   "summary": "U.S. inflation increased in September as consumers faced higher prices for essentials like gas and clothing. The consumer price index rose 3.7% compared to the previous year, indicating ongoing economic challenges. This rise in inflation has political implications ahead of the midterm elections, impacting public sentiment towards Republican lawmakers. Federal Reserve officials are closely monitoring trends to determine future interest rate decisions.",
-   "url": "https://economictimes.indiatimes.com/news/international/world-news/us-inflation-worsened-last-month-to-3-7-in-sign-that-prices-remain-elevated-as-midterm-elections-near/articleshow/134943172.cms",
-   "published_utc": "2026-10-14T12:52:00+00:00"
   }
  ]
 }
