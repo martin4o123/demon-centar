@@ -1,8 +1,24 @@
 {
- "collected_utc": "2026-10-15T13:37:01.529164+00:00",
- "collected_epoch": 1792071421.529164,
+ "collected_utc": "2026-10-15T14:07:01.542734+00:00",
+ "collected_epoch": 1792073221.542734,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "The Atlanta Journal-Constitution",
+   "title": "Inflation anxiety drags on AI stocks for a second day as markets point to a mixed open",
+   "summary": "Trading on Wall Street is mixed early with tech stocks poised for more declines as earnings season ramps up amid the latest government data showing that inflation remains a problem in the U.S. Futures for the S&P 500 were down 0.2% before the opening bell Thursday, while futures for the Dow Jones Industrial Average rose 0.3%. Nasdaq futures tumbled 1%. Artificial intelligence stocks were down again after taking a beating a day earlier. A government inflation report on Wednesday showed that prices remain well above the Federal Reserve’s 2% target, putting in play another potential interest rate hike before the end of the year.",
+   "url": "https://www.ajc.com/news/2026/10/inflation-anxiety-drags-on-ai-stocks-for-a-second-day-as-markets-point-to-a-mixed-open/",
+   "published_utc": "2026-10-15T02:02:18+00:00"
+  },
+  {
+   "provider": "gnews",
+   "source": "CNBC TV18",
+   "title": "KOSPI crashes 8%, Nikkei down 4% as Asian markets feel the AI sell",
+   "summary": "Asian markets tumble as a global chip sell-off rout and United States inflation data spark fears of further Federal Reserve interest rate hikes.",
+   "url": "https://www.cnbctv18.com/market/asian-market-updates-nikkei-kospi-crash-ai-funding-chip-stocks-sell-off-gift-nifty-20012218.htm",
+   "published_utc": "2026-10-15T01:44:11+00:00"
+  },
   {
    "provider": "gnews",
    "source": "Moneycontrol",
@@ -66,22 +82,6 @@
    "summary": "The US dollar hit an 18-month high on Wednesday after stronger-than-expected US inflation data briefly revived expectations for a Federal Reserve interest rate hike later this month, though the...",
    "url": "https://www.marketscreener.com/news/dollar-hits-18-month-high-then-cools-as-investors-await-patient-fed-ce785dd2d089f123",
    "published_utc": "2026-10-14T20:32:29+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "MarketScreener",
-   "title": "Nasdaq ends sharply lower as hot inflation data stirs rate-hike worries",
-   "summary": "Hotter-than-expected inflation data sent the Nasdaq to a sharply lower close on Wednesday, with worries about more interest rate hikes from the Federal Reserve pummeling shares of Oracle, CoreWeave...",
-   "url": "https://www.marketscreener.com/news/nasdaq-ends-sharply-lower-as-hot-inflation-data-stirs-rate-hike-worries-ce785dd2d181f72c",
-   "published_utc": "2026-10-14T20:01:28+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "MarketScreener",
-   "title": "Fed's Goolsbee says September CPI data was discouraging - Yahoo Finance",
-   "summary": "Federal Reserve Bank of Chicago President Austan Goolsbee said on Wednesday the latest consumer-level inflation data left him worried.\nThe September consumer price index data, which...\n-October 14, 2026 at 03:32 pm EDT\n- MarketScreener",
-   "url": "https://www.marketscreener.com/news/fed-s-goolsbee-says-september-cpi-data-was-discouraging-yahoo-finance-ce785dd2d18ef622",
-   "published_utc": "2026-10-14T19:32:20+00:00"
   }
  ]
 }
