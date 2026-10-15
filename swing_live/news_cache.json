@@ -1,8 +1,24 @@
 {
- "collected_utc": "2026-10-15T02:37:01.494314+00:00",
- "collected_epoch": 1792031821.494314,
+ "collected_utc": "2026-10-15T03:07:01.599939+00:00",
+ "collected_epoch": 1792033621.599939,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "Bangkok Post",
+   "title": "Hot US inflation data dents Wall Street stocks",
+   "summary": "LONDON - A hotter-than-expected inflation reading dented Wall Street stocks on Wednesday, while the dollar and bond yields pushed higher as investors pencilled in a higher chance the US Federal Reserve would raise interest rates later this month.",
+   "url": "https://www.bangkokpost.com/business/general/3337044/hot-us-inflation-data-dents-wall-street-stocks",
+   "published_utc": "2026-10-14T14:45:00+00:00"
+  },
+  {
+   "provider": "gnews",
+   "source": "MarketScreener",
+   "title": "Citi turns hawkish on Fed after inflation surprise, expects December rate hike",
+   "summary": "Citigroup said on Wednesday it expects the Federal Reserve to raise interest rates by 25 basis points in December after US consumer inflation data for September came in significantly above...",
+   "url": "https://www.marketscreener.com/news/citi-turns-hawkish-on-fed-after-inflation-surprise-expects-december-rate-hike-ce785dd2de8af72c",
+   "published_utc": "2026-10-14T14:41:47+00:00"
+  },
   {
    "provider": "gnews",
    "source": "MarketScreener",
@@ -66,22 +82,6 @@
    "summary": "U.S. inflation increased in September as consumers faced higher prices for essentials like gas and clothing. The consumer price index rose 3.7% compared to the previous year, indicating ongoing economic challenges. This rise in inflation has political implications ahead of the midterm elections, impacting public sentiment towards Republican lawmakers. Federal Reserve officials are closely monitoring trends to determine future interest rate decisions.",
    "url": "https://economictimes.indiatimes.com/news/international/world-news/us-inflation-worsened-last-month-to-3-7-in-sign-that-prices-remain-elevated-as-midterm-elections-near/articleshow/134943172.cms",
    "published_utc": "2026-10-14T12:52:00+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "ANI (Asian News International)",
-   "title": "US inflation rises to 3.7% in September as gasoline prices jump 9.1%",
-   "summary": "US consumer inflation rose to 3.7 per cent in September from 3.4 per cent in August, driven largely by a sharp increase in gasoline prices, adding to concerns over persistent price pressures ahead of the Federal Reserve's next interest rate decision.",
-   "url": "https://www.aninews.in/news/business/us-inflation-rises-to-37-in-september-as-gasoline-prices-jump-9120261014182159/",
-   "published_utc": "2026-10-14T12:51:59+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "New York Post",
-   "title": "Inflation heats up in September",
-   "summary": "Inflation heated up again in September as rising energy costs intensified price pressures, bolstering the Federal Reserve’s case for another interest-rate hike this year.",
-   "url": "https://nypost.com/2026/10/14/business/inflation-heats-up-to-3-7-in-september-more-than-expected-amid-soaring-energy-costs/",
-   "published_utc": "2026-10-14T12:48:17+00:00"
   }
  ]
 }
