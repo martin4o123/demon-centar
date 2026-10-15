@@ -1,8 +1,24 @@
 {
- "collected_utc": "2026-10-15T21:07:01.558992+00:00",
- "collected_epoch": 1792098421.558992,
+ "collected_utc": "2026-10-15T21:37:01.571687+00:00",
+ "collected_epoch": 1792100221.571687,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "The Star",
+   "title": "Over 850 stocks fall as US inflation fears rattle Bursa Malaysia",
+   "summary": "KUALA LUMPUR: Bursa Malaysia closed broadly lower on Thursday, with more than 800 stocks ending in the red as hotter-than-expected US inflation fuelled concerns over further Federal Reserve interest rate hikes, triggering a sell-off across regional markets.",
+   "url": "https://www.thestar.com.my/business/business-news/2026/10/15/over-850-stocks-fall-as-us-inflation-fears-rattle-bursa-malaysia",
+   "published_utc": "2026-10-15T09:27:00+00:00"
+  },
+  {
+   "provider": "gnews",
+   "source": "MarketScreener",
+   "title": "UBS extends Fed tightening cycle forecast with March rate hike after inflation surprise",
+   "summary": "UBS Global Wealth Management expects the Federal Reserve to raise interest rates for a third time in March 2027, extending its tightening cycle into next year after stronger-than-expected September...",
+   "url": "https://www.marketscreener.com/news/ubs-extends-fed-tightening-cycle-forecast-with-march-rate-hike-after-inflation-surprise-ce785dd3da89f52c",
+   "published_utc": "2026-10-15T09:17:28+00:00"
+  },
   {
    "provider": "gnews",
    "source": "The Economic Times",
@@ -66,22 +82,6 @@
    "summary": "KUALA LUMPUR: The ringgit opened lower against the US dollar on Thursday as stronger-than-expected US inflation data bolstered expectations of a possible interest rate increase by the US Federal Reserve (Fed), lending support to the greenback.",
    "url": "https://www.thestar.com.my/business/business-news/2026/10/15/ringgit-opens-lower-vs-us-dollar-on-renewed-us-rate-hike-expectations",
    "published_utc": "2026-10-15T01:09:00+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "Livemint",
-   "title": "Chip Stocks Deepen Losses as Concerns Mount Over Rates, AI Debt",
-   "summary": "A rout in global technology hardware stocks extended Thursday, as Asian chipmakers followed US peers lower on worries over Federal Reserve interest rate hikes and AI funding difficulties.",
-   "url": "https://www.livemint.com/market/chip-stocks-deepen-losses-as-concerns-mount-over-rates-ai-debt-11792024262771.html",
-   "published_utc": "2026-10-15T00:31:02+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "The Star",
-   "title": "Nasdaq tumbles as inflation fuels rate-hike fears",
-   "summary": "Hotter-than-expected inflation data sent the Nasdaq to a sharply lower close on Wednesday, with worries about more interest rate hikes from the Federal Reserve pummeling shares of Oracle, CoreWeave and other AI stocks sensitive to higher borrowing costs.",
-   "url": "https://www.thestar.com.my/business/2026/10/15/nasdaq-tumbles-as-inflation-fuels-rate-hike-fears",
-   "published_utc": "2026-10-14T23:25:00+00:00"
   }
  ]
 }
