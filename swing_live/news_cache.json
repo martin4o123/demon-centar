@@ -1,8 +1,24 @@
 {
- "collected_utc": "2026-10-16T11:37:01.561095+00:00",
- "collected_epoch": 1792150621.561095,
+ "collected_utc": "2026-10-16T12:07:01.569905+00:00",
+ "collected_epoch": 1792152421.569905,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "Bloomberg",
+   "title": "Gold Holds Gains With Haven Demand and Lower Yields in Focus",
+   "summary": "Gold edged lower, as traders waited for remarks by Federal Reserve Chair Kevin Warsh that could provide signals as to the central bank’s next move on interest rates.",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-15/gold-holds-gains-with-haven-demand-and-lower-yields-in-focus",
+   "published_utc": "2026-10-15T23:51:46+00:00"
+  },
+  {
+   "provider": "gnews",
+   "source": "MarketScreener",
+   "title": "Fed's Goolsbee on inflation: discouraging, but still some optimism",
+   "summary": "Federal Reserve Bank of Chicago President Austan Goolsbee said on Thursday that data this week showing stronger-than-expected consumer and producer price inflation has been discouraging.\n...\n-October 15, 2026 at 07:44 pm EDT\n- MarketScreener",
+   "url": "https://www.marketscreener.com/news/fed-s-goolsbee-on-inflation-discouraging-but-still-some-optimism-ce785dd3d08bf426",
+   "published_utc": "2026-10-15T23:44:21+00:00"
+  },
   {
    "provider": "gnews",
    "source": "MarketScreener",
@@ -66,22 +82,6 @@
    "summary": "Citigroup now expects the US Federal Reserve to raise interest rates by 25 basis points in December following hotter-than-expected September inflation. The brokerage forecasts rates to remain unchanged thereafter, with rate cuts unlikely before June 2027.",
    "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-citi-expects-fed-to-raise-rates-by-25-basis-points-in-december-after-hot-us-inflation-data/articleshow/134960261.cms",
    "published_utc": "2026-10-15T07:00:00+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "MarketScreener",
-   "title": "China's yuan gains as Fed rate caution knocks dollar from 18-month high",
-   "summary": "China's yuan inched higher against the dollar on Thursday after the US currency slipped from an 18-month peak as Federal Reserve officials cautioned about chances for a hike in interest rates this...",
-   "url": "https://www.marketscreener.com/news/china-s-yuan-gains-as-fed-rate-caution-knocks-dollar-from-18-month-high-ce785dd3d98ef623",
-   "published_utc": "2026-10-15T04:29:25+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "The Atlanta Journal-Constitution",
-   "title": "Inflation anxiety drags on AI stocks for a second day as markets point to a mixed open",
-   "summary": "Trading on Wall Street is mixed early with tech stocks poised for more declines as earnings season ramps up amid the latest government data showing that inflation remains a problem in the U.S. Futures for the S&P 500 were down 0.2% before the opening bell Thursday, while futures for the Dow Jones Industrial Average rose 0.3%. Nasdaq futures tumbled 1%. Artificial intelligence stocks were down again after taking a beating a day earlier. A government inflation report on Wednesday showed that prices remain well above the Federal Reserve’s 2% target, putting in play another potential interest rate hike before the end of the year.",
-   "url": "https://www.ajc.com/news/2026/10/inflation-anxiety-drags-on-ai-stocks-for-a-second-day-as-markets-point-to-a-mixed-open/",
-   "published_utc": "2026-10-15T02:02:18+00:00"
   }
  ]
 }
