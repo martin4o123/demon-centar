@@ -1,8 +1,16 @@
 {
- "collected_utc": "2026-10-16T21:07:01.556584+00:00",
- "collected_epoch": 1792184821.556584,
+ "collected_utc": "2026-10-16T21:37:01.583391+00:00",
+ "collected_epoch": 1792186621.583391,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "Euronews",
+   "title": "Fed’s Warsh sees AI boosting productivity but gives no signal on next rate hike",
+   "summary": "US Federal Reserve Chairman Kevin Warsh said in Bangkok on Friday that the global economy has proved surprisingly resilient and called AI the most consequential change of his lifetime, but gave no hint on interest rates ahead of the Fed’s meeting this month.",
+   "url": "https://www.euronews.com/2026/10/16/feds-warsh-sees-ai-boosting-productivity-but-gives-no-signal-on-next-rate-hike",
+   "published_utc": "2026-10-16T09:27:55+00:00"
+  },
   {
    "provider": "gnews",
    "source": "Breitbart News Network",
@@ -74,14 +82,6 @@
    "summary": "Federal Reserve Chairman Kevin Warsh on Friday said he does not prejudge interest-rate decisions, giving no preview of whether the central bank will hike or, as markets expect, hold short-term rates...\n-October 15, 2026 at 11:55 pm EDT\n- MarketScreener",
    "url": "https://www.marketscreener.com/news/fed-s-warsh-gives-no-hint-on-october-policy-decision-ce785cdad989f025",
    "published_utc": "2026-10-16T03:55:43+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "Bloomberg",
-   "title": "Gold Holds Gains With Haven Demand and Lower Yields in Focus",
-   "summary": "Gold edged lower, as traders waited for remarks by Federal Reserve Chair Kevin Warsh that could provide signals as to the central bank’s next move on interest rates.",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-15/gold-holds-gains-with-haven-demand-and-lower-yields-in-focus",
-   "published_utc": "2026-10-15T23:51:46+00:00"
   }
  ]
 }
