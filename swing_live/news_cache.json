@@ -1,8 +1,16 @@
 {
- "collected_utc": "2026-10-16T20:37:01.586087+00:00",
- "collected_epoch": 1792183021.586087,
+ "collected_utc": "2026-10-16T21:07:01.556584+00:00",
+ "collected_epoch": 1792184821.556584,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "Breitbart News Network",
+   "title": "Fed chair Warsh says price stability is key but shies away from signals about rates",
+   "summary": "U.S. Federal Reserve Chairman Kevin Warsh says he won't prejudge what the U.S. central bank will do about interest rates at its upcoming meetings. BANGKOK",
+   "url": "https://www.breitbart.com/news/fed-chair-warsh-says-price-stability-is-key-but-shies-away-from-signals-about-rates/",
+   "published_utc": "2026-10-16T08:45:39+00:00"
+  },
   {
    "provider": "gnews",
    "source": "The Atlanta Journal-Constitution",
@@ -74,14 +82,6 @@
    "summary": "Gold edged lower, as traders waited for remarks by Federal Reserve Chair Kevin Warsh that could provide signals as to the central bank’s next move on interest rates.",
    "url": "https://www.bloomberg.com/news/articles/2026-10-15/gold-holds-gains-with-haven-demand-and-lower-yields-in-focus",
    "published_utc": "2026-10-15T23:51:46+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "MarketScreener",
-   "title": "Fed's Goolsbee on inflation: discouraging, but still some optimism",
-   "summary": "Federal Reserve Bank of Chicago President Austan Goolsbee said on Thursday that data this week showing stronger-than-expected consumer and producer price inflation has been discouraging.\n...\n-October 15, 2026 at 07:44 pm EDT\n- MarketScreener",
-   "url": "https://www.marketscreener.com/news/fed-s-goolsbee-on-inflation-discouraging-but-still-some-optimism-ce785dd3d08bf426",
-   "published_utc": "2026-10-15T23:44:21+00:00"
   }
  ]
 }
