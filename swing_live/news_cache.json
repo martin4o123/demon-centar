@@ -1,8 +1,16 @@
 {
- "collected_utc": "2026-10-16T01:37:01.511476+00:00",
- "collected_epoch": 1792114621.511476,
+ "collected_utc": "2026-10-16T02:07:01.563715+00:00",
+ "collected_epoch": 1792116421.563715,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "The Economic Times",
+   "title": "US PPI inflation surges 1.3% as gasoline prices jump 20.3% - why are Treasury yields falling?",
+   "summary": "In September, US wholesale prices rose sharply by 1.3%, fueled by a significant increase in gasoline costs, marking the biggest monthly gain since March 2022. The Producer Price Index saw a 6.3% year-over-year rise, indicating broader inflation pressures across goods and services. Learn more about the impact on the economy and Federal Reserve interest rate decisions.",
+   "url": "https://economictimes.indiatimes.com/world/money/us-ppi-inflation-surges-1-3-as-gasoline-prices-jump-20-3-why-are-treasury-yields-falling/articleshow/134969660.cms",
+   "published_utc": "2026-10-15T14:04:00+00:00"
+  },
   {
    "provider": "gnews",
    "source": "The Star",
@@ -74,14 +82,6 @@
    "summary": "Sensex Today | Stock Market LIVE Updates: Hotter-than-expected inflation data sent the Nasdaq ​to a sharply lower close on Wednesday, with worries about more interest rate hikes from the Federal Reserve pummeling ‌shares of Oracle, CoreWeave and other AI stocks sensitive to higher borrowing costs. The S&P 500 declined 1.11% to end the session at 7,718.94 points, its biggest one-day drop since July 29. The Nasdaq declined 1.88% to ​26,692.87 points, its biggest daily drop since July 23. The Dow Jones Industrial Average declined 0.09% to 51,621.48 points.",
    "url": "https://www.moneycontrol.com/news/business/markets/stock-market-live-updates-nifty50-share-price-sensex-share-price-crude-fii-gift-nifty-rupee-latest-updates-15-10-2026-alpha-liveblog-14052440.html",
    "published_utc": "2026-10-15T01:30:00+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "The Star",
-   "title": "Ringgit opens lower vs US dollar on renewed US rate hike expectations",
-   "summary": "KUALA LUMPUR: The ringgit opened lower against the US dollar on Thursday as stronger-than-expected US inflation data bolstered expectations of a possible interest rate increase by the US Federal Reserve (Fed), lending support to the greenback.",
-   "url": "https://www.thestar.com.my/business/business-news/2026/10/15/ringgit-opens-lower-vs-us-dollar-on-renewed-us-rate-hike-expectations",
-   "published_utc": "2026-10-15T01:09:00+00:00"
   }
  ]
 }
