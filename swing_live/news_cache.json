@@ -1,8 +1,56 @@
 {
- "collected_utc": "2026-10-16T18:37:01.634582+00:00",
- "collected_epoch": 1792175821.634582,
+ "collected_utc": "2026-10-16T19:07:01.526128+00:00",
+ "collected_epoch": 1792177621.526128,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "The Atlanta Journal-Constitution",
+   "title": "Fed chair Warsh says price stability is key but shies away from signals about rates",
+   "summary": "U.S. Federal Reserve Chairman Kevin Warsh says he won't prejudge what the U.S. central bank will do about interest rates at its upcoming meetings. However, he repeatedly vowed to “deliver price stability.” Warsh spoke Friday on the sidelines of a meeting of the International Monetary Fund and World Bank in Bangkok. The global surge in prices is a key concern of the financial leaders meeting. Stubbornly high U.S. inflation is expected to lead the Fed to raise its key interest rate in coming months after a rate hike in September.",
+   "url": "https://www.ajc.com/news/2026/10/fed-chair-warsh-says-price-stability-is-key-but-shies-away-from-signals-about-rates/",
+   "published_utc": "2026-10-16T07:02:43+00:00"
+  },
+  {
+   "provider": "gnews",
+   "source": "WTOP",
+   "title": "Fed chair Warsh says price stability is key but shies away from signals about rates",
+   "summary": "BANGKOK (AP) — Federal Reserve Chairman Kevin Warsh said Friday he won’t prejudge what the U.S. central bank will do about interest rates at its upcoming meetin",
+   "url": "https://wtop.com/world/2026/10/fed-chair-warsh-says-price-stability-is-key-but-shies-away-from-signals-about-rates/",
+   "published_utc": "2026-10-16T06:57:20+00:00"
+  },
+  {
+   "provider": "gnews",
+   "source": "SFGATE",
+   "title": "Fed chair Warsh says price stability is key but shies away from signals about rates",
+   "summary": "U.S. Federal Reserve Chairman Kevin Warsh says he won't prejudge what the U.S. central bank will do about interest rates at its upcoming meetings. However, he repeatedly vowed to “deliver price...",
+   "url": "https://www.sfgate.com/news/world/article/fed-chair-warsh-says-price-stability-is-key-but-22479757.php",
+   "published_utc": "2026-10-16T06:51:54+00:00"
+  },
+  {
+   "provider": "gnews",
+   "source": "WDIV ClickOnDetroit",
+   "title": "Fed chair Warsh says price stability is key but shies away from signals about rates",
+   "summary": "U.S. Federal Reserve Chairman Kevin Warsh says he won't prejudge what the U.S. central bank will do about interest rates at its upcoming meetings.",
+   "url": "https://www.clickondetroit.com/business/2026/10/16/fed-chair-warsh-says-price-stability-is-key-but-shies-away-from-signals-about-rates/",
+   "published_utc": "2026-10-16T06:51:53+00:00"
+  },
+  {
+   "provider": "gnews",
+   "source": "U.S. News & World Report",
+   "title": "Fed Chair Warsh Says Price Stability Is Key but Shies Away From Signals About Rates",
+   "summary": "BANGKOK (AP) — Federal Reserve Chairman Kevin Warsh said Friday he won’t prejudge what the U.S. central bank will do about interest rates at its upcoming meetings in October and December.",
+   "url": "https://www.usnews.com/news/business/articles/2026-10-16/fed-chair-warsh-says-price-stability-is-key-but-shies-away-from-signals-about-rates",
+   "published_utc": "2026-10-16T06:51:00+00:00"
+  },
+  {
+   "provider": "gnews",
+   "source": "The Economic Times",
+   "title": "US Market: Fed's Goolsbee says latest US inflation data is discouraging",
+   "summary": "Federal Reserve Bank of Chicago President Austan Goolsbee called the latest US consumer and producer inflation data discouraging, raising concerns about persistent price pressures. While temporary factors such as tariffs and geopolitical conflicts could ease, he warned that demand driven by the rapid expansion of AI data centres could require a policy response.",
+   "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-market-feds-goolsbee-says-latest-us-inflation-data-is-discouraging/articleshow/134985186.cms",
+   "published_utc": "2026-10-16T06:49:00+00:00"
+  },
   {
    "provider": "gnews",
    "source": "The Economic Times",
@@ -34,54 +82,6 @@
    "summary": "Federal Reserve Bank of Chicago President Austan Goolsbee said on Thursday that data this week showing stronger-than-expected consumer and producer price inflation has been discouraging.\n...\n-October 15, 2026 at 07:44 pm EDT\n- MarketScreener",
    "url": "https://www.marketscreener.com/news/fed-s-goolsbee-on-inflation-discouraging-but-still-some-optimism-ce785dd3d08bf426",
    "published_utc": "2026-10-15T23:44:21+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "MarketScreener",
-   "title": "Fed's Hammack warns inflation expectations deterioration could require Fed response",
-   "summary": "Federal Reserve Bank of Cleveland President Beth Hammack said on Thursday if there were to be a deterioration in the public's inflation expectations that would likely require more aggressive central...\n-October 15, 2026 at 05:33 pm EDT\n- MarketScreener",
-   "url": "https://www.marketscreener.com/news/fed-s-hammack-warns-inflation-expectations-deterioration-could-require-fed-response-ce785dd3d180f32d",
-   "published_utc": "2026-10-15T21:33:18+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "NBC News",
-   "title": "Will the Fed raise interest rates? Kevin Warsh could offer clues",
-   "summary": "When Federal Reserve Chairman Kevin Warsh strides onstage in Bangkok on Friday morning, it will be after 11 p.m. on Thursday in New York.",
-   "url": "https://www.nbcnews.com/business/economy/will-fed-raise-interest-rates-kevin-warsh-offer-clues-rcna603661",
-   "published_utc": "2026-10-15T19:59:09+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "The Economic Times",
-   "title": "US PPI inflation surges 1.3% as gasoline prices jump 20.3% - why are Treasury yields falling?",
-   "summary": "In September, US wholesale prices rose sharply by 1.3%, fueled by a significant increase in gasoline costs, marking the biggest monthly gain since March 2022. The Producer Price Index saw a 6.3% year-over-year rise, indicating broader inflation pressures across goods and services. Learn more about the impact on the economy and Federal Reserve interest rate decisions.",
-   "url": "https://economictimes.indiatimes.com/world/money/us-ppi-inflation-surges-1-3-as-gasoline-prices-jump-20-3-why-are-treasury-yields-falling/articleshow/134969660.cms",
-   "published_utc": "2026-10-15T14:04:00+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "The Star",
-   "title": "Over 850 stocks fall as US inflation fears rattle Bursa Malaysia",
-   "summary": "KUALA LUMPUR: Bursa Malaysia closed broadly lower on Thursday, with more than 800 stocks ending in the red as hotter-than-expected US inflation fuelled concerns over further Federal Reserve interest rate hikes, triggering a sell-off across regional markets.",
-   "url": "https://www.thestar.com.my/business/business-news/2026/10/15/over-850-stocks-fall-as-us-inflation-fears-rattle-bursa-malaysia",
-   "published_utc": "2026-10-15T09:27:00+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "MarketScreener",
-   "title": "UBS extends Fed tightening cycle forecast with March rate hike after inflation surprise",
-   "summary": "UBS Global Wealth Management expects the Federal Reserve to raise interest rates for a third time in March 2027, extending its tightening cycle into next year after stronger-than-expected September...",
-   "url": "https://www.marketscreener.com/news/ubs-extends-fed-tightening-cycle-forecast-with-march-rate-hike-after-inflation-surprise-ce785dd3da89f52c",
-   "published_utc": "2026-10-15T09:17:28+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "The Economic Times",
-   "title": "US labour market remains stuck in low-hire, low-fire state as inflation intensifies: Fed",
-   "summary": "The Federal Reserve's latest Beige Book highlights persistent inflation pressures and a stagnant US labour market, with rising energy, tariff, and insurance costs hitting businesses. With September consumer inflation rising 3.7%, expectations are growing for another potential interest rate hike at the Fed's upcoming October meeting.",
-   "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-labour-market-remains-stuck-in-low-hire-low-fire-state-as-inflation-intensifies-fed/articleshow/134961905.cms",
-   "published_utc": "2026-10-15T08:24:00+00:00"
   }
  ]
 }
