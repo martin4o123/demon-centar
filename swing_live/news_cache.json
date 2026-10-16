@@ -1,8 +1,16 @@
 {
- "collected_utc": "2026-10-16T15:37:01.571662+00:00",
- "collected_epoch": 1792165021.571662,
+ "collected_utc": "2026-10-16T16:07:01.600150+00:00",
+ "collected_epoch": 1792166821.60015,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "MarketScreener",
+   "title": "Fed's Warsh gives no hint on October policy decision",
+   "summary": "Federal Reserve Chairman Kevin Warsh on Friday said he does not prejudge interest-rate decisions, giving no preview of whether the central bank will hike or, as markets expect, hold short-term rates...\n-October 15, 2026 at 11:55 pm EDT\n- MarketScreener",
+   "url": "https://www.marketscreener.com/news/fed-s-warsh-gives-no-hint-on-october-policy-decision-ce785cdad989f025",
+   "published_utc": "2026-10-16T03:55:43+00:00"
+  },
   {
    "provider": "gnews",
    "source": "Bloomberg",
@@ -74,14 +82,6 @@
    "summary": "GOLD prices edged higher on Thursday, rebounding from a one-week low hit in the previous session, as the US dollar eased, while investors assessed the likelihood of a Federal Reserve interest rate increase this month after a hot inflation report.",
    "url": "https://www.thestar.com.my/business/business-news/2026/10/15/gold-rebounds-from-one-week-low-as-dollar-slips",
    "published_utc": "2026-10-15T07:17:00+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "The Economic Times",
-   "title": "Global Market: Citi expects Fed to raise rates by 25 basis points in December after hot US inflation data",
-   "summary": "Citigroup now expects the US Federal Reserve to raise interest rates by 25 basis points in December following hotter-than-expected September inflation. The brokerage forecasts rates to remain unchanged thereafter, with rate cuts unlikely before June 2027.",
-   "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-citi-expects-fed-to-raise-rates-by-25-basis-points-in-december-after-hot-us-inflation-data/articleshow/134960261.cms",
-   "published_utc": "2026-10-15T07:00:00+00:00"
   }
  ]
 }
