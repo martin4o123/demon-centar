@@ -1,8 +1,16 @@
 {
- "collected_utc": "2026-10-16T07:37:01.533230+00:00",
- "collected_epoch": 1792136221.53323,
+ "collected_utc": "2026-10-16T08:07:01.589626+00:00",
+ "collected_epoch": 1792138021.589626,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "NBC News",
+   "title": "Will the Fed raise interest rates? Kevin Warsh could offer clues",
+   "summary": "When Federal Reserve Chairman Kevin Warsh strides onstage in Bangkok on Friday morning, it will be after 11 p.m. on Thursday in New York.",
+   "url": "https://www.nbcnews.com/business/economy/will-fed-raise-interest-rates-kevin-warsh-offer-clues-rcna603661",
+   "published_utc": "2026-10-15T19:59:09+00:00"
+  },
   {
    "provider": "gnews",
    "source": "The Economic Times",
@@ -74,14 +82,6 @@
    "summary": "Asian markets tumble as a global chip sell-off rout and United States inflation data spark fears of further Federal Reserve interest rate hikes.",
    "url": "https://www.cnbctv18.com/market/asian-market-updates-nikkei-kospi-crash-ai-funding-chip-stocks-sell-off-gift-nifty-20012218.htm",
    "published_utc": "2026-10-15T01:44:11+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "Moneycontrol",
-   "title": "Sensex Today | Stock Market LIVE Updates: GIFT Nifty hints a muted start; US, Asian markets decline",
-   "summary": "Sensex Today | Stock Market LIVE Updates: Hotter-than-expected inflation data sent the Nasdaq ​to a sharply lower close on Wednesday, with worries about more interest rate hikes from the Federal Reserve pummeling ‌shares of Oracle, CoreWeave and other AI stocks sensitive to higher borrowing costs. The S&P 500 declined 1.11% to end the session at 7,718.94 points, its biggest one-day drop since July 29. The Nasdaq declined 1.88% to ​26,692.87 points, its biggest daily drop since July 23. The Dow Jones Industrial Average declined 0.09% to 51,621.48 points.",
-   "url": "https://www.moneycontrol.com/news/business/markets/stock-market-live-updates-nifty50-share-price-sensex-share-price-crude-fii-gift-nifty-rupee-latest-updates-15-10-2026-alpha-liveblog-14052440.html",
-   "published_utc": "2026-10-15T01:30:00+00:00"
   }
  ]
 }
