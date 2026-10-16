@@ -1,8 +1,16 @@
 {
- "collected_utc": "2026-10-16T23:07:01.584649+00:00",
- "collected_epoch": 1792192021.584649,
+ "collected_utc": "2026-10-16T23:37:01.562592+00:00",
+ "collected_epoch": 1792193821.562592,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "The Independent",
+   "title": "Americans face another painful blow to mortgages and credit cards as Fed signals more interest rate hikes",
+   "summary": "U.S. Federal Reserve Chairman Kevin Warsh says he won't prejudge what the U.S. central bank will do about interest rates at its upcoming meetings",
+   "url": "https://www.independent.co.uk/us/money/fed-warsh-interest-rates-inflation-ai-b3068063.html",
+   "published_utc": "2026-10-16T11:19:37+00:00"
+  },
   {
    "provider": "gnews",
    "source": "Euronews",
@@ -74,14 +82,6 @@
    "summary": "Federal Reserve Chair Kevin Warsh gave no signal on whether the US central bank would change interest rates at its October 27-28 meeting, reiterating its commitment to price stability. Markets await further clues from economic data and policymakers on the rate outlook.",
    "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-market-fed-chair-warsh-offers-no-signal-on-october-interest-rate-decision/articleshow/134984000.cms",
    "published_utc": "2026-10-16T05:54:00+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "MarketScreener",
-   "title": "Fed's Warsh gives no hint on October policy decision",
-   "summary": "Federal Reserve Chairman Kevin Warsh on Friday said he does not prejudge interest-rate decisions, giving no preview of whether the central bank will hike or, as markets expect, hold short-term rates...\n-October 15, 2026 at 11:55 pm EDT\n- MarketScreener",
-   "url": "https://www.marketscreener.com/news/fed-s-warsh-gives-no-hint-on-october-policy-decision-ce785cdad989f025",
-   "published_utc": "2026-10-16T03:55:43+00:00"
   }
  ]
 }
