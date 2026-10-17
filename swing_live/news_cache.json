@@ -1,8 +1,16 @@
 {
- "collected_utc": "2026-10-16T23:37:01.562592+00:00",
- "collected_epoch": 1792193821.562592,
+ "collected_utc": "2026-10-17T00:07:01.530500+00:00",
+ "collected_epoch": 1792195621.5305,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "Bnn Bloomberg",
+   "title": "Federal Reserve chair Warsh shies away from signals about U.S. rates",
+   "summary": "U.S. Federal Reserve Chairman Kevin Warsh said Friday he won’t prejudge what the central bank will do about interest rates at its upcoming meetings in October and December.",
+   "url": "https://www.bnnbloomberg.ca/business/economics/2026/10/16/fed-chair-warsh-says-us-price-stability-is-key-but-shies-away-from-signals-about-rates/",
+   "published_utc": "2026-10-16T11:59:04+00:00"
+  },
   {
    "provider": "gnews",
    "source": "The Independent",
@@ -74,14 +82,6 @@
    "summary": "Federal Reserve Bank of Chicago President Austan Goolsbee called the latest US consumer and producer inflation data discouraging, raising concerns about persistent price pressures. While temporary factors such as tariffs and geopolitical conflicts could ease, he warned that demand driven by the rapid expansion of AI data centres could require a policy response.",
    "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-market-feds-goolsbee-says-latest-us-inflation-data-is-discouraging/articleshow/134985186.cms",
    "published_utc": "2026-10-16T06:49:00+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "The Economic Times",
-   "title": "US Market: Fed Chair Warsh offers no signal on October interest-rate decision",
-   "summary": "Federal Reserve Chair Kevin Warsh gave no signal on whether the US central bank would change interest rates at its October 27-28 meeting, reiterating its commitment to price stability. Markets await further clues from economic data and policymakers on the rate outlook.",
-   "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-market-fed-chair-warsh-offers-no-signal-on-october-interest-rate-decision/articleshow/134984000.cms",
-   "published_utc": "2026-10-16T05:54:00+00:00"
   }
  ]
 }
