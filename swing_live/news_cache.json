@@ -1,6 +1,6 @@
 {
- "collected_utc": "2026-10-17T15:37:01.556317+00:00",
- "collected_epoch": 1792251421.556317,
+ "collected_utc": "2026-10-17T16:07:01.613060+00:00",
+ "collected_epoch": 1792253221.61306,
  "cached": false,
  "items": [
   {
@@ -53,6 +53,14 @@
   },
   {
    "provider": "gnews",
+   "source": "WTOP",
+   "title": "Fed chair Warsh says price stability is key but shies away from signals about rates",
+   "summary": "BANGKOK (AP) — Federal Reserve Chairman Kevin Warsh said Friday he won’t prejudge what the U.S. central bank will do about interest rates at its upcoming meetin",
+   "url": "https://wtop.com/world/2026/10/fed-chair-warsh-says-price-stability-is-key-but-shies-away-from-signals-about-rates/",
+   "published_utc": "2026-10-16T12:20:04+00:00"
+  },
+  {
+   "provider": "gnews",
    "source": "Bnn Bloomberg",
    "title": "Federal Reserve chair Warsh shies away from signals about U.S. rates",
    "summary": "U.S. Federal Reserve Chairman Kevin Warsh said Friday he won’t prejudge what the central bank will do about interest rates at its upcoming meetings in October and December.",
@@ -74,14 +82,6 @@
    "summary": "US Federal Reserve Chairman Kevin Warsh said in Bangkok on Friday that the global economy has proved surprisingly resilient and called AI the most consequential change of his lifetime, but gave no hint on interest rates ahead of the Fed’s meeting this month.",
    "url": "https://www.euronews.com/2026/10/16/feds-warsh-sees-ai-boosting-productivity-but-gives-no-signal-on-next-rate-hike",
    "published_utc": "2026-10-16T09:27:55+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "Breitbart News Network",
-   "title": "Fed chair Warsh says price stability is key but shies away from signals about rates",
-   "summary": "U.S. Federal Reserve Chairman Kevin Warsh says he won't prejudge what the U.S. central bank will do about interest rates at its upcoming meetings. BANGKOK",
-   "url": "https://www.breitbart.com/news/fed-chair-warsh-says-price-stability-is-key-but-shies-away-from-signals-about-rates/",
-   "published_utc": "2026-10-16T08:45:39+00:00"
   }
  ]
 }
