@@ -1,8 +1,24 @@
 {
- "collected_utc": "2026-10-17T20:37:00.579343+00:00",
- "collected_epoch": 1792269420.579343,
+ "collected_utc": "2026-10-17T21:07:00.541695+00:00",
+ "collected_epoch": 1792271220.541695,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "The Tribune",
+   "title": "US Fed likely to hold rates in October, hike by 25 bps by year",
+   "summary": "The US Federal Reserve is expected to keep interest rates unchanged in October before resuming monetary tightening, with markets pricing in a further 25 basis points (bps) hike by the end of 2026 and cumulative tightening of 75 bps by mid-2027, according to a commentary by CareEdge Global.",
+   "url": "https://www.tribuneindia.com/news/business/us-fed-likely-to-hold-rates-in-october-hike-by-25-bps-by-year-end-careedge-global/",
+   "published_utc": "2026-10-17T09:06:07+00:00"
+  },
+  {
+   "provider": "gnews",
+   "source": "ANI (Asian News International)",
+   "title": "US Fed likely to hold rates in October, hike by 25 bps by year-end: CareEdge Global",
+   "summary": "The US Federal Reserve is expected to keep interest rates unchanged in October before resuming monetary tightening, with markets pricing in a further 25 basis points (bps) hike by the end of 2026 and cumulative tightening of 75 bps by mid-2027, according to a commentary by CareEdge Global.",
+   "url": "https://www.aninews.in/news/business/us-fed-likely-to-hold-rates-in-october-hike-by-25-bps-by-year-end-careedge-global20261017143448/",
+   "published_utc": "2026-10-17T09:04:48+00:00"
+  },
   {
    "provider": "gnews",
    "source": "The Boston Herald",
@@ -66,22 +82,6 @@
    "summary": "U.S. Federal Reserve Chairman Kevin Warsh said Friday he won’t prejudge what the central bank will do about interest rates at its upcoming meetings in October and December.",
    "url": "https://www.bnnbloomberg.ca/business/economics/2026/10/16/fed-chair-warsh-says-us-price-stability-is-key-but-shies-away-from-signals-about-rates/",
    "published_utc": "2026-10-16T11:59:04+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "The Independent",
-   "title": "Americans face another painful blow to mortgages and credit cards as Fed signals more interest rate hikes",
-   "summary": "U.S. Federal Reserve Chairman Kevin Warsh says he won't prejudge what the U.S. central bank will do about interest rates at its upcoming meetings",
-   "url": "https://www.independent.co.uk/us/money/fed-warsh-interest-rates-inflation-ai-b3068063.html",
-   "published_utc": "2026-10-16T11:19:37+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "Euronews",
-   "title": "Fed’s Warsh sees AI boosting productivity but gives no signal on next rate hike",
-   "summary": "US Federal Reserve Chairman Kevin Warsh said in Bangkok on Friday that the global economy has proved surprisingly resilient and called AI the most consequential change of his lifetime, but gave no hint on interest rates ahead of the Fed’s meeting this month.",
-   "url": "https://www.euronews.com/2026/10/16/feds-warsh-sees-ai-boosting-productivity-but-gives-no-signal-on-next-rate-hike",
-   "published_utc": "2026-10-16T09:27:55+00:00"
   }
  ]
 }
