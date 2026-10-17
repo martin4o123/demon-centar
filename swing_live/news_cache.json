@@ -1,8 +1,16 @@
 {
- "collected_utc": "2026-10-17T05:37:01.553581+00:00",
- "collected_epoch": 1792215421.553581,
+ "collected_utc": "2026-10-17T06:07:01.525540+00:00",
+ "collected_epoch": 1792217221.52554,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "The Economic Times",
+   "title": "Chip selloff deepens Wall Street losses as doubts grew over AI returns",
+   "summary": "A significant selloff in semiconductor stocks affected major US indexes amid rising concerns regarding AI investment returns. The Nasdaq 100 dropped by 1.8%, continuing its longest losing streak since 2008. Market participants are questioning if AI infrastructure investments will yield profitable returns despite strong demand for chips. Federal Reserve Chairman Kevin Warsh maintained a neutral stance on interest rates during discussions at the IMF meetings.",
+   "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/chip-selloff-deepens-wall-street-losses-as-doubts-grew-over-ai-returns/articleshow/135001236.cms",
+   "published_utc": "2026-10-16T17:59:00+00:00"
+  },
   {
    "provider": "gnews",
    "source": "New York Post",
@@ -74,14 +82,6 @@
    "summary": "U.S. Federal Reserve Chairman Kevin Warsh says he won't prejudge what the U.S. central bank will do about interest rates at its upcoming meetings. However, he repeatedly vowed to “deliver price stability.” Warsh spoke Friday on the sidelines of a meeting of the International Monetary Fund and World Bank in Bangkok. The global surge in prices is a key concern of the financial leaders meeting. Stubbornly high U.S. inflation is expected to lead the Fed to raise its key interest rate in coming months after a rate hike in September.",
    "url": "https://www.ajc.com/news/2026/10/fed-chair-warsh-says-price-stability-is-key-but-shies-away-from-signals-about-rates/",
    "published_utc": "2026-10-16T07:02:43+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "WTOP",
-   "title": "Fed chair Warsh says price stability is key but shies away from signals about rates",
-   "summary": "BANGKOK (AP) — Federal Reserve Chairman Kevin Warsh said Friday he won’t prejudge what the U.S. central bank will do about interest rates at its upcoming meetin",
-   "url": "https://wtop.com/world/2026/10/fed-chair-warsh-says-price-stability-is-key-but-shies-away-from-signals-about-rates/",
-   "published_utc": "2026-10-16T06:57:20+00:00"
   }
  ]
 }
