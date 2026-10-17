@@ -1,8 +1,16 @@
 {
- "collected_utc": "2026-10-17T03:37:01.591100+00:00",
- "collected_epoch": 1792208221.5911,
+ "collected_utc": "2026-10-17T04:07:01.578828+00:00",
+ "collected_epoch": 1792210021.578828,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "MarketScreener",
+   "title": "Barclays expects Fed rate hikes in December and January",
+   "summary": "Barclays said on Friday it expects\nthe US Federal Reserve to raise interest rates by 25 basis\npoints each in December and January after stronger-than-expected\ninflation readings.\nThe...",
+   "url": "https://www.marketscreener.com/news/barclays-expects-fed-rate-hikes-in-december-and-january-ce785cdadc8af620",
+   "published_utc": "2026-10-16T15:48:24+00:00"
+  },
   {
    "provider": "gnews",
    "source": "Bloomberg",
@@ -74,14 +82,6 @@
    "summary": "U.S. Federal Reserve Chairman Kevin Warsh says he won't prejudge what the U.S. central bank will do about interest rates at its upcoming meetings. However, he repeatedly vowed to “deliver price...",
    "url": "https://www.sfgate.com/news/world/article/fed-chair-warsh-says-price-stability-is-key-but-22479757.php",
    "published_utc": "2026-10-16T06:51:54+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "WDIV ClickOnDetroit",
-   "title": "Fed chair Warsh says price stability is key but shies away from signals about rates",
-   "summary": "U.S. Federal Reserve Chairman Kevin Warsh says he won't prejudge what the U.S. central bank will do about interest rates at its upcoming meetings.",
-   "url": "https://www.clickondetroit.com/business/2026/10/16/fed-chair-warsh-says-price-stability-is-key-but-shies-away-from-signals-about-rates/",
-   "published_utc": "2026-10-16T06:51:53+00:00"
   }
  ]
 }
