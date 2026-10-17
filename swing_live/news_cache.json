@@ -1,8 +1,16 @@
 {
- "collected_utc": "2026-10-17T09:07:01.898281+00:00",
- "collected_epoch": 1792228021.898281,
+ "collected_utc": "2026-10-17T09:37:01.591387+00:00",
+ "collected_epoch": 1792229821.591387,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "The Boston Herald",
+   "title": "Fed chair Warsh says price stability is key but shies away from signals about rates",
+   "summary": "Federal Reserve Chairman Kevin Warsh said Friday he won’t prejudge what the U.S. central bank will do about interest rates at its upcoming meetings in October and December.",
+   "url": "https://www.bostonherald.com/2026/10/16/fed-chair-warsh-says-price-stability-is-key-but-shies-away-from-signals-about-rates/",
+   "published_utc": "2026-10-16T21:24:16+00:00"
+  },
   {
    "provider": "gnews",
    "source": "The Economic Times",
@@ -74,14 +82,6 @@
    "summary": "U.S. Federal Reserve Chairman Kevin Warsh says he won't prejudge what the U.S. central bank will do about interest rates at its upcoming meetings. BANGKOK",
    "url": "https://www.breitbart.com/news/fed-chair-warsh-says-price-stability-is-key-but-shies-away-from-signals-about-rates/",
    "published_utc": "2026-10-16T08:45:39+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "The Atlanta Journal-Constitution",
-   "title": "Fed chair Warsh says price stability is key but shies away from signals about rates",
-   "summary": "U.S. Federal Reserve Chairman Kevin Warsh says he won't prejudge what the U.S. central bank will do about interest rates at its upcoming meetings. However, he repeatedly vowed to “deliver price stability.” Warsh spoke Friday on the sidelines of a meeting of the International Monetary Fund and World Bank in Bangkok. The global surge in prices is a key concern of the financial leaders meeting. Stubbornly high U.S. inflation is expected to lead the Fed to raise its key interest rate in coming months after a rate hike in September.",
-   "url": "https://www.ajc.com/news/2026/10/fed-chair-warsh-says-price-stability-is-key-but-shies-away-from-signals-about-rates/",
-   "published_utc": "2026-10-16T07:02:43+00:00"
   }
  ]
 }
