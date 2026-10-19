@@ -1,8 +1,16 @@
 {
- "collected_utc": "2026-10-19T17:07:00.766528+00:00",
- "collected_epoch": 1792429620.766528,
+ "collected_utc": "2026-10-19T17:37:00.691776+00:00",
+ "collected_epoch": 1792431420.691776,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "MarketScreener",
+   "title": "Gold edges higher as softer oil eases inflation woes",
+   "summary": "Gold prices edged higher on Monday as softer oil prices offered support, while investors assessed the chances of a Federal Reserve interest rate hike later this year.\nSpot gold rose 0.4%...",
+   "url": "https://www.marketscreener.com/news/gold-edges-higher-as-softer-oil-eases-inflation-woes-ce785cdad08aff20",
+   "published_utc": "2026-10-19T05:14:47+00:00"
+  },
   {
    "provider": "gnews",
    "source": "The Tribune",
@@ -74,14 +82,6 @@
    "summary": "BANGKOK (AP) — Federal Reserve Chairman Kevin Warsh said Friday he won’t prejudge what the U.S. central bank will do about interest rates at its upcoming meetin",
    "url": "https://wtop.com/world/2026/10/fed-chair-warsh-says-price-stability-is-key-but-shies-away-from-signals-about-rates/",
    "published_utc": "2026-10-16T12:20:04+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "Bnn Bloomberg",
-   "title": "Federal Reserve chair Warsh shies away from signals about U.S. rates",
-   "summary": "U.S. Federal Reserve Chairman Kevin Warsh said Friday he won’t prejudge what the central bank will do about interest rates at its upcoming meetings in October and December.",
-   "url": "https://www.bnnbloomberg.ca/business/economics/2026/10/16/fed-chair-warsh-says-us-price-stability-is-key-but-shies-away-from-signals-about-rates/",
-   "published_utc": "2026-10-16T11:59:04+00:00"
   }
  ]
 }
