@@ -1,8 +1,16 @@
 {
- "collected_utc": "2026-10-19T21:07:00.661875+00:00",
- "collected_epoch": 1792444020.661875,
+ "collected_utc": "2026-10-19T21:37:00.633845+00:00",
+ "collected_epoch": 1792445820.633845,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "MarketScreener",
+   "title": "Gold edges up as oil retreat lends support; Fed decision in focus",
+   "summary": "Gold prices edged higher on Monday as lower oil prices alleviated inflation concerns ahead of next week's Federal Reserve monetary policy meeting, where the central bank is widely expected to hold...",
+   "url": "https://www.marketscreener.com/news/gold-edges-up-as-oil-retreat-lends-support-fed-decision-in-focus-ce785cdbd980f727",
+   "published_utc": "2026-10-19T09:16:24+00:00"
+  },
   {
    "provider": "gnews",
    "source": "MarketScreener",
@@ -74,14 +82,6 @@
    "summary": "The S&P 500 Index was little changed on Friday, as indications that the Federal Reserve will hold interest rates steady this month heartened investors despite continued worries about the viability of the artificial intelligence trade.",
    "url": "https://www.bloomberg.com/news/articles/2026-10-16/s-p-500-steady-as-warsh-boosts-expectations-of-rate-hold",
    "published_utc": "2026-10-16T14:01:24+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "PBS News",
-   "title": "Fed chair Warsh says price stability is key but shies away from signals about rates",
-   "summary": "Federal Reserve Chairman Kevin Warsh said Friday he won’t prejudge what the U.S. central bank will do about interest rates at its upcoming meetings in October and December.",
-   "url": "https://www.pbs.org/newshour/economy/fed-chair-warsh-says-price-stability-is-key-but-shies-away-from-signals-about-rates",
-   "published_utc": "2026-10-16T13:21:26+00:00"
   }
  ]
 }
