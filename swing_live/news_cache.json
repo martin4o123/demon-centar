@@ -1,8 +1,24 @@
 {
- "collected_utc": "2026-10-20T13:37:00.657619+00:00",
- "collected_epoch": 1792503420.657619,
+ "collected_utc": "2026-10-20T14:07:00.658916+00:00",
+ "collected_epoch": 1792505220.658916,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "The Economic Times",
+   "title": "Gold slips as investors weigh Fed rate outlook",
+   "summary": "Gold slipped in early Asian trade on Tuesday as investors awaited the US Federal Reserve policy decision next week for signals on interest rates and the broader outlook for monetary policy.",
+   "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-slips-as-investors-weigh-fed-rate-outlook/articleshow/135059635.cms",
+   "published_utc": "2026-10-20T02:00:00+00:00"
+  },
+  {
+   "provider": "gnews",
+   "source": "CNBC TV18",
+   "title": "Gold Slips in Asian Trade as Investors Await US Federal Reserve Decision",
+   "summary": "According to CME's FedWatch Tool, traders are pricing in an 83% chance that the central bank will leave rates largely unchanged next week, while expectations for a hike in December remain at 94%.",
+   "url": "https://www.cnbctv18.com/market/commodities/gold-slips-as-investors-weigh-fed-rate-outlook-20015431.htm",
+   "published_utc": "2026-10-20T01:50:02+00:00"
+  },
   {
    "provider": "gnews",
    "source": "MarketScreener",
@@ -66,22 +82,6 @@
    "summary": "Federal Reserve Chairman Kevin Warsh said Friday he won’t prejudge what the U.S. central bank will do about interest rates at its upcoming meetings in October and December.",
    "url": "https://www.bostonherald.com/2026/10/16/fed-chair-warsh-says-price-stability-is-key-but-shies-away-from-signals-about-rates/",
    "published_utc": "2026-10-16T21:24:16+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "The Economic Times",
-   "title": "Chip selloff deepens Wall Street losses as doubts grew over AI returns",
-   "summary": "A significant selloff in semiconductor stocks affected major US indexes amid rising concerns regarding AI investment returns. The Nasdaq 100 dropped by 1.8%, continuing its longest losing streak since 2008. Market participants are questioning if AI infrastructure investments will yield profitable returns despite strong demand for chips. Federal Reserve Chairman Kevin Warsh maintained a neutral stance on interest rates during discussions at the IMF meetings.",
-   "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/chip-selloff-deepens-wall-street-losses-as-doubts-grew-over-ai-returns/articleshow/135001236.cms",
-   "published_utc": "2026-10-16T17:59:00+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "New York Post",
-   "title": "Traders bet on October interest-rate hold after Kevin Warsh is tight-lipped at conference",
-   "summary": "Federal Reserve Chair Kevin Warsh stayed mum Friday on the path for interest rates, even after hot inflation data this week – which traders took as a sign officials will hold rates steady this month.",
-   "url": "https://nypost.com/2026/10/16/business/traders-bet-on-october-interest-rate-hold-after-kevin-warsh-remains-tight-lipped-at-conference/",
-   "published_utc": "2026-10-16T16:19:50+00:00"
   }
  ]
 }
