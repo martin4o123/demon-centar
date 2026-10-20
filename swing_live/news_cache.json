@@ -1,8 +1,16 @@
 {
- "collected_utc": "2026-10-20T13:07:01.656997+00:00",
- "collected_epoch": 1792501621.656997,
+ "collected_utc": "2026-10-20T13:37:00.657619+00:00",
+ "collected_epoch": 1792503420.657619,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "MarketScreener",
+   "title": "Gold slips as investors weigh Fed rate outlook",
+   "summary": "Gold slipped in early Asian trade on Tuesday as investors awaited the US Federal Reserve policy decision next week for signals on interest rates and the broader outlook for monetary policy.\n...",
+   "url": "https://www.marketscreener.com/news/gold-slips-as-investors-weigh-fed-rate-outlook-ce785cdbde8bf122",
+   "published_utc": "2026-10-20T01:30:39+00:00"
+  },
   {
    "provider": "gnews",
    "source": "Livemint",
@@ -74,14 +82,6 @@
    "summary": "Federal Reserve Chair Kevin Warsh stayed mum Friday on the path for interest rates, even after hot inflation data this week – which traders took as a sign officials will hold rates steady this month.",
    "url": "https://nypost.com/2026/10/16/business/traders-bet-on-october-interest-rate-hold-after-kevin-warsh-remains-tight-lipped-at-conference/",
    "published_utc": "2026-10-16T16:19:50+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "MarketScreener",
-   "title": "Barclays expects Fed rate hikes in December and January",
-   "summary": "Barclays said on Friday it expects\nthe US Federal Reserve to raise interest rates by 25 basis\npoints each in December and January after stronger-than-expected\ninflation readings.\nThe...",
-   "url": "https://www.marketscreener.com/news/barclays-expects-fed-rate-hikes-in-december-and-january-ce785cdadc8af620",
-   "published_utc": "2026-10-16T15:48:24+00:00"
   }
  ]
 }
