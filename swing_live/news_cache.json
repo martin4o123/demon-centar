@@ -1,8 +1,16 @@
 {
- "collected_utc": "2026-10-21T18:07:00.781702+00:00",
- "collected_epoch": 1792606020.781702,
+ "collected_utc": "2026-10-21T18:37:00.687941+00:00",
+ "collected_epoch": 1792607820.687941,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "The Economic Times",
+   "title": "Gold prices near Rs 1.47 lakh/10 grams, silver falls by Rs 1,144/kg as traders await Fed rate signals. What lies ahead?",
+   "summary": "Gold prices edged lower while silver fell on MCX as investors awaited the US Federal Reserves upcoming policy decision for clues on interest rates. Traders expect rates to remain unchanged in October, with a possible hike in December. Analysts say dollar strength may cap golds upside, while central bank buying supports longer-term prices.",
+   "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-near-rs-1-47-lakh/10-grams-silver-falls-by-rs-1144/kg-as-traders-await-fed-rate-signals-what-lies-ahead/articleshow/135083841.cms",
+   "published_utc": "2026-10-21T06:10:00+00:00"
+  },
   {
    "provider": "gnews",
    "source": "The Economic Times",
@@ -74,14 +82,6 @@
    "summary": "Gold slipped in early Asian trade on Tuesday as investors awaited the US Federal Reserve policy decision next week for signals on interest rates and the broader outlook for monetary policy.\n...",
    "url": "https://www.marketscreener.com/news/gold-slips-as-investors-weigh-fed-rate-outlook-ce785cdbde8bf122",
    "published_utc": "2026-10-20T01:30:39+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "Livemint",
-   "title": "Gold Holds Decline as Energy-Led Inflation Weighs on Rate Path",
-   "summary": "Gold held a decline, as elevated oil prices fueled inflation concerns and clouded the Federal Reserve’s path for interest-rate hikes.",
-   "url": "https://www.livemint.com/market/gold-holds-decline-as-energy-led-inflation-weighs-on-rate-path-11792456762808.html",
-   "published_utc": "2026-10-20T00:39:22+00:00"
   }
  ]
 }
