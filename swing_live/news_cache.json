@@ -1,8 +1,16 @@
 {
- "collected_utc": "2026-10-21T01:37:00.756205+00:00",
- "collected_epoch": 1792546620.756205,
+ "collected_utc": "2026-10-21T02:07:00.693863+00:00",
+ "collected_epoch": 1792548420.693863,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "MarketScreener",
+   "title": "Gold eases as oil-driven inflation worries weigh",
+   "summary": "Gold eased on Tuesday as firmer oil prices fuelled inflation concerns, while investors awaited next week's Federal Reserve meeting for further direction on U.S. interest rates.\nSpot gold...",
+   "url": "https://www.marketscreener.com/news/gold-eases-as-oil-driven-inflation-worries-weigh-ce785cd8db8ef420",
+   "published_utc": "2026-10-20T13:37:17+00:00"
+  },
   {
    "provider": "gnews",
    "source": "MarketScreener",
@@ -74,14 +82,6 @@
    "summary": "Gold prices edged higher on Monday as softer oil prices offered support, while investors assessed the chances of a Federal Reserve interest rate hike later this year.\nSpot gold rose 0.4%...",
    "url": "https://www.marketscreener.com/news/gold-edges-higher-as-softer-oil-eases-inflation-woes-ce785cdad08aff20",
    "published_utc": "2026-10-19T05:14:47+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "The Tribune",
-   "title": "US Fed likely to hold rates in October, hike by 25 bps by year",
-   "summary": "The US Federal Reserve is expected to keep interest rates unchanged in October before resuming monetary tightening, with markets pricing in a further 25 basis points (bps) hike by the end of 2026 and cumulative tightening of 75 bps by mid-2027, according to a commentary by CareEdge Global.",
-   "url": "https://www.tribuneindia.com/news/business/us-fed-likely-to-hold-rates-in-october-hike-by-25-bps-by-year-end-careedge-global/",
-   "published_utc": "2026-10-17T09:06:07+00:00"
   }
  ]
 }
