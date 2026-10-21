@@ -1,8 +1,16 @@
 {
- "collected_utc": "2026-10-21T12:37:00.673043+00:00",
- "collected_epoch": 1792586220.673043,
+ "collected_utc": "2026-10-21T13:07:00.747696+00:00",
+ "collected_epoch": 1792588020.747696,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "Livemint",
+   "title": "Gold Steadies as Conflicting Iran Signals Cloud Path for Rates",
+   "summary": "Gold held a decline as conflicting signals on efforts to end the Iran war clouded the outlook for inflation and the Federal Reserve’s path for interest rates.",
+   "url": "https://www.livemint.com/market/gold-steadies-as-conflicting-iran-signals-cloud-path-for-rates-11792543252325.html",
+   "published_utc": "2026-10-21T00:40:51+00:00"
+  },
   {
    "provider": "gnews",
    "source": "MarketScreener",
@@ -74,14 +82,6 @@
    "summary": "Gold edged higher on Monday as softer oil prices tempered some inflation concerns, while investors assessed recent US economic data and the outlook for Federal Reserve interest rates later this year.\n...",
    "url": "https://www.marketscreener.com/news/gold-rises-as-investors-weigh-fed-rate-outlook-lower-oil-prices-ce785cdbd98df424",
    "published_utc": "2026-10-19T07:57:33+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "MarketScreener",
-   "title": "Gold edges higher as softer oil eases inflation woes",
-   "summary": "Gold prices edged higher on Monday as softer oil prices offered support, while investors assessed the chances of a Federal Reserve interest rate hike later this year.\nSpot gold rose 0.4%...",
-   "url": "https://www.marketscreener.com/news/gold-edges-higher-as-softer-oil-eases-inflation-woes-ce785cdad08aff20",
-   "published_utc": "2026-10-19T05:14:47+00:00"
   }
  ]
 }
