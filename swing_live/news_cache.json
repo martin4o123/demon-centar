@@ -1,8 +1,16 @@
 {
- "collected_utc": "2026-10-22T12:07:00.712776+00:00",
- "collected_epoch": 1792670820.712776,
+ "collected_utc": "2026-10-22T12:37:00.690083+00:00",
+ "collected_epoch": 1792672620.690083,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "Livemint",
+   "title": "Gold Edges Lower as Traders Weigh Middle East Signals, Fed Rate Path",
+   "summary": "Gold dipped as a flareup in Middle East hostilities raised inflation risks, even as the Federal Reserve is still expected to keep interest rates steady in the near term.",
+   "url": "https://www.livemint.com/market/gold-edges-lower-as-traders-weigh-middle-east-signals-fed-rate-path-11792628633738.html",
+   "published_utc": "2026-10-22T00:23:53+00:00"
+  },
   {
    "provider": "gnews",
    "source": "The Expositor",
@@ -74,14 +82,6 @@
    "summary": "Emerging markets have developed stronger immune systems. US debt dynamics are deteriorating and the Federal Reserve has started hiking interest rates, yet EM appears under no pressure to follow suit. The US has sneezed, but EM isn't catching the proverbial cold.",
    "url": "https://www.reuters.com/commentary/reuters-open-interest/fed-sneezes-emerging-markets-arent-catching-cold-yet-mcgeever-2026-10-20/",
    "published_utc": "2026-10-20T13:00:24+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "MarketScreener",
-   "title": "Fed to skip October but raise rates again in December, nearly all economists say",
-   "summary": "The Federal Reserve will skip raising interest rates this month and deliver a hike in December, according to nearly all economists polled by Reuters, as policymakers signal patience even as stubborn...",
-   "url": "https://www.marketscreener.com/news/fed-to-skip-october-but-raise-rates-again-in-december-nearly-all-economists-say-ce785cd8db88f22d",
-   "published_utc": "2026-10-20T12:44:19+00:00"
   }
  ]
 }
