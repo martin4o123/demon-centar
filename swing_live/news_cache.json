@@ -1,8 +1,16 @@
 {
- "collected_utc": "2026-10-22T13:37:01.872353+00:00",
- "collected_epoch": 1792676221.872353,
+ "collected_utc": "2026-10-22T14:07:00.772073+00:00",
+ "collected_epoch": 1792678020.772073,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "The Economic Times",
+   "title": "Gold eases as investors await Fed signals on rate path",
+   "summary": "Gold prices saw a decline as investors shift attention to the looming Federal Reserve policy meeting regarding interest rates. Spot gold prices dipped to $4,115.50 per ounce, with US gold futures for December slipping to $4,132.30. Analysts anticipate potential rate hikes in the coming months, particularly in December, where the likelihood stands at 90%. Other precious metals like silver and platinum also noted price drops.",
+   "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-eases-as-investors-await-fed-signals-on-rate-path/articleshow/135104186.cms",
+   "published_utc": "2026-10-22T01:59:00+00:00"
+  },
   {
    "provider": "gnews",
    "source": "Livemint",
@@ -74,14 +82,6 @@
    "summary": "Gold eased on Tuesday as firmer oil prices fuelled inflation concerns, while investors awaited next week's Federal Reserve meeting for further direction on U.S. interest rates.\nSpot gold...",
    "url": "https://www.marketscreener.com/news/gold-eases-as-oil-driven-inflation-worries-weigh-ce785cd8db8ef420",
    "published_utc": "2026-10-20T13:37:17+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "Reuters",
-   "title": "Fed sneezes, but emerging markets aren't catching a cold yet",
-   "summary": "Emerging markets have developed stronger immune systems. US debt dynamics are deteriorating and the Federal Reserve has started hiking interest rates, yet EM appears under no pressure to follow suit. The US has sneezed, but EM isn't catching the proverbial cold.",
-   "url": "https://www.reuters.com/commentary/reuters-open-interest/fed-sneezes-emerging-markets-arent-catching-cold-yet-mcgeever-2026-10-20/",
-   "published_utc": "2026-10-20T13:00:24+00:00"
   }
  ]
 }
