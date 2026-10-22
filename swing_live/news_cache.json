@@ -1,8 +1,16 @@
 {
- "collected_utc": "2026-10-22T21:07:00.770556+00:00",
- "collected_epoch": 1792703220.770556,
+ "collected_utc": "2026-10-22T21:37:00.814062+00:00",
+ "collected_epoch": 1792705020.814062,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "The Hindu Business Line",
+   "title": "India's interest rate gap with G7 in focus as RBI weighs inflation risks: Report",
+   "summary": "The report highlighted the importance of maintaining a certain difference between Indian and G7 interest rates to attract foreign debt capital, particularly as the US Federal Reserve is expected to continue its rate-hiking cycle",
+   "url": "https://www.thehindubusinessline.com/economy/indias-interest-rate-gap-with-g7-in-focus-as-rbi-weighs-inflation-risks-report/article71610776.ece",
+   "published_utc": "2026-10-22T09:24:37+00:00"
+  },
   {
    "provider": "gnews",
    "source": "Reuters",
@@ -74,14 +82,6 @@
    "summary": "Gold held a decline as conflicting signals on efforts to end the Iran war clouded the outlook for inflation and the Federal Reserve’s path for interest rates.",
    "url": "https://www.moneycontrol.com/news/business/markets/commodity-corner-oil-prices-edge-higher-on-middle-east-supply-risks-gold-holds-decline-14056240.html",
    "published_utc": "2026-10-21T02:07:21+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "Livemint",
-   "title": "Gold Steadies as Conflicting Iran Signals Cloud Path for Rates",
-   "summary": "Gold held a decline as conflicting signals on efforts to end the Iran war clouded the outlook for inflation and the Federal Reserve’s path for interest rates.",
-   "url": "https://www.livemint.com/market/gold-steadies-as-conflicting-iran-signals-cloud-path-for-rates-11792543252325.html",
-   "published_utc": "2026-10-21T00:40:51+00:00"
   }
  ]
 }
