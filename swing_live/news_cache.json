@@ -1,8 +1,24 @@
 {
- "collected_utc": "2026-10-22T01:37:00.741433+00:00",
- "collected_epoch": 1792633020.741433,
+ "collected_utc": "2026-10-22T02:07:00.678257+00:00",
+ "collected_epoch": 1792634820.678257,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "The Expositor",
+   "title": "With a Fed Decision a Week Away, Lenders Show How Borrowers Are Handling Higher Rates",
+   "summary": "Market Updates News CommentaryCHICAGO, Oct. 21, 2026 /CNW/ -- The Federal Reserve's next interest rate decision is one week away, and the record of its",
+   "url": "https://www.brantfordexpositor.ca/press-releases/pr-newswire/with-a-fed-decision-a-week-away-lenders-show-how-borrowers-are-handling-higher-rates/",
+   "published_utc": "2026-10-21T13:42:00+00:00"
+  },
+  {
+   "provider": "gnews",
+   "source": "The North Bay Nugget",
+   "title": "With a Fed Decision a Week Away, Lenders Show How Borrowers Are Handling Higher Rates",
+   "summary": "Market Updates News CommentaryCHICAGO, Oct. 21, 2026 /CNW/ -- The Federal Reserve's next interest rate decision is one week away, and the record of its",
+   "url": "https://www.nugget.ca/press-releases/pr-newswire/with-a-fed-decision-a-week-away-lenders-show-how-borrowers-are-handling-higher-rates/",
+   "published_utc": "2026-10-21T13:41:36+00:00"
+  },
   {
    "provider": "gnews",
    "source": "The Star",
@@ -66,22 +82,6 @@
    "summary": "The Federal Reserve will skip raising interest rates this month and deliver a hike in December, according to nearly all economists polled by Reuters, as policymakers signal patience even as stubborn...",
    "url": "https://www.marketscreener.com/news/fed-to-skip-october-but-raise-rates-again-in-december-nearly-all-economists-say-ce785cd8db88f22d",
    "published_utc": "2026-10-20T12:44:19+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "MarketScreener",
-   "title": "Gold eases as elevated oil prices keep inflation risks in focus",
-   "summary": "Gold eased on Tuesday as firmer oil prices heightened inflation concerns, while investors awaited next week's Federal Reserve policy meeting for signals on the US interest rate outlook.\n...",
-   "url": "https://www.marketscreener.com/news/gold-eases-as-elevated-oil-prices-keep-inflation-risks-in-focus-ce785cdbd18cf020",
-   "published_utc": "2026-10-20T06:42:09+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "The Economic Times",
-   "title": "Gold slips as investors weigh Fed rate outlook",
-   "summary": "Gold slipped in early Asian trade on Tuesday as investors awaited the US Federal Reserve policy decision next week for signals on interest rates and the broader outlook for monetary policy.",
-   "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-slips-as-investors-weigh-fed-rate-outlook/articleshow/135059635.cms",
-   "published_utc": "2026-10-20T02:00:00+00:00"
   }
  ]
 }
