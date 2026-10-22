@@ -1,8 +1,16 @@
 {
- "collected_utc": "2026-10-22T15:37:00.688734+00:00",
- "collected_epoch": 1792683420.688734,
+ "collected_utc": "2026-10-22T16:07:00.719268+00:00",
+ "collected_epoch": 1792685220.719268,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "Reuters",
+   "title": "Gold drops over 1% as oil rally reinforces higher-for-longer rate outlook",
+   "summary": "Gold fell more ‌than 1% on Thursday as rising oil prices stoked inflation concerns and reinforced expectations that interest rates could stay higher for longer, while investors awaited next week's Federal Reserve meeting for clues ​on the policy outlook.",
+   "url": "https://www.reuters.com/world/india/gold-drops-over-1-oil-rally-reinforces-higher-for-longer-rate-outlook-2026-10-22/",
+   "published_utc": "2026-10-22T04:03:11+00:00"
+  },
   {
    "provider": "gnews",
    "source": "The Economic Times",
@@ -74,14 +82,6 @@
    "summary": "Gold held a decline as conflicting signals on efforts to end the Iran war clouded the outlook for inflation and the Federal Reserve’s path for interest rates.",
    "url": "https://www.livemint.com/market/gold-steadies-as-conflicting-iran-signals-cloud-path-for-rates-11792543252325.html",
    "published_utc": "2026-10-21T00:40:51+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "MarketScreener",
-   "title": "Gold eases as oil-driven inflation worries weigh",
-   "summary": "Gold eased on Tuesday as firmer oil prices fuelled inflation concerns, while investors awaited next week's Federal Reserve meeting for further direction on U.S. interest rates.\nSpot gold...",
-   "url": "https://www.marketscreener.com/news/gold-eases-as-oil-driven-inflation-worries-weigh-ce785cd8db8ef420",
-   "published_utc": "2026-10-20T13:37:17+00:00"
   }
  ]
 }
