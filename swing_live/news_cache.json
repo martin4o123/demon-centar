@@ -1,8 +1,16 @@
 {
- "collected_utc": "2026-10-23T18:37:00.736657+00:00",
- "collected_epoch": 1792780620.736657,
+ "collected_utc": "2026-10-23T19:07:00.786732+00:00",
+ "collected_epoch": 1792782420.786732,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "NDTV Profit",
+   "title": "Gold Loses Shine: Yellow Metal Prices Crash By Rs 9,700 In Just 10 Days, Fall Below Rs 1,42,000",
+   "summary": "Gold prices have come under pressure as rising oil prices have revived concerns that persistent inflation could prompt the US Federal Reserve to keep interest rates higher for longer. This has reduced the appeal for non interest-bearing gold.",
+   "url": "https://www.ndtvprofit.com/markets/gold-loses-shine-yellow-metal-prices-crash-by-rs-9-700-in-just-10-days-fall-below-rs-1-42-000-12224096",
+   "published_utc": "2026-10-23T07:06:25+00:00"
+  },
   {
    "provider": "gnews",
    "source": "The Economic Times",
@@ -74,14 +82,6 @@
    "summary": "Gold prices edged lower while silver fell on MCX as investors awaited the US Federal Reserves upcoming policy decision for clues on interest rates. Traders expect rates to remain unchanged in October, with a possible hike in December. Analysts say dollar strength may cap golds upside, while central bank buying supports longer-term prices.",
    "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-near-rs-1-47-lakh/10-grams-silver-falls-by-rs-1144/kg-as-traders-await-fed-rate-signals-what-lies-ahead/articleshow/135083841.cms",
    "published_utc": "2026-10-21T06:10:00+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "The Economic Times",
-   "title": "Gold slips as investors await Fed rate signals",
-   "summary": "Gold prices fell slightly as investors monitored the Federal Reserve's major interest rate decision. The anticipated meeting will provide key insights into future economic policies. Economists expect the Fed to hold rates steady, emphasizing inflation concerns. The Bank of Japan is also projected to raise interest rates in December. Other precious metals, including silver and platinum, experienced minimal changes during this period.",
-   "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-slips-as-investors-await-fed-rate-signals/articleshow/135079883.cms",
-   "published_utc": "2026-10-21T02:09:00+00:00"
   }
  ]
 }
