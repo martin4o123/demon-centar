@@ -1,8 +1,16 @@
 {
- "collected_utc": "2026-10-23T17:37:00.855038+00:00",
- "collected_epoch": 1792777020.855038,
+ "collected_utc": "2026-10-23T18:07:00.895213+00:00",
+ "collected_epoch": 1792778820.895213,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "The Economic Times",
+   "title": "Gold price falls Rs 1,500/10g; silver plunges Rs 7,000/kg as soaring oil fuels rate hike bets. Time to sell?",
+   "summary": "Gold and silver prices fall on the MCX as rising oil prices fuel inflation concerns and expectations of higher interest rates for longer. Investors track the US Federal Reserve meeting, dollar movements and geopolitical tensions for cues on precious metals.",
+   "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-price-falls-rs-1500/10g-silver-plunges-rs-7000/kg-as-soaring-oil-fuels-rate-hike-bets-time-to-sell/articleshow/135135987.cms",
+   "published_utc": "2026-10-23T05:39:00+00:00"
+  },
   {
    "provider": "gnews",
    "source": "The Hindu Business Line",
@@ -74,14 +82,6 @@
    "summary": "Gold prices fell slightly as investors monitored the Federal Reserve's major interest rate decision. The anticipated meeting will provide key insights into future economic policies. Economists expect the Fed to hold rates steady, emphasizing inflation concerns. The Bank of Japan is also projected to raise interest rates in December. Other precious metals, including silver and platinum, experienced minimal changes during this period.",
    "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-slips-as-investors-await-fed-rate-signals/articleshow/135079883.cms",
    "published_utc": "2026-10-21T02:09:00+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "Moneycontrol",
-   "title": "Commodity Corner: Oil prices edge higher on Middle East supply risks; gold holds decline",
-   "summary": "Gold held a decline as conflicting signals on efforts to end the Iran war clouded the outlook for inflation and the Federal Reserve’s path for interest rates.",
-   "url": "https://www.moneycontrol.com/news/business/markets/commodity-corner-oil-prices-edge-higher-on-middle-east-supply-risks-gold-holds-decline-14056240.html",
-   "published_utc": "2026-10-21T02:07:21+00:00"
   }
  ]
 }
