@@ -1,8 +1,16 @@
 {
- "collected_utc": "2026-10-24T05:07:02.052755+00:00",
- "collected_epoch": 1792818422.052755,
+ "collected_utc": "2026-10-24T05:37:02.671130+00:00",
+ "collected_epoch": 1792820222.67113,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "MarketScreener",
+   "title": "US Economy 'Quite Dependent' on AI as Growth Engine, Says Tani Fukui",
+   "summary": "A resurgence in oil prices dragged down stocks and bonds, stoking concerns about inflation just days ahead of the Federal Reserve decision on interest rates.\nThe recent selloff in AI-linked stocks...\n-October 23, 2026 at 01:30 pm EDT\n- MarketScreener",
+   "url": "https://www.marketscreener.com/news/us-economy-quite-dependent-on-ai-as-growth-engine-says-tani-fukui-ce785cdfdd8ff224",
+   "published_utc": "2026-10-23T17:30:37+00:00"
+  },
   {
    "provider": "gnews",
    "source": "NDTV Profit",
@@ -74,14 +82,6 @@
    "summary": "GOLD eased for a fourth session on Wednesday as higher oil prices stoked inflationary concerns, while investors looked ahead to next week's Federal Reserve policy meeting for clues on the future path of interest rates.",
    "url": "https://www.thestar.com.my/business/business-news/2026/10/21/gold-dips-for-fourth-session-as-oil-rally-fans-inflation-concerns",
    "published_utc": "2026-10-21T08:26:00+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "The Economic Times",
-   "title": "Gold prices near Rs 1.47 lakh/10 grams, silver falls by Rs 1,144/kg as traders await Fed rate signals. What lies ahead?",
-   "summary": "Gold prices edged lower while silver fell on MCX as investors awaited the US Federal Reserves upcoming policy decision for clues on interest rates. Traders expect rates to remain unchanged in October, with a possible hike in December. Analysts say dollar strength may cap golds upside, while central bank buying supports longer-term prices.",
-   "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-near-rs-1-47-lakh/10-grams-silver-falls-by-rs-1144/kg-as-traders-await-fed-rate-signals-what-lies-ahead/articleshow/135083841.cms",
-   "published_utc": "2026-10-21T06:10:00+00:00"
   }
  ]
 }
