@@ -1,8 +1,16 @@
 {
- "collected_utc": "2026-10-24T19:37:00.720385+00:00",
- "collected_epoch": 1792870620.720385,
+ "collected_utc": "2026-10-24T20:07:00.814504+00:00",
+ "collected_epoch": 1792872420.814504,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "WTOP",
+   "title": "Inflation, earnings reports and the mood of consumers and the Federal Reserve fill out a busy week",
+   "summary": "NEW YORK (AP) — A key update on inflation and its impact on consumer confidence, economic growth and interest rate policy will fill a busy calendar this week al",
+   "url": "https://wtop.com/national/2026/10/inflation-earnings-reports-and-the-mood-of-consumers-and-the-federal-reserve-fill-out-a-busy-week/",
+   "published_utc": "2026-10-24T08:01:30+00:00"
+  },
   {
    "provider": "gnews",
    "source": "The Economic Times",
@@ -74,14 +82,6 @@
    "summary": "Market Updates News CommentaryCHICAGO, Oct. 21, 2026 /CNW/ -- The Federal Reserve's next interest rate decision is one week away, and the record of its",
    "url": "https://www.brantfordexpositor.ca/press-releases/pr-newswire/with-a-fed-decision-a-week-away-lenders-show-how-borrowers-are-handling-higher-rates/",
    "published_utc": "2026-10-21T13:42:00+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "The North Bay Nugget",
-   "title": "With a Fed Decision a Week Away, Lenders Show How Borrowers Are Handling Higher Rates",
-   "summary": "Market Updates News CommentaryCHICAGO, Oct. 21, 2026 /CNW/ -- The Federal Reserve's next interest rate decision is one week away, and the record of its",
-   "url": "https://www.nugget.ca/press-releases/pr-newswire/with-a-fed-decision-a-week-away-lenders-show-how-borrowers-are-handling-higher-rates/",
-   "published_utc": "2026-10-21T13:41:36+00:00"
   }
  ]
 }
