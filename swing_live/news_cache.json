@@ -1,8 +1,24 @@
 {
- "collected_utc": "2026-10-25T13:37:00.864452+00:00",
- "collected_epoch": 1792935420.864452,
+ "collected_utc": "2026-10-25T14:07:00.811121+00:00",
+ "collected_epoch": 1792937220.811121,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "Bnn Bloomberg",
+   "title": "Fed expected to hold rates steady days ahead of U.S. midterms",
+   "summary": "The U.S. Federal Reserve appears set to hold interest rates steady at its meeting next week, analysts say, despite stubbornly high inflation and with markets pricing in at least one rate hike before year-end.",
+   "url": "https://www.bnnbloomberg.ca/business/economics/2026/10/25/fed-expected-to-hold-rates-steady-days-ahead-of-us-midterms/",
+   "published_utc": "2026-10-25T01:43:45+00:00"
+  },
+  {
+   "provider": "gnews",
+   "source": "The Economic Times",
+   "title": "Fed expected to hold rates steady days ahead of US midterms",
+   "summary": "The US Federal Reserve appears set to hold interest rates steady at its meeting next week, analysts say, despite stubbornly high inflation and with markets pricing in at least one rate hike before year-end. The Fed has missed its long-term two-percent target for inflation for more than five years, and at its last meeting in September the FOMC voted to raise the key federal funds rate for the first time in three years, lifting the target range to 3.75 percent to 4.0 percent.",
+   "url": "https://economictimes.indiatimes.com/news/international/world-news/fed-expected-to-hold-rates-steady-days-ahead-of-us-midterms/articleshow/135181448.cms",
+   "published_utc": "2026-10-25T01:41:00+00:00"
+  },
   {
    "provider": "gnews",
    "source": "WTOP",
@@ -66,22 +82,6 @@
    "summary": "Gold prices saw a decline as investors shift attention to the looming Federal Reserve policy meeting regarding interest rates. Spot gold prices dipped to $4,115.50 per ounce, with US gold futures for December slipping to $4,132.30. Analysts anticipate potential rate hikes in the coming months, particularly in December, where the likelihood stands at 90%. Other precious metals like silver and platinum also noted price drops.",
    "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-eases-as-investors-await-fed-signals-on-rate-path/articleshow/135104186.cms",
    "published_utc": "2026-10-22T01:59:00+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "Livemint",
-   "title": "Gold Edges Lower as Traders Weigh Middle East Signals, Fed Rate Path",
-   "summary": "Gold dipped as a flareup in Middle East hostilities raised inflation risks, even as the Federal Reserve is still expected to keep interest rates steady in the near term.",
-   "url": "https://www.livemint.com/market/gold-edges-lower-as-traders-weigh-middle-east-signals-fed-rate-path-11792628633738.html",
-   "published_utc": "2026-10-22T00:23:53+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "The Expositor",
-   "title": "With a Fed Decision a Week Away, Lenders Show How Borrowers Are Handling Higher Rates",
-   "summary": "Market Updates News CommentaryCHICAGO, Oct. 21, 2026 /CNW/ -- The Federal Reserve's next interest rate decision is one week away, and the record of its",
-   "url": "https://www.brantfordexpositor.ca/press-releases/pr-newswire/with-a-fed-decision-a-week-away-lenders-show-how-borrowers-are-handling-higher-rates/",
-   "published_utc": "2026-10-21T13:42:00+00:00"
   }
  ]
 }
