@@ -1,8 +1,16 @@
 {
- "collected_utc": "2026-10-25T15:07:00.824917+00:00",
- "collected_epoch": 1792940820.824917,
+ "collected_utc": "2026-10-25T15:37:00.813596+00:00",
+ "collected_epoch": 1792942620.813596,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "Malay Mail",
+   "title": "Despite Trump pressure, Fed likely to hold interest rates steady ahead of US midterms",
+   "summary": "WASHINGTON, Oct 25 — The US Federal Reserve appears set to hold interest rates steady at its meeting next week, analysts say, despite stubbornly high inflation and with markets...",
+   "url": "https://www.malaymail.com/news/money/2026/10/25/despite-trump-pressure-fed-likely-to-hold-interest-rates-steady-ahead-of-us-midterms/240508",
+   "published_utc": "2026-10-25T03:25:43+00:00"
+  },
   {
    "provider": "gnews",
    "source": "Breitbart News Network",
@@ -74,14 +82,6 @@
    "summary": "Gold and silver prices fall on the MCX as rising oil prices fuel inflation concerns and expectations of higher interest rates for longer. Investors track the US Federal Reserve meeting, dollar movements and geopolitical tensions for cues on precious metals.",
    "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-price-falls-rs-1500/10g-silver-plunges-rs-7000/kg-as-soaring-oil-fuels-rate-hike-bets-time-to-sell/articleshow/135135987.cms",
    "published_utc": "2026-10-23T05:39:00+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "The Hindu Business Line",
-   "title": "India's interest rate gap with G7 in focus as RBI weighs inflation risks: Report",
-   "summary": "The report highlighted the importance of maintaining a certain difference between Indian and G7 interest rates to attract foreign debt capital, particularly as the US Federal Reserve is expected to continue its rate-hiking cycle",
-   "url": "https://www.thehindubusinessline.com/economy/indias-interest-rate-gap-with-g7-in-focus-as-rbi-weighs-inflation-risks-report/article71610776.ece",
-   "published_utc": "2026-10-22T09:24:37+00:00"
   }
  ]
 }
