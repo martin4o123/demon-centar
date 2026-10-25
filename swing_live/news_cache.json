@@ -1,8 +1,24 @@
 {
- "collected_utc": "2026-10-25T14:07:00.811121+00:00",
- "collected_epoch": 1792937220.811121,
+ "collected_utc": "2026-10-25T14:37:00.795355+00:00",
+ "collected_epoch": 1792939020.795355,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "Breitbart News Network",
+   "title": "Fed expected to hold rates steady days ahead of US midterms",
+   "summary": "The US Federal Reserve appears set to hold interest rates steady at its meeting next week, analysts say, despite stubbornly high inflation and with",
+   "url": "https://www.breitbart.com/news/fed-expected-to-hold-rates-steady-days-ahead-of-us-midterms/",
+   "published_utc": "2026-10-25T02:30:34+00:00"
+  },
+  {
+   "provider": "gnews",
+   "source": "Times of India",
+   "title": "US Fed expected to hold rates as inflation, energy costs weigh ahead of midterms",
+   "summary": "The US Federal Reserve is widely expected to keep interest rates unchanged at its meeting next week, despite persistent inflation and market expectations",
+   "url": "https://timesofindia.indiatimes.com/business/international-business/us-fed-expected-to-hold-rates-as-inflation-energy-costs-weigh-ahead-of-midterms/articleshow/135181691.cms",
+   "published_utc": "2026-10-25T02:28:00+00:00"
+  },
   {
    "provider": "gnews",
    "source": "Bnn Bloomberg",
@@ -66,22 +82,6 @@
    "summary": "The report highlighted the importance of maintaining a certain difference between Indian and G7 interest rates to attract foreign debt capital, particularly as the US Federal Reserve is expected to continue its rate-hiking cycle",
    "url": "https://www.thehindubusinessline.com/economy/indias-interest-rate-gap-with-g7-in-focus-as-rbi-weighs-inflation-risks-report/article71610776.ece",
    "published_utc": "2026-10-22T09:24:37+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "Reuters",
-   "title": "Gold drops over 1% as oil rally reinforces higher-for-longer rate outlook",
-   "summary": "Gold fell more ‌than 1% on Thursday as rising oil prices stoked inflation concerns and reinforced expectations that interest rates could stay higher for longer, while investors awaited next week's Federal Reserve meeting for clues ​on the policy outlook.",
-   "url": "https://www.reuters.com/world/india/gold-drops-over-1-oil-rally-reinforces-higher-for-longer-rate-outlook-2026-10-22/",
-   "published_utc": "2026-10-22T04:03:11+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "The Economic Times",
-   "title": "Gold eases as investors await Fed signals on rate path",
-   "summary": "Gold prices saw a decline as investors shift attention to the looming Federal Reserve policy meeting regarding interest rates. Spot gold prices dipped to $4,115.50 per ounce, with US gold futures for December slipping to $4,132.30. Analysts anticipate potential rate hikes in the coming months, particularly in December, where the likelihood stands at 90%. Other precious metals like silver and platinum also noted price drops.",
-   "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-eases-as-investors-await-fed-signals-on-rate-path/articleshow/135104186.cms",
-   "published_utc": "2026-10-22T01:59:00+00:00"
   }
  ]
 }
