@@ -1,8 +1,16 @@
 {
- "collected_utc": "2026-10-26T00:37:00.743676+00:00",
- "collected_epoch": 1792975020.743676,
+ "collected_utc": "2026-10-26T01:07:00.861834+00:00",
+ "collected_epoch": 1792976820.861834,
  "cached": false,
  "items": [
+  {
+   "provider": "gnews",
+   "source": "CNBC TV18",
+   "title": "Gold, silver face another test as oil surge puts Fed's policy decision in focus: Analysts",
+   "summary": "The precious metals, already battered by elevated bond yields and a stronger dollar, will look to the Federal Reserve's October 27-28 meeting and its chair's commentary for signals on whether interest rates could stay higher for longer.",
+   "url": "https://www.cnbctv18.com/world/gold-silver-face-another-test-as-oil-surge-puts-feds-policy-decision-in-focus-analysts-20018800.htm",
+   "published_utc": "2026-10-25T12:59:20+00:00"
+  },
   {
    "provider": "gnews",
    "source": "Malay Mail",
@@ -74,14 +82,6 @@
    "summary": "Gold prices have come under pressure as rising oil prices have revived concerns that persistent inflation could prompt the US Federal Reserve to keep interest rates higher for longer. This has reduced the appeal for non interest-bearing gold.",
    "url": "https://www.ndtvprofit.com/markets/gold-loses-shine-yellow-metal-prices-crash-by-rs-9-700-in-just-10-days-fall-below-rs-1-42-000-12224096",
    "published_utc": "2026-10-23T07:06:25+00:00"
-  },
-  {
-   "provider": "gnews",
-   "source": "The Economic Times",
-   "title": "Gold price falls Rs 1,500/10g; silver plunges Rs 7,000/kg as soaring oil fuels rate hike bets. Time to sell?",
-   "summary": "Gold and silver prices fall on the MCX as rising oil prices fuel inflation concerns and expectations of higher interest rates for longer. Investors track the US Federal Reserve meeting, dollar movements and geopolitical tensions for cues on precious metals.",
-   "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-price-falls-rs-1500/10g-silver-plunges-rs-7000/kg-as-soaring-oil-fuels-rate-hike-bets-time-to-sell/articleshow/135135987.cms",
-   "published_utc": "2026-10-23T05:39:00+00:00"
   }
  ]
 }
